@@ -85,7 +85,7 @@ x="72"
 y="638" 
 textLength="177" 
 class="s2_4"
->"It is a fairly rare ex-</text>
+>“It is a fairly rare ex-</text>
 
 <text 
 x="72" 
@@ -498,7 +498,7 @@ x="72"
 y="1578" 
 textLength="177" 
 class="s2_4"
->of this great work."</text>
+>of this great work.”</text>
 
 <text 
 x="72" 
@@ -589,7 +589,7 @@ x="1076"
 y="396" 
 textLength="113" 
 class="s1_4"
->"Excellent"</text>
+>“Excellent”</text>
 
 <text 
 x="1048" 
@@ -750,7 +750,7 @@ x="1084"
 y="694" 
 textLength="83" 
 class="s2_4"
->"Excellent</text>
+>“Excellent</text>
 
 <text 
 x="1183" 
@@ -876,7 +876,7 @@ x="1048"
 y="855" 
 textLength="170" 
 class="s2_4"
->ons)" and that "This</text>
+>ons)” and that “This</text>
 
 <text 
 x="1048" 
@@ -953,21 +953,14 @@ x="1048"
 y="1015" 
 textLength="170" 
 class="s2_4"
->use over a long ti-</text>
+>use over a long time</text>
 
 <text 
 x="1048" 
 y="1038" 
-textLength="26" 
+textLength="48" 
 class="s2_4"
->me</text>
-
-<text 
-x="1168" 
-y="1038" 
-textLength="49" 
-class="s2_4"
->span."</text>
+>span.”</text>
 
 <text 
 x="1068" 
@@ -1792,18 +1785,11 @@ class="s2_4"
 
 <a xlink:href="http://lab.kbresearch.nl/static/html/eunews.html" target="_blank">
 <text 
-x="507" 
-y="1710" 
-textLength="143" 
-class="s4_4"
->http://lab.kbrese-</text>
-
-<text 
 x="277" 
 y="1732" 
-textLength="269" 
+textLength="372" 
 class="s4_4"
->arch.nl/static/html/eunews.html.</text>
+>http://lab.kbresearch.nl/static/html/eunews.html.</text>
 </a>
 
 <text 
@@ -1908,14 +1894,14 @@ class="s2_4"
 
 <text 
 x="677" 
-y="793" 
+y="816" 
 textLength="341" 
 class="s2_4"
 >You can watch the full 18-minute movie</text>
 
 <text 
 x="677" 
-y="816" 
+y="839" 
 textLength="341" 
 class="s2_4"
 >(with subtitles in multiple languages) on</text>
@@ -1923,25 +1909,11 @@ class="s2_4"
 <a xlink:href="https://www.youtube.com/watch?v=AZ77LvCbFr8" target="_blank">
 <text 
 x="677" 
-y="839" 
+y="862" 
 textLength="78" 
 class="s4_4"
 >Youtube.</text>
 </a>
-
-<!--<text 
-x="863" 
-y="839" 
-textLength="156" 
-class="s4_4"
->https://www.youtu-</text>
-
-<text 
-x="677" 
-y="862" 
-textLength="272" 
-class="s4_4"
->be.com/watch?v=AZ77LvCbFr8</text>-->
 
 <text 
 x="790" 
@@ -1966,7 +1938,7 @@ class="s2_4"
 
 <text 
 x="677" 
-y="1205" 
+y="1228" 
 textLength="15" 
 class="s2_4"
 >1.</text>
@@ -1974,21 +1946,21 @@ class="s2_4"
 <a xlink:href="http://www.europeana-newspapers.eu/focus-on-newspaper-refinement-quality-assessment-in-belgrade/" target="_blank">
 <text 
 x="732" 
-y="1205" 
+y="1228" 
 textLength="286" 
 class="s4_4"
 >Workshop on “Refinement and</text>
 
 <text 
 x="732" 
-y="1228" 
+y="1251" 
 textLength="62" 
 class="s4_4"
 >Quality</text>
 
 <text 
 x="825" 
-y="1228" 
+y="1251" 
 textLength="111" 
 class="s4_4"
 >Assessment”,</text>
@@ -1996,40 +1968,31 @@ class="s4_4"
 
 <text 
 x="732" 
-y="1251" 
+y="1274" 
 textLength="80" 
 class="s2_4"
 >June 2013,</text>
 
 <text 
 x="822" 
-y="1251" 
+y="1274" 
 textLength="80" 
 class="s2_4"
 >Belgrade,</text>
 
 <text 
 x="918" 
-y="1251" 
+y="1274" 
 textLength="53" 
 class="s2_4"
 >Serbia</text>
 
 <text 
 x="971" 
-y="1251" 
+y="1274" 
 textLength="5" 
 class="s5_4"
->,</text>
-
-<a xlink:href="https://enworkshopbelgrade.wordpress.com/" target="_blank">
-<text 
-x="732" 
-y="1274" 
-textLength="286" 
-class="s4_4"
->enworkshopbelgrade.wordpress.com</text>
-</a>
+>.</text>
 
 <text 
 x="677" 
@@ -2038,77 +2001,42 @@ textLength="15"
 class="s2_4"
 >2.</text>
 
+<a xlink:href="http://www.europeana-newspapers.eu/amsterdam-workshop-report/" target="_blank">
 <text 
 x="732" 
 y="1320" 
 textLength="286" 
-class="s2_4"
+class="s4_4"
 >Workshop on “Aggregation and</text>
 
 <text 
-x="677" 
+x="732" 
 y="1343" 
 textLength="114" 
-class="s2_4"
+class="s4_4"
 >Presentation”</text>
+</a>
 
 <text 
-x="791" 
+x="846" 
 y="1343" 
 textLength="5" 
 class="s5_4"
 >,</text>
 
 <text 
-x="803" 
-y="1343" 
-textLength="216" 
+x="732" 
+y="1366" 
+textLength="266" 
 class="s2_4"
->September 2013 in Ams-</text>
+>September 2013, Amsterdam,</text>
 
 <text 
-x="677" 
-y="1366" 
-textLength="65" 
-class="s2_4"
->terdam,</text>
-
-<text 
-x="756" 
-y="1366" 
-textLength="103" 
+x="732" 
+y="1389" 
+textLength="106" 
 class="s2_4"
 >Netherlands</text>
-
-<text 
-x="860" 
-y="1366" 
-textLength="5" 
-class="s5_4"
->,</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/amsterdam-workshop-report/" target="_blank">
-<text 
-x="879" 
-y="1366" 
-textLength="140" 
-class="s4_4"
->http://www.euro-</text>
-
-<text 
-x="677" 
-y="1389" 
-textLength="334" 
-class="s4_4"
->peana-newspapers.eu/amsterdam-works</text>
-
-<text 
-x="677" 
-y="1412" 
-textLength="97" 
-class="s4_4"
->hop-report/</text>
-</a>
 
 <text 
 x="677" 
@@ -2117,91 +2045,49 @@ textLength="15"
 class="s2_4"
 >3.</text>
 
+<a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/Roadmap_for_Improving_Access_to_Newspapers_final.pdf" target="_blank">
 <text 
 x="732" 
 y="1435" 
-textLength="42" 
-class="s2_4"
->Final</text>
+textLength="122" 
+class="s4_4"
+>Workshop on</text>
 
 <text 
-x="791" 
+x="858" 
 y="1435" 
-textLength="92" 
-class="s2_4"
->Workshop</text>
+textLength="158" 
+class="s4_4"
+>“Newspapers in</text>
 
 <text 
-x="900" 
-y="1435" 
-textLength="22" 
-class="s2_4"
->on</text>
-
-<text 
-x="938" 
-y="1435" 
-textLength="80" 
-class="s2_4"
->“Newspa-</text>
-
-<text 
-x="677" 
+x="732" 
 y="1458" 
-textLength="341" 
-class="s2_4"
->pers in Europe and the Digital Agenda</text>
-
-<text 
-x="677" 
-y="1480" 
-textLength="341" 
-class="s2_4"
->for Europe”, September 2014 in Lon-</text>
-
-<text 
-x="677" 
-y="1503" 
-textLength="203" 
-class="s2_4"
->don, United Kingdom</text>
-
-<text 
-x="881" 
-y="1503" 
-textLength="5" 
-class="s5_4"
->,</text>
-
-<a xlink:href="http://britishlibrary.typepad.co.uk/thenewsroom/2014/07/newspapers-in-europe-and-the-digital-agenda-for-europe.html" target="_blank">
-<text 
-x="899" 
-y="1503" 
-textLength="120" 
+textLength="282" 
 class="s4_4"
->http://britishli-</text>
-
-<text 
-x="677" 
-y="1526" 
-textLength="337" 
-class="s4_4"
->brary.typepad.co.uk/thenewsroom/2014</text>
-
-<text 
-x="677" 
-y="1549" 
-textLength="327" 
-class="s4_4"
->/07/newspapers-in-europe-and-the-digi-</text>
-
-<text 
-x="677" 
-y="1572" 
-textLength="223" 
-class="s4_4"
->tal-agenda-for-europe.html</text>
+>Europe and the Digital Agenda for</text>
 </a>
+
+<text 
+x="732" 
+y="1480" 
+textLength="92" 
+class="s4_4"
+>for Europe”</text>
+
+<text 
+x="732" 
+y="1503" 
+textLength="233" 
+class="s2_4"
+>September 2013, London,</text>
+
+<text 
+x="732" 
+y="1526" 
+textLength="141" 
+class="s2_4"
+>United Kingdom</text>
 
 <text 
 x="677" 
@@ -2222,42 +2108,35 @@ x="677"
 y="1641" 
 textLength="341" 
 class="s2_4"
->organised by participants in their coun-</text>
+>organised by participants in their own</text>
 
 <text 
 x="677" 
 y="1664" 
 textLength="341" 
 class="s2_4"
->try and local language, to make sure the</text>
+>country and local language, to make sure the</text>
 
 <text 
 x="677" 
 y="1687" 
 textLength="341" 
 class="s2_4"
->project and its activities are well embed-</text>
+>project and its activities are well embedded</text>
 
 <text 
 x="677" 
 y="1710" 
 textLength="341" 
 class="s2_4"
->ded in the national newspaper and digi-</text>
+>in the various national newspaper and</text>
 
 <text 
 x="677" 
 y="1733" 
-textLength="60" 
+textLength="218"
 class="s2_4"
->tisation</text>
-
-<text 
-x="904" 
-y="1733" 
-textLength="109" 
-class="s2_4"
->communities</text>
+>digitisation communities.</text>
 
 <text 
 x="1014" 
