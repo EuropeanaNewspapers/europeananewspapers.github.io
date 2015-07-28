@@ -70,7 +70,7 @@ L0,1818
 L1286,1818
 L1286,0 Z " 
 fill="#FFFFFF" stroke="none" />
-<image x="0" y="0" width="1284" height="1819" xlink:href="1/img/1.png" />
+<image x="0" y="0" width="1284" height="1819" xlink:href="assets/img/1.png" />
 <text 
 x="292" 
 y="106" 
@@ -79,8 +79,8 @@ class="s1_1"
 >EUROPEANA NEWSPAPERS</text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
-<image x="64" y="69" width="199" height="284" xlink:href="1/img/2.png" /></a>
-<image x="1038" y="69" width="182" height="119" xlink:href="1/img/3.png" />
+<image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>
+<image x="1038" y="69" width="182" height="119" xlink:href="assets/img/3.png" />
 <text 
 x="68" 
 y="387" 
@@ -2660,7 +2660,7 @@ class="s3_1"
 >Facts &amp; Figures on page 3.</text>
 
 <path d="M777,712l233,0l0,489l-233,0l0,-489Z" class="g1_1" />
-<image x="1055" y="184" width="137" height="97" xlink:href="1/img/4.png" />
+<image x="1055" y="184" width="137" height="97" xlink:href="assets/img/4.png" />
 <text 
 x="1146" 
 y="1793" 
@@ -2752,10 +2752,10 @@ class="s3_1"
 >).</text>
 
 <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
-<image x="337" y="1525" width="192" height="128" xlink:href="1/img/5.png" /></a>
-<image x="272" y="250" width="746" height="391" xlink:href="1/img/6.png" />
+<image x="337" y="1525" width="192" height="128" xlink:href="assets/img/5.png" /></a>
+<image x="272" y="250" width="746" height="391" xlink:href="assets/img/6.png" />
 <a xlink:href="http://www.europeana-newspapers.eu/public-materials/tools/" target="_blank">
-<image x="1038" y="774" width="177" height="118" xlink:href="1/img/7.png" />
+<image x="1038" y="774" width="177" height="118" xlink:href="assets/img/7.png" />
 </a>
 
 <path d="M0,1818
@@ -2773,15 +2773,15 @@ stroke="#000000" />
 
 @font-face {
 	font-family: BaskOldFace1;
-	src :url("1/fonts/BaskOldFace.woff") format("woff");
+	src :url("assets/fonts/BaskOldFace.woff") format("woff");
 }
 
 @font-face {
 	font-family: ArialMT1;
-	src :url("1/fonts/ArialMT.woff") format("woff");
+	src :url("assets/fonts/ArialMT.woff") format("woff");
 }
 
 ]]></style>
 
-<title>ENP_2 Page1</title>
+<title>Europeana Newspapers: Final Report, Page 1</title>
 </svg>

@@ -64,8 +64,8 @@ L0,1818
 L1286,1818
 L1286,0 Z " 
 fill="#FFFFFF" stroke="none" />
-<image x="0" y="0" width="1285" height="1819" xlink:href="4/img/1.png" />
-<image x="78" y="421" width="168" height="180" xlink:href="4/img/2.png" />
+<image x="0" y="0" width="1285" height="1819" xlink:href="assets/img/1.png" />
+<image x="78" y="421" width="168" height="180" xlink:href="assets/img/22.png" />
 <text 
 x="92" 
 y="386" 
@@ -2339,8 +2339,8 @@ class="s7_4"
 >Background stories</text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
-<image x="64" y="69" width="199" height="284" xlink:href="4/img/3.png" /></a>
-<image x="1038" y="69" width="182" height="119" xlink:href="4/img/4.png" />
+<image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>
+<image x="1038" y="69" width="182" height="119" xlink:href="assets/img/3.png" />
 <text 
 x="1051" 
 y="309" 
@@ -2348,7 +2348,7 @@ textLength="151"
 class="s7_4"
 >31 July 2015</text>
 
-<image x="1055" y="184" width="137" height="97" xlink:href="4/img/5.png" />
+<image x="1055" y="184" width="137" height="97" xlink:href="assets/img/4.png" />
 <text 
 x="267" 
 y="181" 
@@ -2433,11 +2433,11 @@ class="s7_4"
 >Page 4</text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/digital-newspapers-illustration/" target="_blank">
-<image x="679" y="941" width="340" height="195" xlink:href="4/img/6.png" /></a>
+<image x="679" y="941" width="340" height="195" xlink:href="assets/img/19.png" /></a>
 <a xlink:href="http://www.europeana-newspapers.eu/named-entity-recognition-for-digitised-newspapers/" target="_blank">
-<image x="279" y="1355" width="370" height="165" xlink:href="4/img/7.png" /></a>
+<image x="279" y="1355" width="370" height="165" xlink:href="assets/img/20.png" /></a>
 <a xlink:href="https://www.youtube.com/watch?v=AZ77LvCbFr8" target="_blank">
-<image x="678" y="333" width="338" height="206" xlink:href="4/img/8.png" />
+<image x="678" y="333" width="338" height="206" xlink:href="assets/img/21.png" />
 </a>
 
 <path d="M0,1818
@@ -2455,15 +2455,15 @@ stroke="#000000" />
 
 @font-face {
 	font-family: BaskOldFace4;
-	src :url("4/fonts/BaskOldFace.woff") format("woff");
+	src :url("assets/fonts/BaskOldFace.woff") format("woff");
 }
 
 @font-face {
 	font-family: ArialMT4;
-	src :url("4/fonts/ArialMT.woff") format("woff");
+	src :url("assets/fonts/ArialMT.woff") format("woff");
 }
 
 ]]></style>
 
-<title>ENP_2 Page4</title>
+<title>Europeana Newspapers: Final Report, Page 4</title>
 </svg>

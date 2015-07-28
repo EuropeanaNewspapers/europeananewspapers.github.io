@@ -58,7 +58,7 @@ L0,1818
 L1286,1818
 L1286,0 Z " 
 fill="#FFFFFF" stroke="none" />
-<image x="0" y="0" width="1285" height="1819" xlink:href="2/img/1.png" />
+<image x="0" y="0" width="1285" height="1819" xlink:href="assets/img/1.png" />
 <text 
 x="90" 
 y="386" 
@@ -2141,8 +2141,8 @@ class="s6_2"
 >Outcomes and achievements</text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
-<image x="64" y="69" width="199" height="284" xlink:href="2/img/2.png" /></a>
-<image x="1038" y="69" width="182" height="119" xlink:href="2/img/3.png" />
+<image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>
+<image x="1038" y="69" width="182" height="119" xlink:href="assets/img/3.png" />
 <text 
 x="1051" 
 y="309" 
@@ -2150,7 +2150,7 @@ textLength="151"
 class="s6_2"
 >31 July 2015</text>
 
-<image x="1055" y="184" width="137" height="97" xlink:href="2/img/4.png" />
+<image x="1055" y="184" width="137" height="97" xlink:href="assets/img/4.png" />
 <text 
 x="267" 
 y="181" 
@@ -2235,19 +2235,18 @@ class="s6_2"
 >Page 2</text>
 
 <a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
-<image x="354" y="921" width="199" height="132" xlink:href="2/img/5.png" /></a>
+<image x="354" y="921" width="199" height="132" xlink:href="assets/img/14.png" /></a>
 <a xlink:href="http://www.europeana.eu/portal/record/9200355/BibliographicResource_3000096302620.html" target="_blank">
-<image x="285" y="1239" width="361" height="497" xlink:href="2/img/6.png" />
-</a>
-<image x="1046" y="873" width="171" height="156" xlink:href="2/img/7.png" />
+<image x="285" y="1239" width="361" height="497" xlink:href="assets/img/13.png" /></a>
+<a xlink:href="https://www.flickr.com/photos/enewspapers/9816062224/" target="_blank">
+<image x="1046" y="873" width="171" height="156" xlink:href="assets/img/12.png" /></a>
 <a xlink:href="http://europeana.eu/portal/record/9200300/BibliographicResource_3000095593453.html" target="_blank">
-<image x="283" y="550" width="366" height="251" xlink:href="2/img/8.png" />
-</a>
-<image x="67" y="1220" width="191" height="288" xlink:href="2/img/9.png" />
+<image x="283" y="550" width="366" height="251" xlink:href="assets/img/8.png" /></a>
+<image x="67" y="1220" width="191" height="288" xlink:href="assets/img/9.png" />
 <a xlink:href="http://www.europeana-newspapers.eu/building-a-content-browser-for-digital-newspapers/" target="_blank">
-<image x="678" y="919" width="342" height="167" xlink:href="2/img/10.png" /></a>
+<image x="678" y="919" width="342" height="167" xlink:href="assets/img/10.png" /></a>
 <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
-<image x="678" y="1468" width="342" height="221" xlink:href="2/img/11.png" /></a>
+<image x="678" y="1468" width="342" height="221" xlink:href="assets/img/11.png" /></a>
 
 <path d="M0,1818
 L0,0
@@ -2264,15 +2263,15 @@ stroke="#000000" />
 
 @font-face {
 	font-family: BaskOldFace2;
-	src :url("2/fonts/BaskOldFace.woff") format("woff");
+	src :url("assets/fonts/BaskOldFace.woff") format("woff");
 }
 
 @font-face {
 	font-family: ArialMT2;
-	src :url("2/fonts/ArialMT.woff") format("woff");
+	src :url("assets/fonts/ArialMT.woff") format("woff");
 }
 
 ]]></style>
 
-<title>ENP_2 Page2</title>
+<title>Europeana Newspapers: Final Report, Page 2</title>
 </svg>
