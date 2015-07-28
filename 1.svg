@@ -80,7 +80,8 @@ class="s1_1"
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
 <image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>
-<image x="1038" y="69" width="182" height="119" xlink:href="assets/img/3.png" />
+<a xlink:href="http://ec.europa.eu/cip/ict-psp/index_en.htm" target="_blank">
+<image x="1038" y="69" width="182" height="119" xlink:href="assets/img/3.png" /></a>
 <text 
 x="68" 
 y="387" 
@@ -2660,7 +2661,8 @@ class="s3_1"
 >Facts &amp; Figures on page 3.</text>
 
 <path d="M777,712l233,0l0,489l-233,0l0,-489Z" class="g1_1" />
-<image x="1055" y="184" width="137" height="97" xlink:href="assets/img/4.png" />
+<a xlink:href="http://ec.europa.eu/" target="_blank">
+<image x="1055" y="184" width="137" height="97" xlink:href="assets/img/4.png" /></a>
 <text 
 x="1146" 
 y="1793" 

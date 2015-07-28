@@ -2340,7 +2340,8 @@ class="s7_4"
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
 <image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>
-<image x="1038" y="69" width="182" height="119" xlink:href="assets/img/3.png" />
+<a xlink:href="http://ec.europa.eu/cip/ict-psp/index_en.htm" target="_blank">
+<image x="1038" y="69" width="182" height="119" xlink:href="assets/img/3.png" /></a>
 <text 
 x="1051" 
 y="309" 
@@ -2348,7 +2349,8 @@ textLength="151"
 class="s7_4"
 >31 July 2015</text>
 
-<image x="1055" y="184" width="137" height="97" xlink:href="assets/img/4.png" />
+<a xlink:href="http://ec.europa.eu/" target="_blank">
+<image x="1055" y="184" width="137" height="97" xlink:href="assets/img/4.png" /></a>
 <text 
 x="267" 
 y="181" 

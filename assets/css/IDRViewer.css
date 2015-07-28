@@ -3,7 +3,7 @@ body:-webkit-full-screen {
     height: 100%;
 }
 body::-ms-backdrop {
-    background:url('assets/bg.png') repeat scroll 0 0 transparent;
+    background:url('../img/bg.png') repeat scroll 0 0 transparent;
 }
 body {
     margin:0;
@@ -22,7 +22,7 @@ body {
     z-index: 5;
 }
 #leftNav {
-    background:url('assets.png') repeat scroll 0 -24px transparent; /* Background pattern courtesy of http://subtlepatterns.com/mocha-grunge/ */
+    background:url('../img/assets.png') repeat scroll 0 -24px transparent; /* Background pattern courtesy of http://subtlepatterns.com/mocha-grunge/ */
     display: none;
     padding-top: 7px;
     padding-left: 5px;
@@ -51,7 +51,7 @@ body {
     position: absolute;
 }
 #mainNav {
-    background:url('assets.png') repeat scroll 0 -24px transparent; /* Background pattern courtesy of http://subtlepatterns.com/mocha-grunge/ */
+    background:url('../img/assets.png') repeat scroll 0 -24px transparent; /* Background pattern courtesy of http://subtlepatterns.com/mocha-grunge/ */
     padding-top: 7px;
     text-align: center;
     height: 32px;
@@ -85,7 +85,7 @@ body {
     right: 40px;
 }
 .navBtn {
-    background: url('assets.png');
+    background: url('../img/assets.png');
     display: inline-block;
     border: 1px solid white;
     border-radius: 5px;
