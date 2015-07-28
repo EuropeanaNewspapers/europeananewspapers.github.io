@@ -2434,9 +2434,12 @@ class="s7_4"
 <image x="679" y="941" width="340" height="195" xlink:href="assets/img/19.png" /></a>
 <a xlink:href="http://www.europeana-newspapers.eu/named-entity-recognition-for-digitised-newspapers/" target="_blank">
 <image x="279" y="1355" width="370" height="165" xlink:href="assets/img/20.png" /></a>
-<a xlink:href="https://www.youtube.com/watch?v=AZ77LvCbFr8" target="_blank">
-<image x="678" y="333" width="338" height="206" xlink:href="assets/img/21.png" />
-</a>
+<foreignObject x="678" y="333" width="338" height="206">
+  <iframe xmlns="http://www.w3.org/1999/xhtml"
+    width="338" height="206"
+    src="https://www.youtube.com/embed/AZ77LvCbFr8"
+    frameborder="0"></iframe>
+</foreignObject>
 
 <path d="M0,1818
 L0,0
