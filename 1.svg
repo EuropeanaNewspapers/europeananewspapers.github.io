@@ -2406,7 +2406,8 @@ class="s3_1"
 
 <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
 <image x="337" y="1525" width="192" height="128" xlink:href="assets/img/5.png" /></a>
-<image x="272" y="250" width="746" height="391" xlink:href="assets/img/6.png" />
+<a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
+<image x="272" y="250" width="746" height="391" xlink:href="assets/img/6.png" /></a>
 <a xlink:href="http://www.europeana-newspapers.eu/public-materials/tools/" target="_blank">
 <image x="1038" y="774" width="177" height="118" xlink:href="assets/img/7.png" />
 </a>

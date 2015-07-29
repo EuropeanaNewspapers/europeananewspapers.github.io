@@ -65,7 +65,8 @@ L1286,1818
 L1286,0 Z " 
 fill="#FFFFFF" stroke="none" />
 <image x="0" y="0" width="1285" height="1819" xlink:href="assets/img/1.png" />
-<image x="78" y="421" width="168" height="180" xlink:href="assets/img/22.png" />
+<a xlink:href="https://www.flickr.com/photos/enewspapers/" target="_blank">
+<image x="78" y="421" width="168" height="180" xlink:href="assets/img/22.png" /></a>
 <text 
 x="92" 
 y="386" 
@@ -504,70 +505,70 @@ class="s2_4"
 x="72" 
 y="1624" 
 textLength="84" 
-class="s3_4"
+class="s2_4"
 >Hans-Jörg</text>
 
 <text 
 x="199" 
 y="1624" 
 textLength="50" 
-class="s3_4"
+class="s2_4"
 >Lieder</text>
 
 <text 
 x="72" 
 y="1647" 
 textLength="177" 
-class="s3_4"
+class="s2_4"
 >from the Berlin State</text>
 
 <text 
 x="72" 
 y="1669" 
 textLength="59" 
-class="s3_4"
+class="s2_4"
 >Library,</text>
 
 <text 
 x="154" 
 y="1669" 
 textLength="95" 
-class="s3_4"
+class="s2_4"
 >Coordinator</text>
 
 <text 
 x="72" 
 y="1692" 
 textLength="15" 
-class="s3_4"
+class="s2_4"
 >of</text>
 
 <text 
 x="111" 
 y="1692" 
 textLength="25" 
-class="s3_4"
+class="s2_4"
 >the</text>
 
 <text 
 x="160" 
 y="1692" 
 textLength="89" 
-class="s3_4"
+class="s2_4"
 >Europeana</text>
 
 <text 
 x="72" 
 y="1715" 
 textLength="101" 
-class="s3_4"
+class="s2_4"
 >Newspapers</text>
 
 <text 
 x="190" 
 y="1715" 
 textLength="60" 
-class="s3_4"
+class="s2_4"
 >project.</text>
 
 <text 
@@ -1051,14 +1052,14 @@ x="1048"
 y="1405" 
 textLength="170" 
 class="s2_4"
->uses newspapers from</text>
+>will use Europeana</text>
 
 <text 
 x="1048" 
 y="1428" 
 textLength="170" 
 class="s2_4"
->the project in their</text>
+>Newspapers in their</text>
 
 <text 
 x="1048" 
@@ -2028,12 +2029,12 @@ textLength="330"
 class="s7_4"
 >Special Issue - Final Report</text>
 
-<text 
+<!-- <text 
 x="532" 
 y="267" 
 textLength="232" 
 class="s7_4"
->Background stories</text>
+>Background stories</text> -->
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
 <image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>

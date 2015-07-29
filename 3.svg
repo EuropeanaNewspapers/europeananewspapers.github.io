@@ -635,9 +635,30 @@ class="s3_3"
 <text 
 x="152" 
 y="1670" 
-textLength="5" 
+textLength="98" 
 class="s2_3"
->.</text>
+>. Automated</text>
+
+<text 
+x="66" 
+y="1693" 
+textLength="189" 
+class="s2_3"
+>access was implemented</text>
+
+<text 
+x="66" 
+y="1716" 
+textLength="189" 
+class="s2_3"
+>in collaboration with</text>
+
+<text 
+x="66" 
+y="1739" 
+textLength="189" 
+class="s2_3"
+>Succeed and Impact.</text>
 
 <text 
 x="1084" 
@@ -1008,6 +1029,113 @@ class="s3_3"
 </a>
 
 <text 
+x="1084" 
+y="1422" 
+textLength="85" 
+class="s1_3"
+>Quality</text>
+
+<text 
+x="1074" 
+y="1445" 
+textLength="110" 
+class="s1_3"
+>Estimation</text>
+
+<text 
+x="1084" 
+y="1468" 
+textLength="85" 
+class="s1_3"
+>Toolkit</text>
+
+<text 
+x="1047" 
+y="1507" 
+textLength="168" 
+class="s2_3"
+>An approach for esti-</text>
+
+<text 
+x="1047" 
+y="1530" 
+textLength="168" 
+class="s2_3"
+>mating quality of a</text>
+
+<text 
+x="1047" 
+y="1553" 
+textLength="168" 
+class="s2_3"
+>digitisation pipeline</text>
+
+<text 
+x="1047" 
+y="1576" 
+textLength="168" 
+class="s2_3"
+>is introduced. As ex-</text>
+
+<text 
+x="1047" 
+y="1599" 
+textLength="168" 
+class="s2_3"
+>perimental evidence</text>
+
+<text 
+x="1047" 
+y="1622" 
+textLength="168" 
+class="s2_3"
+>shows, the quality of</text>
+
+<text 
+x="1047" 
+y="1645" 
+textLength="168" 
+class="s2_3"
+>digitisation results</text>
+
+<text 
+x="1047" 
+y="1668" 
+textLength="168" 
+class="s2_3"
+>can be predicted with</text>
+
+<text 
+x="1047" 
+y="1691" 
+textLength="168" 
+class="s2_3"
+>reasonable accuracy.</text>
+
+<text 
+x="1047" 
+y="1714" 
+textLength="168" 
+class="s2_3"
+>Find out more about</text>
+
+<a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/D3.6-Planning-resources-and-quality-estimation-toolkit.pdf" target="_blank">
+<text 
+x="1047" 
+y="1736" 
+textLength="148" 
+class="s3_3"
+>quality estimation</text>
+</a>
+
+<text 
+x="1195" 
+y="1736" 
+textLength="168" 
+class="s2_3"
+>.</text>
+
+<text 
 x="312" 
 y="311" 
 textLength="285" 
@@ -1292,7 +1420,7 @@ x="287"
 y="999" 
 textLength="335" 
 class="s2_3"
->process from 14 project partners and</text>
+>processed from 14 project partners and</text>
 
 <text 
 x="287" 
@@ -1581,7 +1709,7 @@ x="651"
 y="517" 
 textLength="363" 
 class="s2_3"
->Trove, "Copyright cliff of Death" - the pro-</text>
+>Trove, "Copyright Cliff of Death" - the pro-</text>
 
 <text 
 x="651" 
@@ -1733,7 +1861,7 @@ class="s2_3"
 <text 
 x="651" 
 y="1089" 
-textLength="177" 
+textLength="197" 
 class="s2_3"
 >newspaper resource.</text>
 
@@ -1752,23 +1880,23 @@ class="s2_3"
 >University of Utrecht stated:</text>
 
 <text 
-x="651" 
+x="671" 
 y="1157" 
-textLength="363" 
+textLength="323" 
 class="s2_3"
->“For the first time in history we have the</text>
+>“For the first time in history we have</text>
 
 <text 
-x="651" 
+x="671" 
 y="1180" 
-textLength="363" 
+textLength="323" 
 class="s2_3"
->opportunity to do transnational</text>
+>the opportunity to do transnational</text>
 
 <text 
-x="651" 
+x="671" 
 y="1203" 
-textLength="203" 
+textLength="193" 
 class="s2_3"
 >comparative research.”</text>
 
@@ -1777,7 +1905,7 @@ x="651"
 y="1460" 
 textLength="363" 
 class="s2_3"
->Another researcher from Madrid, Amélia</text>
+>Another researcher, from Madrid, Amélia</text>
 
 <text 
 x="651" 
@@ -1801,57 +1929,64 @@ class="s2_3"
 >classes with students:</text>
 
 <text 
-x="651" 
+x="671" 
 y="1552" 
-textLength="363" 
+textLength="320" 
 class="s2_3"
->“I proposed to my students  to retrieve, to</text>
+>“I proposed to my students  to retrieve,</text>
 
 <text 
-x="651" 
+x="671" 
 y="1575" 
-textLength="363" 
+textLength="320" 
 class="s2_3"
->analyse and to visualize any references</text>
+>to analyse and to visualize any references</text>
 
 <text 
-x="651" 
+x="671" 
 y="1598" 
-textLength="363" 
+textLength="323" 
 class="s2_3"
 >concerning Madame de Staël in the</text>
 
 <text 
-x="651" 
+x="671" 
 y="1621" 
-textLength="363" 
+textLength="323" 
 class="s2_3"
->Europeana Newspapers collection.”</text>
+>Europeana Newspapers collection</text>
 
 <text 
-x="651" 
+x="671" 
 y="1644" 
-textLength="363" 
+textLength="323" 
 class="s2_3"
->Read all about the various use cases and</text>
+>and Hispanic Digital Newspapers.”</text>
 
 <text 
 x="651" 
 y="1667" 
 textLength="363" 
 class="s2_3"
->opportunities for researchers made</text>
+>Read all about the various use cases and</text>
 
 <text 
 x="651" 
 y="1690" 
 textLength="363" 
 class="s2_3"
->possible through Europeana Newspapers</text>
+>opportunities for researchers made</text>
 
 <text 
 x="651" 
 y="1713" 
+textLength="363" 
+class="s2_3"
+>possible through Europeana Newspapers</text>
+
+<text 
+x="651" 
+y="1736" 
 textLength="44" 
 class="s2_3"
 >in the </text>
@@ -1859,7 +1994,7 @@ class="s2_3"
 <a xlink:href="http://www.europeana-newspapers.eu/category/interviews-with-researchers/" target="_blank">
 <text 
 x="700" 
-y="1713" 
+y="1736" 
 textLength="192" 
 class="s3_3"
 >“Q&amp;A with researchers” </text>
@@ -1867,7 +2002,7 @@ class="s3_3"
 
 <text 
 x="897" 
-y="1713" 
+y="1736" 
 textLength="96" 
 class="s2_3"
 >blog series.</text>
@@ -1886,12 +2021,12 @@ textLength="330"
 class="s8_3"
 >Special Issue - Final Report</text>
 
-<text 
+<!-- <text 
 x="544" 
 y="267" 
 textLength="208" 
 class="s8_3"
->Facts and Figures</text>
+>Facts and Figures</text> -->
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
 <image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>

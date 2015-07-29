@@ -449,7 +449,7 @@ x="65"
 y="1120" 
 textLength="193" 
 class="s2_2"
->2) To provide a com-</text>
+>2) To provide a comp-</text>
 
 <text 
 x="65" 
@@ -461,37 +461,16 @@ class="s2_2"
 <text 
 x="65" 
 y="1166" 
-textLength="72" 
+textLength="193" 
 class="s2_2"
->supports</text>
-
-<text 
-x="164" 
-y="1166" 
-textLength="9" 
-class="s2_2"
->a</text>
-
-<text 
-x="200" 
-y="1166" 
-textLength="58" 
-class="s2_2"
->deeper</text>
+>supports a deeper</text>
 
 <text 
 x="65" 
 y="1188" 
 textLength="193" 
 class="s2_2"
->structuring of newspa-</text>
-
-<text 
-x="65" 
-y="1211" 
-textLength="41" 
-class="s2_2"
->pers.</text>
+>structure in newspapers.</text>
 
 <text 
 x="65" 
@@ -896,25 +875,32 @@ x="1046"
 y="1604" 
 textLength="170" 
 class="s2_2"
->Newspapers corpus</text>
+>Newspapers public</text>
 
 <text 
 x="1046" 
 y="1627" 
 textLength="170" 
 class="s2_2"
->shall be hosted</text>
+>domain full text</text>
 
 <text 
 x="1046" 
 y="1650" 
 textLength="170" 
 class="s2_2"
->in a publicly acces-</text>
+>shall be hosted</text>
 
 <text 
 x="1046" 
 y="1673" 
+textLength="170" 
+class="s2_2"
+>in a publicly acces-</text>
+
+<text 
+x="1046" 
+y="1696" 
 textLength="170" 
 class="s2_2"
 >sible Git repository.</text>
@@ -1751,12 +1737,12 @@ textLength="330"
 class="s6_2"
 >Special Issue - Final Report</text>
 
-<text 
+<!-- <text 
 x="474" 
 y="267" 
 textLength="348" 
 class="s6_2"
->Outcomes and achievements</text>
+>Outcomes and achievements</text> -->
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
 <image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>
