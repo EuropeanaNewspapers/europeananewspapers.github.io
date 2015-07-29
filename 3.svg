@@ -2344,12 +2344,12 @@ x="651"
 y="1112" 
 textLength="220" 
 class="s2_3"
->interviews manifested an</text>
+>interviews manifest an</text>
 
 <text 
-x="896" 
+x="886" 
 y="1112" 
-textLength="118" 
+textLength="128" 
 class="s2_3"
 >overwhelming</text>
 
@@ -2565,75 +2565,68 @@ class="s2_3"
 
 <text 
 x="651" 
-y="1594" 
+y="1617" 
 textLength="363" 
 class="s2_3"
 >Read all about the various use cases and</text>
 
 <text 
 x="651" 
-y="1616" 
+y="1639" 
 textLength="112" 
 class="s2_3"
 >opportunities</text>
 
 <text 
 x="792" 
-y="1616" 
+y="1639" 
 textLength="24" 
 class="s2_3"
 >for</text>
 
 <text 
 x="844" 
-y="1616" 
+y="1639" 
 textLength="95" 
 class="s2_3"
 >researchers</text>
 
 <text 
 x="967" 
-y="1616" 
+y="1639" 
 textLength="47" 
 class="s2_3"
 >made</text>
 
 <text 
 x="651" 
-y="1639" 
+y="1662" 
 textLength="363" 
 class="s2_3"
 >possible through Europeana Newspapers</text>
 
 <text 
 x="651" 
-y="1662" 
-textLength="363" 
+y="1685" 
+textLength="44" 
 class="s2_3"
->in the "Q&amp;A with researchers" blog series:</text>
+>in the </text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/category/interviews-with-researchers/" target="_blank">
 <text 
-x="651" 
+x="700" 
 y="1685" 
-textLength="190" 
+textLength="192" 
 class="s3_3"
->http://www.europeana-</text>
-
-<text 
-x="651" 
-y="1708" 
-textLength="334" 
-class="s3_3"
->newspapers.eu/category/interviews-with-</text>
-
-<text 
-x="651" 
-y="1731" 
-textLength="107" 
-class="s3_3"
->researchers/.</text>
+>“Q&amp;A with researchers” </text>
 </a>
+
+<text 
+x="897" 
+y="1685" 
+textLength="96" 
+class="s2_3"
+>blog series.</text>
 
 <text 
 x="292" 

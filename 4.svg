@@ -2071,9 +2071,25 @@ class="s2_4"
 <text 
 x="677" 
 y="1618" 
-textLength="341" 
+textLength="142" 
 class="s2_4"
->highly successful information days were</text>
+>highly successful </text>
+
+<a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/D6.3.1_Summary_Infodays_final.pdf" target="_blank">
+<text 
+x="828" 
+y="1618" 
+textLength="145" 
+class="s4_4"
+>Information Days</text>
+</a>
+
+<text 
+x="982" 
+y="1618" 
+textLength="42" 
+class="s2_4"
+>were</text>
 
 <text 
 x="677" 

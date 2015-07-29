@@ -790,18 +790,11 @@ class="s3_1"
 >and</text>
 
 <text 
-x="148" 
+x="100" 
 y="1716" 
-textLength="102" 
+textLength="152" 
 class="s3_1"
->Information</text>
-
-<text 
-x="64" 
-y="1739" 
-textLength="47" 
-class="s3_1"
->Days.</text>
+>Information Days.</text>
 
 <text 
 x="1078" 
@@ -1150,49 +1143,35 @@ textLength="204"
 class="s2_1"
 >What is Europeana?</text>
 
+<a xlink:href="http://www.europeana.eu/" target="_blank">
 <text 
 x="959" 
 y="1293" 
 textLength="92" 
-class="s3_1"
->Europeana</text>
-
-<text 
-x="1089" 
-y="1293" 
-textLength="6" 
-class="s3_1"
->(</text>
-
-<a xlink:href="http://www.europeana.eu/" target="_blank">
-<text 
-x="1095" 
-y="1293" 
-textLength="119" 
 class="s4_1"
->www.europea-</text>
+>Europeana</text>
+</a>
+
+<text 
+x="1056" 
+y="1293" 
+textLength="154" 
+class="s3_1"
+>is a multilingual</text>
 
 <text 
 x="959" 
 y="1316" 
-textLength="46" 
-class="s4_1"
->na.eu</text>
-</a>
-
-<text 
-x="1005" 
-y="1316" 
-textLength="209" 
+textLength="252" 
 class="s3_1"
->) is a multilingual web</text>
+>internet portal and metadata</text>
 
 <text 
 x="959" 
 y="1339" 
 textLength="255" 
 class="s3_1"
->portal that provides a single</text>
+>aggregator that provides a single</text>
 
 <text 
 x="959" 
@@ -1220,7 +1199,7 @@ x="959"
 y="1431" 
 textLength="255" 
 class="s3_1"
->more than 40 million digital</text>
+>more than 44 million digital</text>
 
 <text 
 x="959" 
@@ -1367,76 +1346,62 @@ x="959"
 y="1591" 
 textLength="255" 
 class="s3_1"
->from its Member States. As</text>
+>from its Member States.</text>
 
 <text 
 x="959" 
 y="1614" 
-textLength="255" 
+textLength="95" 
 class="s3_1"
->of 2015, Europeana Founda-</text>
-
-<text 
-x="959" 
-y="1637" 
-textLength="32" 
-class="s3_1"
->tion</text>
-
-<text 
-x="1048" 
-y="1637" 
-textLength="6" 
-class="s3_1"
->(</text>
+>As of 2015, </text>
 
 <a xlink:href="http://pro.europeana.eu/" target="_blank">
 <text 
-x="1054" 
-y="1637" 
-textLength="160" 
+x="1058" 
+y="1614" 
+textLength="155" 
 class="s4_1"
->http://pro.europea-</text>
+>Europeana Founda-</text>
 
 <text 
 x="959" 
-y="1660" 
-textLength="52" 
+y="1637" 
+textLength="42" 
 class="s4_1"
->na.eu/</text>
+>tion</text>
 </a>
 
 <text 
 x="1011" 
-y="1660" 
+y="1637" 
 textLength="203" 
 class="s3_1"
->) has become a Digital</text>
+>has become a Digital</text>
 
 <text 
 x="959" 
-y="1683" 
+y="1660" 
 textLength="255" 
 class="s3_1"
 >Services Infrastructure under</text>
 
 <text 
 x="959" 
-y="1706" 
+y="1683" 
 textLength="255" 
 class="s3_1"
 >the Connecting Europe Faci-</text>
 
 <text 
 x="959" 
-y="1729" 
+y="1707" 
 textLength="24" 
 class="s3_1"
 >lity</text>
 
 <text 
-x="1041" 
-y="1729" 
+x="990" 
+y="1707" 
 textLength="57" 
 class="s3_1"
 >(CEF).</text>
@@ -1584,32 +1549,18 @@ class="s3_1"
 <text 
 x="280" 
 y="1698" 
-textLength="14" 
+textLength="44" 
 class="s3_1"
->at</text>
+>in the</text>
 
 <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
 <text 
-x="341" 
+x="331" 
 y="1698" 
-textLength="245" 
+textLength="262" 
 class="s4_1"
->http://www.theeuropeanlibra-</text>
-
-<text 
-x="280" 
-y="1721" 
-textLength="189" 
-class="s4_1"
->ry.org/tel4/newspapers</text>
+>Europeana Newspapers Portal.</text>
 </a>
-
-<text 
-x="470" 
-y="1721" 
-textLength="5" 
-class="s3_1"
->.</text>
 
 <text 
 x="623" 
