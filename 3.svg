@@ -45,7 +45,7 @@ font-family: BaskOldFace3;
 fill: #161413;
 }
 .s6_3{
-font-size: 18.33px;
+font-size: 20px;
 font-family: Fo0S0;
 fill: #161413;
 font-weight: bold;
@@ -589,115 +589,52 @@ class="s2_3"
 >available</text>
 
 <text 
-x="186" 
+x="175" 
 y="1578" 
 textLength="24" 
 class="s2_3"
 >for</text>
 
 <text 
-x="229" 
+x="204" 
 y="1578" 
-textLength="26" 
+textLength="46" 
 class="s2_3"
->the</text>
+>long-</text>
 
 <text 
 x="66" 
 y="1601" 
-textLength="81" 
+textLength="186" 
 class="s2_3"
->long-term</text>
-
-<text 
-x="166" 
-y="1601" 
-textLength="28" 
-class="s2_3"
->use</text>
-
-<text 
-x="213" 
-y="1601" 
-textLength="41" 
-class="s2_3"
->from</text>
+>term use from the</text>
 
 <text 
 x="66" 
 y="1624" 
 textLength="189" 
 class="s2_3"
->the University of Sal-</text>
+>University of Salford</text>
 
 <text 
 x="66" 
 y="1647" 
-textLength="40" 
+textLength="189" 
 class="s2_3"
->ford,</text>
-
-<text 
-x="128" 
-y="1647" 
-textLength="65" 
-class="s2_3"
->PRImA</text>
-
-<text 
-x="215" 
-y="1647" 
-textLength="39" 
-class="s2_3"
->rese-</text>
-
-<text 
-x="66" 
-y="1670" 
-textLength="36" 
-class="s2_3"
->arch</text>
-
-<text 
-x="147" 
-y="1670" 
-textLength="49" 
-class="s2_3"
->group</text>
-
-<text 
-x="240" 
-y="1670" 
-textLength="14" 
-class="s2_3"
->at</text>
+>PRImA research group</text>
 
 <a xlink:href="http://primaresearch.org/datasets/ENP" target="_blank">
 <text 
 x="66" 
-y="1693" 
-textLength="168" 
+y="1670" 
+textLength="86" 
 class="s3_3"
->http://www.primare-</text>
-
-<text 
-x="66" 
-y="1716" 
-textLength="133" 
-class="s3_3"
->search.org/data-</text>
-
-<text 
-x="66" 
-y="1739" 
-textLength="78" 
-class="s3_3"
->sets/ENP</text>
+>repository</text>
 </a>
 
 <text 
-x="144" 
-y="1739" 
+x="152" 
+y="1670" 
 textLength="5" 
 class="s2_3"
 >.</text>
@@ -744,681 +681,331 @@ textLength="26"
 class="s2_3"
 >the</text>
 
+<a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
 <text 
 x="1047" 
 y="444" 
 textLength="58" 
-class="s2_3"
+class="s3_3"
 >project</text>
 
 <text 
 x="1122" 
 y="444" 
 textLength="61" 
-class="s2_3"
+class="s3_3"
 >website</text>
+</a>
 
 <text 
 x="1201" 
 y="444" 
 textLength="14" 
 class="s2_3"
->at</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
-<text 
-x="1047" 
-y="467" 
-textLength="139" 
-class="s3_3"
->www.europeana-</text>
-
-<text 
-x="1047" 
-y="490" 
-textLength="123" 
-class="s3_3"
->newspapers.eu</text>
-</a>
-
-<text 
-x="1203" 
-y="490" 
-textLength="12" 
-class="s2_3"
 >is</text>
 
 <text 
 x="1047" 
-y="513" 
+y="467" 
 textLength="26" 
 class="s2_3"
 >the</text>
 
 <text 
 x="1088" 
-y="513" 
+y="467" 
 textLength="42" 
 class="s2_3"
 >main</text>
 
 <text 
 x="1144" 
-y="513" 
+y="467" 
 textLength="71" 
 class="s2_3"
 >channel.</text>
 
 <text 
 x="1047" 
-y="536" 
+y="490" 
 textLength="169" 
 class="s2_3"
 >The website provi-</text>
 
 <text 
 x="1047" 
-y="559" 
-textLength="28" 
+y="513" 
+textLength="169" 
 class="s2_3"
->des</text>
-
-<text 
-x="1092" 
-y="559" 
-textLength="60" 
-class="s2_3"
->general</text>
-
-<text 
-x="1170" 
-y="559" 
-textLength="46" 
-class="s2_3"
->infor-</text>
+>des general infor-</text>
 
 <text 
 x="1047" 
-y="581" 
-textLength="59" 
+y="535" 
+textLength="169" 
 class="s2_3"
->mation</text>
-
-<text 
-x="1137" 
-y="581" 
-textLength="22" 
-class="s2_3"
->on</text>
-
-<text 
-x="1190" 
-y="581" 
-textLength="26" 
-class="s2_3"
->the</text>
+>mation about the</text>
 
 <text 
 x="1047" 
-y="604" 
+y="558" 
 textLength="169" 
 class="s2_3"
 >project, the consor-</text>
 
 <text 
 x="1047" 
-y="627" 
+y="581" 
 textLength="169" 
 class="s2_3"
 >tium members and</text>
 
 <text 
 x="1047" 
-y="650" 
+y="604" 
 textLength="169" 
 class="s2_3"
 >associated partners,</text>
 
 <text 
 x="1047" 
-y="673" 
+y="627" 
 textLength="169" 
 class="s2_3"
 >news related to the</text>
 
 <text 
 x="1047" 
+y="650" 
+textLength="169" 
+class="s2_3"
+>project, activities</text>
+
+<text 
+x="1047" 
+y="673" 
+textLength="169" 
+class="s2_3"
+>within the project</text>
+
+<text 
+x="1047" 
 y="696" 
-textLength="63" 
+textLength="169" 
 class="s2_3"
->project,</text>
-
-<text 
-x="1145" 
-y="696" 
-textLength="70" 
-class="s2_3"
->activities</text>
+>and public events.</text>
 
 <text 
 x="1047" 
 y="719" 
-textLength="51" 
-class="s2_3"
->within</text>
-
-<text 
-x="1115" 
-y="719" 
-textLength="26" 
-class="s2_3"
->the</text>
-
-<text 
-x="1158" 
-y="719" 
-textLength="58" 
-class="s2_3"
->project</text>
-
-<text 
-x="1047" 
-y="742" 
-textLength="31" 
-class="s2_3"
->and</text>
-
-<text 
-x="1092" 
-y="742" 
-textLength="52" 
-class="s2_3"
->public</text>
-
-<text 
-x="1158" 
-y="742" 
-textLength="57" 
-class="s2_3"
->events.</text>
-
-<text 
-x="1047" 
-y="765" 
 textLength="169" 
 class="s2_3"
 >Additionally, public</text>
 
 <text 
 x="1047" 
-y="788" 
+y="742" 
 textLength="169" 
 class="s2_3"
 >materials - delivera-</text>
 
 <text 
 x="1047" 
-y="811" 
+y="765" 
 textLength="169" 
 class="s2_3"
 >bles and dissemina-</text>
 
 <text 
 x="1047" 
-y="834" 
+y="789" 
 textLength="169" 
 class="s2_3"
 >tion materials - can</text>
 
 <text 
 x="1047" 
-y="856" 
-textLength="169" 
+y="812" 
+textLength="48" 
 class="s2_3"
->all be downloaded</text>
-
-<text 
-x="1047" 
-y="879" 
-textLength="41" 
-class="s2_3"
->from</text>
+>all be </text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/public-materials/" target="_blank">
 <text 
-x="1047" 
-y="902" 
-textLength="140" 
+x="1098" 
+y="812" 
+textLength="104" 
 class="s3_3"
->http://www.euro-</text>
-
-<text 
-x="1047" 
-y="925" 
-textLength="122" 
-class="s3_3"
->peana-newspa-</text>
-
-<text 
-x="1047" 
-y="948" 
-textLength="157" 
-class="s3_3"
->pers.eu/public-mat</text>
-
-<text 
-x="1047" 
-y="971" 
-textLength="50" 
-class="s3_3"
->erials/</text>
+>downloaded</text>
 </a>
 
 <text 
-x="1097" 
-y="971" 
-textLength="118" 
+x="1202" 
+y="812" 
+textLength="4" 
 class="s2_3"
->. For past and</text>
+>.</text>
+
+<text 
+x="1065" 
+y="895" 
+textLength="128" 
+class="s1_3"
+>Social Media</text>
 
 <text 
 x="1047" 
-y="994" 
-textLength="50" 
+y="929" 
+textLength="169" 
 class="s2_3"
->future</text>
-
-<text 
-x="1140" 
-y="994" 
-textLength="75" 
-class="s2_3"
->activities,</text>
+>For past and fu-</text>
 
 <text 
 x="1047" 
-y="1017" 
+y="952" 
+textLength="169" 
+class="s2_3"
+>ture activities,</text>
+
+<text 
+x="1047" 
+y="975" 
 textLength="169" 
 class="s2_3"
 >make sure to follow</text>
 
 <text 
 x="1047" 
-y="1040" 
-textLength="92" 
+y="998" 
+textLength="168" 
 class="s2_3"
->Europeana</text>
+>Europeana News-</text>
 
 <text 
 x="1047" 
-y="1063" 
-textLength="102" 
+y="1021" 
+textLength="168" 
 class="s2_3"
->Newspapers</text>
-
-<text 
-x="1194" 
-y="1063" 
-textLength="22" 
-class="s2_3"
->on</text>
+>papers on social</text>
 
 <text 
 x="1047" 
-y="1086" 
-textLength="47" 
+y="1044" 
+textLength="122" 
 class="s2_3"
->social</text>
-
-<text 
-x="1164" 
-y="1086" 
-textLength="52" 
-class="s2_3"
->media</text>
+>media here:</text>
 
 <text 
 x="1047" 
-y="1109" 
-textLength="155" 
+y="1090" 
+textLength="10" 
 class="s2_3"
->channels such as</text>
-
-<text 
-x="1047" 
-y="1131" 
-textLength="83" 
-class="s2_3"
->Facebook</text>
-
-<text 
-x="1183" 
-y="1131" 
-textLength="5" 
-class="s4_3"
->(</text>
+>• </text>
 
 <a xlink:href="https://www.facebook.com/EuropeanaNewspapers" target="_blank">
 <text 
-x="1188" 
-y="1131" 
-textLength="27" 
+x="1060" 
+y="1090" 
+textLength="90" 
 class="s3_3"
->htt-</text>
-
-<text 
-x="1047" 
-y="1154" 
-textLength="120" 
-class="s3_3"
->ps://www.face-</text>
-
-<text 
-x="1047" 
-y="1177" 
-textLength="165" 
-class="s3_3"
->book.com/Europea</text>
-
-<text 
-x="1047" 
-y="1200" 
-textLength="122" 
-class="s3_3"
->naNewspapers</text>
+>Facebook</text>
 </a>
 
 <text 
-x="1170" 
-y="1200" 
-textLength="11" 
-class="s2_3"
->),</text>
-
-<text 
 x="1047" 
-y="1223" 
-textLength="61" 
+y="1136" 
+textLength="10" 
 class="s2_3"
->Twitter</text>
-
-<text 
-x="1182" 
-y="1223" 
-textLength="6" 
-class="s2_3"
->(</text>
+>• </text>
 
 <a xlink:href="https://twitter.com/eurnews" target="_blank">
 <text 
-x="1188" 
-y="1223" 
-textLength="27" 
+x="1060" 
+y="1136" 
+textLength="61" 
 class="s3_3"
->htt-</text>
-
-<text 
-x="1047" 
-y="1246" 
-textLength="71" 
-class="s3_3"
->ps://twit-</text>
-
-<text 
-x="1047" 
-y="1269" 
-textLength="140" 
-class="s3_3"
->ter.com/eurnews</text>
+>Twitter</text>
 </a>
 
 <text 
-x="1187" 
-y="1269" 
-textLength="11" 
-class="s2_3"
->),</text>
-
-<text 
 x="1047" 
-y="1292" 
-textLength="79" 
+y="1182" 
+textLength="10" 
 class="s2_3"
->LinkedIn</text>
-
-<text 
-x="1047" 
-y="1315" 
-textLength="6" 
-class="s2_3"
->(</text>
+>• </text>
 
 <a xlink:href="http://www.linkedin.com/groups?gid=4425919" target="_blank">
 <text 
-x="1053" 
-y="1315" 
-textLength="143" 
+x="1060" 
+y="1182" 
+textLength="79" 
 class="s3_3"
->http://www.linke-</text>
-
-<text 
-x="1047" 
-y="1338" 
-textLength="156" 
-class="s3_3"
->din.com/groups?gi</text>
-
-<text 
-x="1047" 
-y="1361" 
-textLength="95" 
-class="s3_3"
->d=4425919</text>
+>LinkedIn</text>
 </a>
 
 <text 
-x="1142" 
-y="1361" 
-textLength="11" 
-class="s2_3"
->),</text>
-
-<text 
 x="1047" 
-y="1384" 
-textLength="49" 
+y="1228" 
+textLength="10" 
 class="s2_3"
->Flickr</text>
-
-<text 
-x="1182" 
-y="1384" 
-textLength="6" 
-class="s2_3"
->(</text>
-
-<text 
-x="1188" 
-y="1384" 
-textLength="27" 
-class="s3_3"
->htt-</text>
+>• </text>
 
 <a xlink:href="https://www.flickr.com/enewspapers/" target="_blank">
 <text 
-x="1047" 
-y="1406" 
-textLength="166" 
+x="1060" 
+y="1228" 
+textLength="49" 
 class="s3_3"
->ps://www.flickr.com</text>
-
-<text 
-x="1047" 
-y="1429" 
-textLength="146" 
-class="s3_3"
->/photos/enewspa-</text>
-
-<text 
-x="1047" 
-y="1452" 
-textLength="42" 
-class="s3_3"
->pers/</text>
+>Flickr</text>
 </a>
 
 <text 
-x="1089" 
-y="1452" 
-textLength="11" 
-class="s2_3"
->),</text>
-
-<text 
 x="1047" 
-y="1475" 
-textLength="57" 
+y="1274" 
+textLength="10" 
 class="s2_3"
->Vimeo</text>
-
-<text 
-x="1131" 
-y="1475" 
-textLength="6" 
-class="s2_3"
->(</text>
+>• </text>
 
 <a xlink:href="https://vimeo.com/1003139/" target="_blank">
 <text 
-x="1138" 
-y="1475" 
-textLength="78" 
+x="1060" 
+y="1274" 
+textLength="57" 
 class="s3_3"
->https://vi-</text>
-
-<text 
-x="1047" 
-y="1498" 
-textLength="159" 
-class="s3_3"
->meo.com/1003139</text>
+>Vimeo</text>
 </a>
 
 <text 
 x="1047" 
-y="1521" 
-textLength="21" 
-class="s3_3"
->26</text>
-
-<text 
-x="1068" 
-y="1521" 
-textLength="11" 
+y="1320" 
+textLength="10" 
 class="s2_3"
->),</text>
-
-<text 
-x="1047" 
-y="1544" 
-textLength="73" 
-class="s2_3"
->Youtube</text>
-
-<text 
-x="1182" 
-y="1544" 
-textLength="6" 
-class="s2_3"
->(</text>
+>• </text>
 
 <a xlink:href="https://www.youtube.com/watch?v=5G6v00Z8CyQ" target="_blank">
 <text 
-x="1188" 
-y="1544" 
-textLength="27" 
+x="1060" 
+y="1320" 
+textLength="73" 
 class="s3_3"
->htt-</text>
-
-<text 
-x="1047" 
-y="1567" 
-textLength="133" 
-class="s3_3"
->ps://www.youtu-</text>
-
-<text 
-x="1047" 
-y="1590" 
-textLength="156" 
-class="s3_3"
->be.com/watch?v=5</text>
-
-<text 
-x="1047" 
-y="1613" 
-textLength="120" 
-class="s3_3"
->G6v00Z8CyQ</text>
+>Youtube</text>
 </a>
 
 <text 
-x="1167" 
-y="1613" 
-textLength="6" 
-class="s2_3"
->)</text>
-
-<text 
 x="1047" 
-y="1636" 
-textLength="111" 
+y="1366" 
+textLength="10" 
 class="s2_3"
->or Slideshare</text>
-
-<text 
-x="1047" 
-y="1659" 
-textLength="6" 
-class="s2_3"
->(</text>
+>• </text>
 
 <a xlink:href="http://www.slideshare.net/Europeana_Newspapers" target="_blank">
 <text 
-x="1053" 
-y="1659" 
-textLength="147" 
+x="1060" 
+y="1366" 
+textLength="91" 
 class="s3_3"
->http://www.slides-</text>
-
-<text 
-x="1047" 
-y="1681" 
-textLength="123" 
-class="s3_3"
->hare.net/Euro-</text>
-
-<text 
-x="1047" 
-y="1704" 
-textLength="163" 
-class="s3_3"
->peana_Newspapers</text>
+>Slideshare</text>
 </a>
-
-<text 
-x="1047" 
-y="1727" 
-textLength="6" 
-class="s2_3"
->)</text>
-
-<text 
-x="1053" 
-y="1727" 
-textLength="5" 
-class="s5_3"
->.</text>
 
 <text 
 x="312" 
@@ -1931,63 +1518,21 @@ textLength="14"
 class="s2_3"
 >A</text>
 
+<a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/ENP-Deliverable_4.1_final.pdf" target="_blank">
 <text 
 x="685" 
 y="379" 
 textLength="42" 
-class="s2_3"
+class="s3_3"
 >2012</text>
 
 <text 
 x="746" 
 y="379" 
 textLength="53" 
-class="s2_3"
+class="s3_3"
 >survey</text>
-
-<text 
-x="818" 
-y="379" 
-textLength="6" 
-class="s2_3"
->(</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/ENP-Deliverable_4.1_final.pdf" target="_blank">
-<text 
-x="824" 
-y="379" 
-textLength="190" 
-class="s3_3"
->http://www.europeana-</text>
-
-<text 
-x="651" 
-y="402" 
-textLength="195" 
-class="s3_3"
->newspapers.eu/wp-con-</text>
-
-<text 
-x="651" 
-y="425" 
-textLength="332" 
-class="s3_3"
->tent/uploads/2012/04/D4.1-Europeana-</text>
-
-<text 
-x="651" 
-y="448" 
-textLength="247" 
-class="s3_3"
->newspapers-survey-report.pdf</text>
 </a>
-
-<text 
-x="899" 
-y="448" 
-textLength="6" 
-class="s2_3"
->)</text>
 
 <text 
 x="926" 
