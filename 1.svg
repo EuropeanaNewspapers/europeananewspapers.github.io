@@ -573,7 +573,7 @@ class="s3_1"
 >European</text>
 
 <text 
-x="183" 
+x="153" 
 y="1212" 
 textLength="67" 
 class="s3_1"
@@ -643,7 +643,7 @@ class="s3_1"
 >per</text>
 
 <text 
-x="170" 
+x="96" 
 y="1418" 
 textLength="80" 
 class="s3_1"
@@ -682,7 +682,7 @@ x="64"
 y="1510" 
 textLength="185" 
 class="s3_1"
->nals to better assess</text>
+>nals to better assess the</text>
 
 <text 
 x="64" 
@@ -692,32 +692,25 @@ class="s3_1"
 >the</text>
 
 <text 
-x="134" 
+x="92" 
 y="1533" 
-textLength="55" 
+textLength="54" 
 class="s3_1"
 >quality</text>
 
 <text 
-x="233" 
+x="148" 
 y="1533" 
-textLength="17" 
+textLength="102" 
 class="s3_1"
->of</text>
+>of newspaper</text>
 
 <text 
 x="64" 
 y="1556" 
 textLength="90" 
 class="s3_1"
->newspaper</text>
-
-<text 
-x="166" 
-y="1556" 
-textLength="86" 
-class="s3_1"
->digitisation</text>
+>digitisation;</text>
 
 <text 
 x="64" 
@@ -1544,7 +1537,7 @@ x="280"
 y="1698" 
 textLength="44" 
 class="s3_1"
->in the</text>
+>on the</text>
 
 <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
 <text 
@@ -1691,39 +1684,39 @@ class="s3_1"
 <text 
 x="623" 
 y="1630" 
-textLength="299" 
+textLength="110" 
 class="s3_1"
->a head start. All project documents</text>
+>a head start.</text>
 
 <text 
 x="623" 
 y="1653" 
 textLength="299" 
 class="s3_1"
->and deliverables can be accessed at</text>
+>All project documents and deliver-</text>
+
+<text 
+x="623" 
+y="1676" 
+textLength="299" 
+class="s3_1"
+>ables can be accessed on the</text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/public-materials/deliverables/" target="_blank">
 <text 
 x="623" 
-y="1676" 
-textLength="257" 
-class="s4_1"
->http://www.europeana-newspa-</text>
-
-<text 
-x="623" 
 y="1699" 
-textLength="279" 
+textLength="120" 
 class="s4_1"
->pers.eu/public-materials/delivera-</text>
+>project website</text>
+</a>
 
 <text 
-x="623" 
-y="1722" 
-textLength="44" 
-class="s4_1"
->bles/.</text>
-</a>
+x="743" 
+y="1699" 
+textLength="120" 
+class="s3_1"
+>.</text>
 
 <text 
 x="314" 

@@ -726,520 +726,443 @@ textLength="55"
 class="s2_2"
 >der the </text>
 
+<a xlink:href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank">
 <text 
 x="1105" 
 y="660" 
 textLength="110" 
-class="s2_2"
+class="s3_2"
 >CC0 license</text>
-
-<text 
-x="1046" 
-y="752" 
-textLength="6" 
-class="s2_2"
->(</text>
-
-<a xlink:href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank">
-<text 
-x="1052" 
-y="752" 
-textLength="128" 
-class="s3_2"
->https://creative-</text>
-
-<text 
-x="1046" 
-y="774" 
-textLength="150" 
-class="s3_2"
->commons.org/pu-</text>
-
-<text 
-x="1046" 
-y="797" 
-textLength="160" 
-class="s3_2"
->blicdomain/zero/1.</text>
-
-<text 
-x="1046" 
-y="820" 
-textLength="16" 
-class="s3_2"
->0/</text>
 </a>
 
 <text 
-x="1062" 
-y="820" 
-textLength="6" 
-class="s2_2"
->)</text>
-
-<text 
-x="1091" 
-y="820" 
+x="1046" 
+y="683" 
 textLength="16" 
 class="s2_2"
 >to</text>
 
 <text 
-x="1130" 
-y="820" 
+x="1068" 
+y="683" 
 textLength="86" 
 class="s2_2"
 >encourage</text>
 
 <text 
-x="1046" 
-y="843" 
-textLength="59" 
+x="1160" 
+y="683" 
+textLength="58" 
 class="s2_2"
 >diverse</text>
 
 <text 
-x="1129" 
-y="843" 
+x="1046" 
+y="706" 
 textLength="45" 
 class="s2_2"
 >kinds</text>
 
 <text 
-x="1199" 
-y="843" 
+x="1094" 
+y="706" 
 textLength="17" 
 class="s2_2"
 >of</text>
 
 <text 
-x="1046" 
-y="866" 
+x="1114" 
+y="706" 
 textLength="50" 
 class="s2_2"
 >reuse.</text>
 
 <text 
 x="1046" 
-y="1049" 
+y="913" 
 textLength="14" 
 class="s2_2"
 >A</text>
 
 <text 
 x="1080" 
-y="1049" 
+y="913" 
 textLength="81" 
 class="s2_2"
 >prototype</text>
 
 <text 
 x="1181" 
-y="1049" 
+y="913" 
 textLength="34" 
 class="s2_2"
 >API</text>
 
 <text 
 x="1046" 
-y="1072" 
+y="936" 
 textLength="27" 
 class="s2_2"
 >has</text>
 
 <text 
 x="1097" 
-y="1072" 
+y="936" 
 textLength="41" 
 class="s2_2"
 >been</text>
 
 <text 
 x="1163" 
-y="1072" 
+y="936" 
 textLength="53" 
 class="s2_2"
 >imple-</text>
 
 <text 
 x="1046" 
-y="1095" 
+y="959" 
 textLength="64" 
 class="s2_2"
 >mented</text>
 
 <text 
 x="1141" 
-y="1095" 
+y="959" 
 textLength="31" 
 class="s2_2"
 >and</text>
 
 <text 
 x="1204" 
-y="1095" 
+y="959" 
 textLength="12" 
 class="s2_2"
 >is</text>
 
 <text 
 x="1046" 
-y="1118" 
+y="982" 
 textLength="75" 
 class="s2_2"
 >currently</text>
 
 <text 
 x="1161" 
-y="1118" 
+y="982" 
 textLength="55" 
 class="s2_2"
 >under-</text>
 
 <text 
 x="1046" 
-y="1141" 
+y="1005" 
 textLength="44" 
 class="s2_2"
 >going</text>
 
 <text 
 x="1158" 
-y="1141" 
+y="1005" 
 textLength="58" 
 class="s2_2"
 >testing.</text>
 
 <text 
 x="1046" 
-y="1164" 
+y="1118" 
 textLength="114" 
 class="s2_2"
 >Furthermore,</text>
 
 <text 
 x="1175" 
-y="1164" 
+y="1118" 
 textLength="16" 
 class="s2_2"
 >in</text>
 
 <text 
 x="1207" 
-y="1164" 
+y="1118" 
 textLength="9" 
 class="s2_2"
 >a</text>
 
 <text 
 x="1046" 
-y="1187" 
+y="1141" 
 textLength="110" 
 class="s2_2"
 >collaboration</text>
 
 <text 
 x="1181" 
-y="1187" 
+y="1141" 
 textLength="35" 
 class="s2_2"
 >with</text>
 
 <text 
 x="1046" 
-y="1210" 
+y="1164" 
 textLength="92" 
 class="s2_2"
 >Europeana</text>
 
 <text 
 x="1170" 
-y="1210" 
+y="1164" 
 textLength="46" 
 class="s2_2"
 >Rese-</text>
 
 <text 
 x="1046" 
-y="1233" 
+y="1187" 
 textLength="41" 
 class="s2_2"
 >arch,</text>
 
 <text 
 x="1106" 
-y="1233" 
+y="1187" 
 textLength="110" 
 class="s2_2"
 >experimental</text>
 
 <text 
 x="1046" 
-y="1256" 
+y="1213" 
 textLength="170" 
 class="s2_2"
 >dumps of full text</text>
 
 <text 
 x="1046" 
-y="1279" 
+y="1236" 
 textLength="31" 
 class="s2_2"
 >and</text>
 
 <text 
 x="1096" 
-y="1279" 
+y="1236" 
 textLength="76" 
 class="s2_2"
 >metadata</text>
 
 <text 
 x="1192" 
-y="1279" 
+y="1236" 
 textLength="24" 
 class="s2_2"
 >for</text>
 
 <text 
 x="1046" 
-y="1302" 
+y="1259" 
 textLength="43" 
 class="s2_2"
 >three</text>
 
 <text 
 x="1119" 
-y="1302" 
+y="1259" 
 textLength="97" 
 class="s2_2"
 >newspapers</text>
 
 <text 
 x="1046" 
-y="1324" 
+y="1282" 
 textLength="170" 
 class="s2_2"
 >titles from the Ber-</text>
 
 <text 
 x="1046" 
-y="1347" 
+y="1305" 
 textLength="21" 
 class="s2_2"
 >lin</text>
 
 <text 
 x="1088" 
-y="1347" 
+y="1305" 
 textLength="40" 
 class="s2_2"
 >State</text>
 
 <text 
 x="1149" 
-y="1347" 
+y="1305" 
 textLength="67" 
 class="s2_2"
 >Library,</text>
 
 <text 
 x="1046" 
-y="1370" 
+y="1328" 
 textLength="170" 
 class="s2_2"
 >the National Libra-</text>
 
 <text 
 x="1046" 
-y="1393" 
+y="1351" 
 textLength="16" 
 class="s2_2"
 >ry</text>
 
 <text 
 x="1078" 
-y="1393" 
+y="1351" 
 textLength="17" 
 class="s2_2"
 >of</text>
 
 <text 
 x="1111" 
-y="1393" 
+y="1351" 
 textLength="57" 
 class="s2_2"
 >France</text>
 
 <text 
 x="1185" 
-y="1393" 
+y="1351" 
 textLength="31" 
 class="s2_2"
 >and</text>
 
 <text 
 x="1046" 
-y="1416" 
+y="1374" 
 textLength="170" 
 class="s2_2"
 >the National Libra-</text>
 
 <text 
 x="1046" 
-y="1439" 
+y="1397" 
 textLength="16" 
 class="s2_2"
 >ry</text>
 
 <text 
 x="1078" 
-y="1439" 
+y="1397" 
 textLength="17" 
 class="s2_2"
 >of</text>
 
 <text 
 x="1111" 
-y="1439" 
+y="1397" 
 textLength="50" 
 class="s2_2"
 >Latvia</text>
 
 <text 
 x="1178" 
-y="1439" 
+y="1397" 
 textLength="38" 
 class="s2_2"
 >have</text>
 
 <text 
 x="1046" 
-y="1462" 
+y="1420" 
 textLength="41" 
 class="s2_2"
 >been</text>
 
 <text 
 x="1105" 
-y="1462" 
+y="1420" 
 textLength="69" 
 class="s2_2"
 >released</text>
 
 <text 
 x="1192" 
-y="1462" 
+y="1420" 
 textLength="24" 
 class="s2_2"
 >for</text>
 
 <text 
 x="1046" 
-y="1485" 
-textLength="88" 
+y="1443" 
+textLength="168" 
 class="s2_2"
->download:</text>
+>download - read the </text>
 
 <a xlink:href="http://research.europeana.eu/blogpost/experimental-text-dumps-from-europeana-newspapers" target="_blank">
 <text 
 x="1046" 
-y="1508" 
-textLength="153" 
+y="1466" 
+textLength="83" 
 class="s3_2"
->http://research.eu-</text>
-
-<text 
-x="1046" 
-y="1531" 
-textLength="142" 
-class="s3_2"
->ropeana.eu/blog-</text>
-
-<text 
-x="1046" 
-y="1554" 
-textLength="162" 
-class="s3_2"
->post/experimental-t</text>
-
-<text 
-x="1046" 
-y="1577" 
-textLength="166" 
-class="s3_2"
->ext-dumps-from-eu-</text>
-
-<text 
-x="1046" 
-y="1599" 
-textLength="141" 
-class="s3_2"
->ropeana-newspa-</text>
-
-<text 
-x="1046" 
-y="1622" 
-textLength="35" 
-class="s3_2"
->pers</text>
+>blog post</text>
 </a>
 
 <text 
-x="1081" 
-y="1622" 
-textLength="134" 
+x="1136" 
+y="1466" 
+textLength="80" 
 class="s2_2"
->. Eventually the</text>
+>for more</text>
 
 <text 
 x="1046" 
-y="1645" 
-textLength="78" 
+y="1489" 
+textLength="112" 
 class="s2_2"
->complete</text>
-
-<text 
-x="1138" 
-y="1645" 
-textLength="78" 
-class="s2_2"
->Europea-</text>
+>information.</text>
 
 <text 
 x="1046" 
-y="1668" 
+y="1535" 
+textLength="164" 
+class="s2_2"
+>Eventually, the com-</text>
+
+<text 
+x="1046" 
+y="1558" 
+textLength="164" 
+class="s2_2"
+>plete Europeana</text>
+
+<text 
+x="1046" 
+y="1581" 
 textLength="170" 
 class="s2_2"
->na Newspapers cor-</text>
+>Newspapers corpus</text>
 
 <text 
 x="1046" 
-y="1691" 
+y="1604" 
 textLength="170" 
 class="s2_2"
->pus shall be hosted</text>
+>shall be hosted</text>
 
 <text 
 x="1046" 
-y="1714" 
+y="1627" 
 textLength="170" 
 class="s2_2"
 >in a publicly acces-</text>
 
 <text 
 x="1046" 
-y="1737" 
-textLength="38" 
+y="1650" 
+textLength="170" 
 class="s2_2"
->sible</text>
-
-<text 
-x="1098" 
-y="1737" 
-textLength="90" 
-class="s2_2"
->repository.</text>
+>sible Git repository.</text>
 
 <text 
 x="333" 
@@ -1885,211 +1808,176 @@ x="676"
 y="1227" 
 textLength="344" 
 class="s2_2"
->be released. The results of the study can</text>
+>be released. The results of the study are</text>
 
 <text 
 x="676" 
 y="1250" 
-textLength="20" 
+textLength="180" 
 class="s2_2"
->be</text>
-
-<text 
-x="724" 
-y="1250" 
-textLength="37" 
-class="s2_2"
->seen</text>
-
-<text 
-x="789" 
-y="1250" 
-textLength="14" 
-class="s2_2"
->at</text>
+>summarised in this </text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/usability-testing-results-for-our-historic-newspapers-browser/" target="_blank">
 <text 
-x="830" 
+x="866" 
 y="1250" 
-textLength="190" 
+textLength="90" 
 class="s3_2"
->http://www.europeana-</text>
-
-<text 
-x="676" 
-y="1273" 
-textLength="321" 
-class="s3_2"
->newspapers.eu/usability-testing-results-</text>
-
-<text 
-x="676" 
-y="1296" 
-textLength="308" 
-class="s3_2"
->for-our-historic-newspapers-browser/</text>
+>blog post</text>
 </a>
 
 <text 
-x="985" 
-y="1296" 
+x="956" 
+y="1250" 
 textLength="5" 
 class="s2_2"
 >.</text>
 
 <text 
 x="676" 
-y="1319" 
+y="1296" 
 textLength="82" 
 class="s2_2"
 >Following</text>
 
 <text 
 x="800" 
-y="1319" 
+y="1296" 
 textLength="26" 
 class="s2_2"
 >the</text>
 
 <text 
 x="868" 
-y="1319" 
+y="1296" 
 textLength="152" 
 class="s2_2"
 >recommendations</text>
 
 <text 
 x="676" 
-y="1342" 
+y="1319" 
 textLength="75" 
 class="s2_2"
 >provided</text>
 
 <text 
 x="770" 
-y="1342" 
+y="1319" 
 textLength="19" 
 class="s2_2"
 >by</text>
 
 <text 
 x="807" 
-y="1342" 
+y="1319" 
 textLength="26" 
 class="s2_2"
 >the</text>
 
 <text 
 x="851" 
-y="1342" 
+y="1319" 
 textLength="65" 
 class="s2_2"
 >experts,</text>
 
 <text 
 x="935" 
-y="1342" 
+y="1319" 
 textLength="85" 
 class="s2_2"
 >numerous</text>
 
 <text 
 x="676" 
-y="1365" 
+y="1342" 
 textLength="344" 
 class="s2_2"
 >improvements to the usability of the</text>
 
 <text 
 x="676" 
-y="1388" 
+y="1365" 
 textLength="72" 
 class="s2_2"
 >interface</text>
 
 <text 
 x="763" 
-y="1388" 
+y="1365" 
 textLength="39" 
 class="s2_2"
 >were</text>
 
 <text 
 x="817" 
-y="1388" 
+y="1365" 
 textLength="112" 
 class="s2_2"
 >implemented</text>
 
 <text 
 x="943" 
-y="1388" 
+y="1365" 
 textLength="36" 
 class="s2_2"
 >over</text>
 
 <text 
 x="994" 
-y="1388" 
+y="1365" 
 textLength="26" 
 class="s2_2"
 >the</text>
 
 <text 
 x="676" 
-y="1411" 
+y="1388" 
 textLength="344" 
 class="s2_2"
 >course of 2014, and eventually the final</text>
 
 <text 
 x="676" 
-y="1434" 
+y="1411" 
 textLength="344" 
 class="s2_2"
 >interface was released. Further features</text>
 
 <text 
 x="676" 
-y="1457" 
+y="1434" 
 textLength="339" 
 class="s2_2"
 >will be continuously added to the site</text>
 
 <text 
 x="1016" 
-y="1457" 
+y="1434" 
 textLength="5" 
 class="s4_2"
 >.</text>
 
 <text 
 x="676" 
-y="1709" 
-textLength="169" 
+y="1690" 
+textLength="339" 
 class="s2_2"
->Try the interface at</text>
+>Try the newspaper search interface at</text>
 
 <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
 <text 
-x="854" 
-y="1709" 
-textLength="166" 
-class="s3_2"
->http://www.theeuro-</text>
-
-<text 
 x="676" 
-y="1732" 
-textLength="268" 
+y="1713" 
+textLength="189" 
 class="s3_2"
->peanlibrary.org/tel4/newspapers</text>
+>The European Library</text>
 </a>
 
 <text 
-x="945" 
-y="1732" 
+x="865" 
+y="1713" 
 textLength="5" 
 class="s2_2"
 >.</text>
@@ -2119,6 +2007,8 @@ class="s6_2"
 <image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>
 <a xlink:href="http://ec.europa.eu/cip/ict-psp/index_en.htm" target="_blank">
 <image x="1038" y="69" width="182" height="119" xlink:href="assets/img/3.png" /></a>
+<a xlink:href="http://research.europeana.eu/" target="_blank">
+<image x="1046" y="1030" width="171" height="64" xlink:href="assets/img/23.png" /></a>
 <text 
 x="1051" 
 y="309" 
@@ -2212,18 +2102,18 @@ class="s6_2"
 >Page 2</text>
 
 <a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
-<image x="354" y="921" width="199" height="132" xlink:href="assets/img/14.png" /></a>
+<image x="354" y="880" width="199" height="132" xlink:href="assets/img/14.png" /></a>
 <a xlink:href="http://www.europeana.eu/portal/record/9200355/BibliographicResource_3000096302620.html" target="_blank">
 <image x="285" y="1239" width="361" height="497" xlink:href="assets/img/13.png" /></a>
 <a xlink:href="https://www.flickr.com/photos/enewspapers/9816062224/" target="_blank">
-<image x="1046" y="873" width="171" height="156" xlink:href="assets/img/12.png" /></a>
+<image x="1046" y="725" width="171" height="156" xlink:href="assets/img/12.png" /></a>
 <a xlink:href="http://europeana.eu/portal/record/9200300/BibliographicResource_3000095593453.html" target="_blank">
 <image x="283" y="550" width="366" height="251" xlink:href="assets/img/8.png" /></a>
 <image x="67" y="1220" width="191" height="288" xlink:href="assets/img/9.png" />
 <a xlink:href="http://www.europeana-newspapers.eu/building-a-content-browser-for-digital-newspapers/" target="_blank">
 <image x="678" y="919" width="342" height="167" xlink:href="assets/img/10.png" /></a>
 <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
-<image x="678" y="1468" width="342" height="221" xlink:href="assets/img/11.png" /></a>
+<image x="678" y="1445" width="342" height="221" xlink:href="assets/img/11.png" /></a>
 
 <path d="M0,1818
 L0,0
