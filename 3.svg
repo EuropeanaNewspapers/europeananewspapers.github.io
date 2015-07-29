@@ -1535,624 +1535,323 @@ class="s3_3"
 </a>
 
 <text 
-x="926" 
-y="448" 
-textLength="88" 
+x="812" 
+y="379" 
+textLength="204" 
 class="s2_3"
->conducted</text>
+>that was conducted by the</text>
 
 <text 
 x="651" 
-y="471" 
+y="402" 
 textLength="363" 
 class="s2_3"
->by Europeana Newspapers identified all</text>
+>Europeana Newspapers team identified all</text>
 
 <text 
 x="651" 
-y="494" 
+y="425" 
 textLength="363" 
 class="s2_3"
 >newspaper collections digitised by natio-</text>
 
 <text 
 x="651" 
-y="516" 
+y="448" 
 textLength="363" 
 class="s2_3"
 >nal, research and public libraries in Euro-</text>
 
 <text 
 x="651" 
-y="539" 
+y="471" 
 textLength="363" 
 class="s2_3"
 >pe. It revealed the 20th century gap or,</text>
 
 <text 
 x="651" 
-y="562" 
-textLength="81" 
+y="494" 
+textLength="363" 
 class="s2_3"
->according</text>
-
-<text 
-x="747" 
-y="562" 
-textLength="16" 
-class="s2_3"
->to</text>
-
-<text 
-x="778" 
-y="562" 
-textLength="36" 
-class="s2_3"
->Tim</text>
-
-<text 
-x="830" 
-y="562" 
-textLength="64" 
-class="s2_3"
->Sheratt,</text>
-
-<text 
-x="909" 
-y="562" 
-textLength="74" 
-class="s2_3"
->Manager</text>
-
-<text 
-x="997" 
-y="562" 
-textLength="17" 
-class="s2_3"
->of</text>
+>according to Tim Sheratt, Manager of</text>
 
 <text 
 x="651" 
-y="585" 
+y="517" 
 textLength="363" 
 class="s2_3"
 >Trove, "Copyright cliff of Death" - the pro-</text>
 
 <text 
 x="651" 
-y="608" 
-textLength="42" 
+y="540" 
+textLength="363" 
 class="s2_3"
->blem</text>
-
-<text 
-x="710" 
-y="608" 
-textLength="17" 
-class="s2_3"
->of</text>
-
-<text 
-x="742" 
-y="608" 
-textLength="62" 
-class="s2_3"
->making</text>
-
-<text 
-x="820" 
-y="608" 
-textLength="37" 
-class="s2_3"
->20th</text>
-
-<text 
-x="873" 
-y="608" 
-textLength="62" 
-class="s2_3"
->century</text>
-
-<text 
-x="952" 
-y="608" 
-textLength="62" 
-class="s2_3"
->content</text>
+>blem of making 20th century content</text>
 
 <text 
 x="651" 
-y="631" 
+y="563" 
 textLength="363" 
 class="s2_3"
 >available. Also, while millions of pages ha-</text>
 
 <text 
 x="651" 
-y="654" 
+y="587" 
 textLength="363" 
 class="s2_3"
 >ve been digitised, this is still only a fraction</text>
 
 <text 
 x="651" 
-y="677" 
+y="610" 
 textLength="363" 
 class="s2_3"
 >of the total physical holdings in libraries</text>
 
 <text 
 x="651" 
-y="700" 
+y="633" 
+textLength="193" 
+class="s2_3"
+>and newspaper archives.</text>
+
+<text 
+x="651" 
+y="656" 
 textLength="363" 
 class="s2_3"
->and newspaper archives. Next to this, the</text>
+>Next to this, the survey also noted that:</text>
 
 <text 
 x="651" 
-y="723" 
-textLength="53" 
-class="s2_3"
->survey</text>
-
-<text 
-x="769" 
-y="723" 
-textLength="32" 
-class="s2_3"
->also</text>
-
-<text 
-x="865" 
-y="723" 
-textLength="48" 
-class="s2_3"
->noted</text>
-
-<text 
-x="978" 
-y="723" 
-textLength="36" 
-class="s2_3"
->that:</text>
-
-<text 
-x="651" 
-y="746" 
+y="679" 
 textLength="363" 
 class="s2_3"
->- Access to digitised newspapers is nearly</text>
+>• Access to digitised newspapers is nearly</text>
 
 <text 
 x="651" 
-y="769" 
-textLength="53" 
+y="702" 
+textLength="193" 
 class="s2_3"
->always</text>
-
-<text 
-x="773" 
-y="769" 
-textLength="32" 
-class="s2_3"
->free</text>
-
-<text 
-x="874" 
-y="769" 
-textLength="17" 
-class="s2_3"
->of</text>
-
-<text 
-x="959" 
-y="769" 
-textLength="55" 
-class="s2_3"
->charge</text>
+>always free of charge</text>
 
 <text 
 x="651" 
-y="791" 
+y="725" 
 textLength="363" 
 class="s2_3"
->- There is still much to be done to exploit</text>
+>• There is still much to be done to exploit</text>
 
 <text 
 x="651" 
-y="814" 
+y="748" 
 textLength="363" 
 class="s2_3"
 >the richness of digitised newspaper content</text>
 
 <text 
 x="678" 
-y="883" 
+y="813" 
 textLength="302" 
 class="s1_3"
 >User stories: Researchers are</text>
 
 <text 
 x="721" 
-y="906" 
+y="836" 
 textLength="216" 
 class="s1_3"
 >keen to work with the</text>
 
 <text 
 x="737" 
-y="929" 
+y="859" 
 textLength="191" 
 class="s1_3"
 >digital newspapers</text>
 
 <text 
 x="651" 
-y="975" 
-textLength="102" 
+y="905" 
+textLength="363" 
 class="s2_3"
->Throughout</text>
-
-<text 
-x="777" 
-y="975" 
-textLength="26" 
-class="s2_3"
->the</text>
-
-<text 
-x="827" 
-y="975" 
-textLength="50" 
-class="s2_3"
->whole</text>
-
-<text 
-x="900" 
-y="975" 
-textLength="63" 
-class="s2_3"
->project,</text>
-
-<text 
-x="987" 
-y="975" 
-textLength="27" 
-class="s2_3"
->but</text>
+>Throughout the whole project, but</text>
 
 <text 
 x="651" 
-y="998" 
+y="928" 
 textLength="363" 
 class="s2_3"
 >especially in the 3rd and final year, when</text>
 
 <text 
 x="651" 
-y="1021" 
-textLength="29" 
+y="951" 
+textLength="363" 
 class="s2_3"
->lots</text>
-
-<text 
-x="707" 
-y="1021" 
-textLength="17" 
-class="s2_3"
->of</text>
-
-<text 
-x="751" 
-y="1021" 
-textLength="68" 
-class="s2_3"
->material</text>
-
-<text 
-x="845" 
-y="1021" 
-textLength="65" 
-class="s2_3"
->became</text>
-
-<text 
-x="937" 
-y="1021" 
-textLength="77" 
-class="s2_3"
->available,</text>
+>lots of material became available,</text>
 
 <text 
 x="651" 
-y="1044" 
+y="974" 
 textLength="363" 
 class="s2_3"
 >Europeana Newspapers has conducted a</text>
 
 <text 
 x="651" 
-y="1066" 
+y="997" 
 textLength="363" 
 class="s2_3"
 >series of interviews with scholars who use</text>
 
 <text 
 x="651" 
-y="1089" 
+y="1020" 
 textLength="363" 
 class="s2_3"
 >digital newspapers in their research. The</text>
 
 <text 
 x="651" 
-y="1112" 
-textLength="220" 
+y="1043" 
+textLength="363" 
 class="s2_3"
->interviews manifest an</text>
-
-<text 
-x="886" 
-y="1112" 
-textLength="128" 
-class="s2_3"
->overwhelming</text>
+>interviews manifest an overwhelming</text>
 
 <text 
 x="651" 
-y="1135" 
-textLength="61" 
+y="1066" 
+textLength="363" 
 class="s2_3"
->interest</text>
-
-<text 
-x="742" 
-y="1135" 
-textLength="16" 
-class="s2_3"
->in</text>
-
-<text 
-x="787" 
-y="1135" 
-textLength="9" 
-class="s2_3"
->a</text>
-
-<text 
-x="825" 
-y="1135" 
-textLength="76" 
-class="s2_3"
->common</text>
-
-<text 
-x="931" 
-y="1135" 
-textLength="83" 
-class="s2_3"
->European</text>
+>interest in a common European</text>
 
 <text 
 x="651" 
-y="1158" 
+y="1089" 
 textLength="177" 
 class="s2_3"
 >newspaper resource.</text>
 
 <text 
-x="848" 
-y="1158" 
-textLength="166" 
-class="s2_3"
->E.g. Toine Pieters,</text>
-
-<text 
 x="651" 
-y="1181" 
-textLength="80" 
-class="s2_3"
->Professor</text>
-
-<text 
-x="748" 
-y="1181" 
-textLength="14" 
-class="s2_3"
->at</text>
-
-<text 
-x="778" 
-y="1181" 
-textLength="64" 
-class="s2_3"
->Utrecht</text>
-
-<text 
-x="859" 
-y="1181" 
-textLength="85" 
-class="s2_3"
->University</text>
-
-<text 
-x="961" 
-y="1181" 
-textLength="53" 
-class="s2_3"
->stated:</text>
-
-<text 
-x="651" 
-y="1204" 
+y="1112" 
 textLength="363" 
 class="s2_3"
->"For the first time in history we have the</text>
+>E.g. Toine Pieters, Professor at the</text>
 
 <text 
 x="651" 
-y="1227" 
-textLength="99" 
+y="1134" 
+textLength="250" 
 class="s2_3"
->opportunity</text>
-
-<text 
-x="790" 
-y="1227" 
-textLength="16" 
-class="s2_3"
->to</text>
-
-<text 
-x="845" 
-y="1227" 
-textLength="22" 
-class="s2_3"
->do</text>
-
-<text 
-x="906" 
-y="1227" 
-textLength="108" 
-class="s2_3"
->transnational</text>
+>University of Utrecht stated:</text>
 
 <text 
 x="651" 
-y="1250" 
-textLength="103" 
+y="1157" 
+textLength="363" 
 class="s2_3"
->comparative</text>
-
-<text 
-x="814" 
-y="1250" 
-textLength="81" 
-class="s2_3"
->research."</text>
+>“For the first time in history we have the</text>
 
 <text 
 x="651" 
-y="1502" 
+y="1180" 
+textLength="363" 
+class="s2_3"
+>opportunity to do transnational</text>
+
+<text 
+x="651" 
+y="1203" 
+textLength="203" 
+class="s2_3"
+>comparative research.”</text>
+
+<text 
+x="651" 
+y="1460" 
 textLength="363" 
 class="s2_3"
 >Another researcher from Madrid, Amélia</text>
 
 <text 
 x="651" 
-y="1525" 
-textLength="39" 
+y="1483" 
+textLength="363" 
 class="s2_3"
->Sanz</text>
-
-<text 
-x="709" 
-y="1525" 
-textLength="88" 
-class="s2_3"
->Cabrerizo,</text>
-
-<text 
-x="816" 
-y="1525" 
-textLength="12" 
-class="s2_3"
->is</text>
-
-<text 
-x="847" 
-y="1525" 
-textLength="60" 
-class="s2_3"
->already</text>
-
-<text 
-x="926" 
-y="1525" 
-textLength="43" 
-class="s2_3"
->using</text>
-
-<text 
-x="988" 
-y="1525" 
-textLength="26" 
-class="s2_3"
->the</text>
+>Sanz Cabrerizo, is already using the</text>
 
 <text 
 x="651" 
-y="1548" 
+y="1506" 
 textLength="363" 
 class="s2_3"
 >Europeana Newspapers collection in her</text>
 
 <text 
 x="651" 
-y="1571" 
-textLength="55" 
+y="1529" 
+textLength="175" 
 class="s2_3"
->classes</text>
-
-<text 
-x="756" 
-y="1571" 
-textLength="35" 
-class="s2_3"
->with</text>
-
-<text 
-x="841" 
-y="1571" 
-textLength="74" 
-class="s2_3"
->students.</text>
+>classes with students:</text>
 
 <text 
 x="651" 
-y="1617" 
+y="1552" 
+textLength="363" 
+class="s2_3"
+>“I proposed to my students  to retrieve, to</text>
+
+<text 
+x="651" 
+y="1575" 
+textLength="363" 
+class="s2_3"
+>analyse and to visualize any references</text>
+
+<text 
+x="651" 
+y="1598" 
+textLength="363" 
+class="s2_3"
+>concerning Madame de Staël in the</text>
+
+<text 
+x="651" 
+y="1621" 
+textLength="363" 
+class="s2_3"
+>Europeana Newspapers collection.”</text>
+
+<text 
+x="651" 
+y="1644" 
 textLength="363" 
 class="s2_3"
 >Read all about the various use cases and</text>
 
 <text 
 x="651" 
-y="1639" 
-textLength="112" 
+y="1667" 
+textLength="363" 
 class="s2_3"
->opportunities</text>
-
-<text 
-x="792" 
-y="1639" 
-textLength="24" 
-class="s2_3"
->for</text>
-
-<text 
-x="844" 
-y="1639" 
-textLength="95" 
-class="s2_3"
->researchers</text>
-
-<text 
-x="967" 
-y="1639" 
-textLength="47" 
-class="s2_3"
->made</text>
+>opportunities for researchers made</text>
 
 <text 
 x="651" 
-y="1662" 
+y="1690" 
 textLength="363" 
 class="s2_3"
 >possible through Europeana Newspapers</text>
 
 <text 
 x="651" 
-y="1685" 
+y="1713" 
 textLength="44" 
 class="s2_3"
 >in the </text>
@@ -2160,7 +1859,7 @@ class="s2_3"
 <a xlink:href="http://www.europeana-newspapers.eu/category/interviews-with-researchers/" target="_blank">
 <text 
 x="700" 
-y="1685" 
+y="1713" 
 textLength="192" 
 class="s3_3"
 >“Q&amp;A with researchers” </text>
@@ -2168,7 +1867,7 @@ class="s3_3"
 
 <text 
 x="897" 
-y="1685" 
+y="1713" 
 textLength="96" 
 class="s2_3"
 >blog series.</text>
@@ -2293,7 +1992,7 @@ class="s8_3"
 <a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2012/04/D-2-1_Dataset_for_refinement.pdf" target="_blank">
 <image x="292" y="710" width="330" height="234" xlink:href="assets/img/15.png" /></a>
 <a xlink:href="http://www.europeana-newspapers.eu/qa-with-newspapers-researchers-toine-pieters/" target="_blank">
-<image x="687" y="1261" width="290" height="218" xlink:href="assets/img/16.png" /></a>
+<image x="687" y="1215" width="290" height="218" xlink:href="assets/img/16.png" /></a>
 <a xlink:href="http://primaresearch.org/datasets/ENP" target="_blank">
 <image x="67" y="1338" width="187" height="173" xlink:href="assets/img/17.png" />
 </a>

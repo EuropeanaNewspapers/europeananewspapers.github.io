@@ -579,112 +579,77 @@ class="s2_2"
 
 <text 
 x="1082" 
-y="339" 
+y="362" 
 textLength="95" 
 class="s1_2"
 >Historical</text>
 
 <text 
 x="1065" 
-y="362" 
+y="385" 
 textLength="124" 
 class="s1_2"
 >Newspapers</text>
 
 <text 
 x="1095" 
-y="385" 
+y="408" 
 textLength="63" 
 class="s1_2"
 >Within</text>
 
 <text 
 x="1071" 
-y="408" 
+y="431" 
 textLength="112" 
 class="s1_2"
 >Everyone’s</text>
 
 <text 
 x="1099" 
-y="431" 
+y="454" 
 textLength="62" 
 class="s1_2"
 >Reach</text>
 
 <text 
 x="1046" 
-y="477" 
+y="500" 
 textLength="170" 
 class="s2_2"
 >The majority of the</text>
 
 <text 
 x="1046" 
-y="499" 
-textLength="76" 
+y="523" 
+textLength="170" 
 class="s2_2"
->historical</text>
-
-<text 
-x="1149" 
-y="499" 
-textLength="67" 
-class="s2_2"
->newspa-</text>
+>historical newspa-</text>
 
 <text 
 x="1046" 
-y="522" 
-textLength="28" 
+y="546" 
+textLength="170" 
 class="s2_2"
->per</text>
-
-<text 
-x="1088" 
-y="522" 
-textLength="46" 
-class="s2_2"
->pages</text>
-
-<text 
-x="1149" 
-y="522" 
-textLength="67" 
-class="s2_2"
->assemb-</text>
+>per pages assemb-</text>
 
 <text 
 x="1046" 
-y="545" 
-textLength="26" 
+y="569" 
+textLength="170" 
 class="s2_2"
->led</text>
-
-<text 
-x="1088" 
-y="545" 
-textLength="19" 
-class="s2_2"
->by</text>
-
-<text 
-x="1123" 
-y="545" 
-textLength="92" 
-class="s2_2"
->Europeana</text>
+>led by Europeana</text>
 
 <text 
 x="1046" 
-y="568" 
+y="592" 
 textLength="170" 
 class="s2_2"
 >Newspapers are in</text>
 
 <text 
 x="1046" 
-y="591" 
+y="615" 
 textLength="24" 
 class="s2_2"
 >the </text>
@@ -692,7 +657,7 @@ class="s2_2"
 <a xlink:href="http://creativecommons.org/publicdomain/mark/1.0/" target="_blank">
 <text 
 x="1076" 
-y="591" 
+y="615" 
 textLength="136" 
 class="s3_2"
 >Public Domain</text>
@@ -700,28 +665,28 @@ class="s3_2"
 
 <text 
 x="1212" 
-y="591" 
+y="615" 
 textLength="126" 
 class="s2_2"
 >,</text>
 
 <text 
 x="1046" 
-y="614" 
+y="638" 
 textLength="170" 
 class="s2_2"
 >with metadata being</text>
 
 <text 
 x="1046" 
-y="637" 
+y="661" 
 textLength="170" 
 class="s2_2"
 >made available un-</text>
 
 <text 
 x="1046" 
-y="660" 
+y="684" 
 textLength="55" 
 class="s2_2"
 >der the </text>
@@ -729,7 +694,7 @@ class="s2_2"
 <a xlink:href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank">
 <text 
 x="1105" 
-y="660" 
+y="684" 
 textLength="110" 
 class="s3_2"
 >CC0 license</text>
@@ -737,364 +702,154 @@ class="s3_2"
 
 <text 
 x="1046" 
-y="683" 
-textLength="16" 
+y="707" 
+textLength="170" 
 class="s2_2"
->to</text>
-
-<text 
-x="1068" 
-y="683" 
-textLength="86" 
-class="s2_2"
->encourage</text>
-
-<text 
-x="1160" 
-y="683" 
-textLength="58" 
-class="s2_2"
->diverse</text>
+>to encourage diverse</text>
 
 <text 
 x="1046" 
-y="706" 
-textLength="45" 
+y="730" 
+textLength="170" 
 class="s2_2"
->kinds</text>
-
-<text 
-x="1094" 
-y="706" 
-textLength="17" 
-class="s2_2"
->of</text>
-
-<text 
-x="1114" 
-y="706" 
-textLength="50" 
-class="s2_2"
->reuse.</text>
+>kinds of reuse.</text>
 
 <text 
 x="1046" 
-y="913" 
-textLength="14" 
+y="930" 
+textLength="170" 
 class="s2_2"
->A</text>
-
-<text 
-x="1080" 
-y="913" 
-textLength="81" 
-class="s2_2"
->prototype</text>
-
-<text 
-x="1181" 
-y="913" 
-textLength="34" 
-class="s2_2"
->API</text>
+>A prototype API</text>
 
 <text 
 x="1046" 
-y="936" 
-textLength="27" 
+y="953" 
+textLength="170" 
 class="s2_2"
->has</text>
-
-<text 
-x="1097" 
-y="936" 
-textLength="41" 
-class="s2_2"
->been</text>
-
-<text 
-x="1163" 
-y="936" 
-textLength="53" 
-class="s2_2"
->imple-</text>
+>has also been imple-</text>
 
 <text 
 x="1046" 
-y="959" 
-textLength="64" 
+y="976" 
+textLength="170" 
 class="s2_2"
->mented</text>
-
-<text 
-x="1141" 
-y="959" 
-textLength="31" 
-class="s2_2"
->and</text>
-
-<text 
-x="1204" 
-y="959" 
-textLength="12" 
-class="s2_2"
->is</text>
+>mented and is</text>
 
 <text 
 x="1046" 
-y="982" 
-textLength="75" 
+y="999" 
+textLength="170" 
 class="s2_2"
->currently</text>
-
-<text 
-x="1161" 
-y="982" 
-textLength="55" 
-class="s2_2"
->under-</text>
+>currently undergoing</text>
 
 <text 
 x="1046" 
-y="1005" 
-textLength="44" 
-class="s2_2"
->going</text>
-
-<text 
-x="1158" 
-y="1005" 
-textLength="58" 
+y="1022" 
+textLength="70" 
 class="s2_2"
 >testing.</text>
 
 <text 
 x="1046" 
-y="1118" 
-textLength="114" 
-class="s2_2"
->Furthermore,</text>
-
-<text 
-x="1175" 
-y="1118" 
-textLength="16" 
-class="s2_2"
->in</text>
-
-<text 
-x="1207" 
-y="1118" 
-textLength="9" 
-class="s2_2"
->a</text>
-
-<text 
-x="1046" 
 y="1141" 
-textLength="110" 
+textLength="170" 
 class="s2_2"
->collaboration</text>
-
-<text 
-x="1181" 
-y="1141" 
-textLength="35" 
-class="s2_2"
->with</text>
+>Furthermore, in a</text>
 
 <text 
 x="1046" 
 y="1164" 
-textLength="92" 
+textLength="170" 
 class="s2_2"
->Europeana</text>
-
-<text 
-x="1170" 
-y="1164" 
-textLength="46" 
-class="s2_2"
->Rese-</text>
+>collaboration with</text>
 
 <text 
 x="1046" 
 y="1187" 
-textLength="41" 
+textLength="170" 
 class="s2_2"
->arch,</text>
-
-<text 
-x="1106" 
-y="1187" 
-textLength="110" 
-class="s2_2"
->experimental</text>
+>Europeana Rese-</text>
 
 <text 
 x="1046" 
-y="1213" 
+y="1210" 
+textLength="170" 
+class="s2_2"
+>arch, experimental</text>
+
+<text 
+x="1046" 
+y="1233" 
 textLength="170" 
 class="s2_2"
 >dumps of full text</text>
 
 <text 
 x="1046" 
-y="1236" 
-textLength="31" 
+y="1256" 
+textLength="170" 
 class="s2_2"
->and</text>
-
-<text 
-x="1096" 
-y="1236" 
-textLength="76" 
-class="s2_2"
->metadata</text>
-
-<text 
-x="1192" 
-y="1236" 
-textLength="24" 
-class="s2_2"
->for</text>
+>and metadata for</text>
 
 <text 
 x="1046" 
-y="1259" 
-textLength="43" 
+y="1279" 
+textLength="170" 
 class="s2_2"
->three</text>
-
-<text 
-x="1119" 
-y="1259" 
-textLength="97" 
-class="s2_2"
->newspapers</text>
+>three newspaper</text>
 
 <text 
 x="1046" 
-y="1282" 
+y="1302" 
 textLength="170" 
 class="s2_2"
 >titles from the Ber-</text>
 
 <text 
 x="1046" 
-y="1305" 
-textLength="21" 
+y="1325" 
+textLength="170" 
 class="s2_2"
->lin</text>
-
-<text 
-x="1088" 
-y="1305" 
-textLength="40" 
-class="s2_2"
->State</text>
-
-<text 
-x="1149" 
-y="1305" 
-textLength="67" 
-class="s2_2"
->Library,</text>
+>lin State Library,</text>
 
 <text 
 x="1046" 
-y="1328" 
+y="1348" 
 textLength="170" 
 class="s2_2"
 >the National Libra-</text>
 
 <text 
 x="1046" 
-y="1351" 
-textLength="16" 
+y="1371" 
+textLength="170" 
 class="s2_2"
->ry</text>
-
-<text 
-x="1078" 
-y="1351" 
-textLength="17" 
-class="s2_2"
->of</text>
-
-<text 
-x="1111" 
-y="1351" 
-textLength="57" 
-class="s2_2"
->France</text>
-
-<text 
-x="1185" 
-y="1351" 
-textLength="31" 
-class="s2_2"
->and</text>
+>ry of France and</text>
 
 <text 
 x="1046" 
-y="1374" 
+y="1394" 
 textLength="170" 
 class="s2_2"
 >the National Libra-</text>
 
 <text 
 x="1046" 
-y="1397" 
-textLength="16" 
+y="1417" 
+textLength="170" 
 class="s2_2"
->ry</text>
-
-<text 
-x="1078" 
-y="1397" 
-textLength="17" 
-class="s2_2"
->of</text>
-
-<text 
-x="1111" 
-y="1397" 
-textLength="50" 
-class="s2_2"
->Latvia</text>
-
-<text 
-x="1178" 
-y="1397" 
-textLength="38" 
-class="s2_2"
->have</text>
+>ry of Latvia have</text>
 
 <text 
 x="1046" 
-y="1420" 
-textLength="41" 
+y="1440" 
+textLength="170" 
 class="s2_2"
->been</text>
-
-<text 
-x="1105" 
-y="1420" 
-textLength="69" 
-class="s2_2"
->released</text>
-
-<text 
-x="1192" 
-y="1420" 
-textLength="24" 
-class="s2_2"
->for</text>
+>been released for</text>
 
 <text 
 x="1046" 
-y="1443" 
+y="1463" 
 textLength="168" 
 class="s2_2"
 >download - read the </text>
@@ -1102,7 +857,7 @@ class="s2_2"
 <a xlink:href="http://research.europeana.eu/blogpost/experimental-text-dumps-from-europeana-newspapers" target="_blank">
 <text 
 x="1046" 
-y="1466" 
+y="1486" 
 textLength="83" 
 class="s3_2"
 >blog post</text>
@@ -1110,56 +865,56 @@ class="s3_2"
 
 <text 
 x="1136" 
-y="1466" 
+y="1486" 
 textLength="80" 
 class="s2_2"
 >for more</text>
 
 <text 
 x="1046" 
-y="1489" 
+y="1509" 
 textLength="112" 
 class="s2_2"
 >information.</text>
 
 <text 
 x="1046" 
-y="1535" 
+y="1558" 
 textLength="164" 
 class="s2_2"
 >Eventually, the com-</text>
 
 <text 
 x="1046" 
-y="1558" 
+y="1581" 
 textLength="164" 
 class="s2_2"
 >plete Europeana</text>
 
 <text 
 x="1046" 
-y="1581" 
+y="1604" 
 textLength="170" 
 class="s2_2"
 >Newspapers corpus</text>
 
 <text 
 x="1046" 
-y="1604" 
+y="1627" 
 textLength="170" 
 class="s2_2"
 >shall be hosted</text>
 
 <text 
 x="1046" 
-y="1627" 
+y="1650" 
 textLength="170" 
 class="s2_2"
 >in a publicly acces-</text>
 
 <text 
 x="1046" 
-y="1650" 
+y="1673" 
 textLength="170" 
 class="s2_2"
 >sible Git repository.</text>
@@ -1813,21 +1568,21 @@ class="s2_2"
 <text 
 x="676" 
 y="1250" 
-textLength="180" 
+textLength="170" 
 class="s2_2"
 >summarised in this </text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/usability-testing-results-for-our-historic-newspapers-browser/" target="_blank">
 <text 
-x="866" 
+x="855" 
 y="1250" 
-textLength="90" 
+textLength="80" 
 class="s3_2"
 >blog post</text>
 </a>
 
 <text 
-x="956" 
+x="936" 
 y="1250" 
 textLength="5" 
 class="s2_2"
@@ -2008,7 +1763,7 @@ class="s6_2"
 <a xlink:href="http://ec.europa.eu/cip/ict-psp/index_en.htm" target="_blank">
 <image x="1038" y="69" width="182" height="119" xlink:href="assets/img/3.png" /></a>
 <a xlink:href="http://research.europeana.eu/" target="_blank">
-<image x="1046" y="1030" width="171" height="64" xlink:href="assets/img/23.png" /></a>
+<image x="1046" y="1055" width="171" height="64" xlink:href="assets/img/23.png" /></a>
 <text 
 x="1051" 
 y="309" 
@@ -2106,7 +1861,7 @@ class="s6_2"
 <a xlink:href="http://www.europeana.eu/portal/record/9200355/BibliographicResource_3000096302620.html" target="_blank">
 <image x="285" y="1239" width="361" height="497" xlink:href="assets/img/13.png" /></a>
 <a xlink:href="https://www.flickr.com/photos/enewspapers/9816062224/" target="_blank">
-<image x="1046" y="725" width="171" height="156" xlink:href="assets/img/12.png" /></a>
+<image x="1046" y="750" width="171" height="156" xlink:href="assets/img/12.png" /></a>
 <a xlink:href="http://europeana.eu/portal/record/9200300/BibliographicResource_3000095593453.html" target="_blank">
 <image x="283" y="550" width="366" height="251" xlink:href="assets/img/8.png" /></a>
 <image x="67" y="1220" width="191" height="288" xlink:href="assets/img/9.png" />
