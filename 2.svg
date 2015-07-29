@@ -30,8 +30,8 @@ font-family: ArialMT2;
 fill: #161413;
 }
 .s5_2{
-font-size: 55.00px;
-font-family: BaskOldFace2;
+font-size: 96.00px;
+font-family: Beckett;
 fill: #161413;
 }
 .s2_2{
@@ -571,7 +571,7 @@ class="s2_2"
 >rical</text>
 
 <text 
-x="156" 
+x="105" 
 y="1716" 
 textLength="102" 
 class="s2_2"
@@ -685,67 +685,53 @@ class="s2_2"
 <text 
 x="1046" 
 y="591" 
-textLength="170" 
+textLength="24" 
 class="s2_2"
->the Public Domain</text>
-
-<text 
-x="1046" 
-y="614" 
-textLength="6" 
-class="s2_2"
->(</text>
+>the </text>
 
 <a xlink:href="http://creativecommons.org/publicdomain/mark/1.0/" target="_blank">
 <text 
-x="1052" 
-y="614" 
-textLength="158" 
+x="1076" 
+y="591" 
+textLength="136" 
 class="s3_2"
->http://creativecom-</text>
-
-<text 
-x="1046" 
-y="637" 
-textLength="165" 
-class="s3_2"
->mons.org/publicdo-</text>
-
-<text 
-x="1046" 
-y="660" 
-textLength="131" 
-class="s3_2"
->main/mark/1.0/</text>
+>Public Domain</text>
 </a>
 
 <text 
-x="1178" 
-y="660" 
-textLength="11" 
+x="1212" 
+y="591" 
+textLength="126" 
 class="s2_2"
->),</text>
+>,</text>
 
 <text 
 x="1046" 
-y="683" 
+y="614" 
 textLength="170" 
 class="s2_2"
 >with metadata being</text>
 
 <text 
 x="1046" 
-y="706" 
+y="637" 
 textLength="170" 
 class="s2_2"
 >made available un-</text>
 
 <text 
 x="1046" 
-y="729" 
-textLength="170" 
+y="660" 
+textLength="55" 
 class="s2_2"
->der the CC0 license</text>
+>der the </text>
+
+<text 
+x="1105" 
+y="660" 
+textLength="110" 
+class="s2_2"
+>CC0 license</text>
 
 <text 
 x="1046" 
@@ -1386,30 +1372,23 @@ x="281"
 y="839" 
 textLength="368" 
 class="s2_2"
->You can explore these new features via:</text>
+>Go and explore these new features on</text>
 
 <a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
 <text 
 x="281" 
 y="862" 
-textLength="207" 
+textLength="100" 
 class="s3_2"
->http://europeana.eu/por-</text>
-
-<text 
-x="281" 
-y="885" 
-textLength="346" 
-class="s3_2"
->tal/search.html?query=europeana_collec-</text>
-
-<text 
-x="281" 
-y="908" 
-textLength="254" 
-class="s3_2"
->tionName%3A92*ewspapers*</text>
+>Europeana</text>
 </a>
+
+<text 
+x="381" 
+y="862" 
+textLength="8" 
+class="s2_2"
+>.</text>
 
 <text 
 x="341" 
@@ -2116,11 +2095,11 @@ class="s2_2"
 >.</text>
 
 <text 
-x="292" 
-y="106" 
-textLength="715" 
+x="300" 
+y="100" 
+textLength="685" 
 class="s5_2"
->EUROPEANA NEWSPAPERS</text>
+>Europeana Newspapers</text>
 
 <text 
 x="483" 
@@ -2267,6 +2246,11 @@ stroke="#000000" />
 @font-face {
 	font-family: ArialMT2;
 	src :url("assets/fonts/ArialMT.woff") format("woff");
+}
+
+@font-face {
+	font-family: Beckett;
+	src :url("assets/fonts/Beckett.woff") format("woff");
 }
 
 ]]></style>

@@ -30,8 +30,8 @@ font-family: ArialMT3;
 fill: #161413;
 }
 .s7_3{
-font-size: 55.00px;
-font-family: BaskOldFace3;
+font-size: 96.00px;
+font-family: Beckett;
 fill: #161413;
 }
 .s2_3{
@@ -2629,11 +2629,11 @@ class="s2_3"
 >blog series.</text>
 
 <text 
-x="292" 
-y="106" 
-textLength="715" 
+x="300" 
+y="100" 
+textLength="685" 
 class="s7_3"
->EUROPEANA NEWSPAPERS</text>
+>Europeana Newspapers</text>
 
 <text 
 x="483" 
@@ -2776,6 +2776,11 @@ stroke="#000000" />
 @font-face {
 	font-family: ArialMT3;
 	src :url("assets/fonts/ArialMT.woff") format("woff");
+}
+
+@font-face {
+	font-family: Beckett;
+	src :url("assets/fonts/Beckett.woff") format("woff");
 }
 
 ]]></style>

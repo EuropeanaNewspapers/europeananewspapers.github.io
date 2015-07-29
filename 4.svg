@@ -25,8 +25,8 @@ fill: #161413;
 font-weight: bold;
 }
 .s6_4{
-font-size: 55.00px;
-font-family: BaskOldFace4;
+font-size: 96.00px;
+font-family: Beckett;
 fill: #161413;
 }
 .s3_4{
@@ -1751,18 +1751,32 @@ class="s2_4"
 <text 
 x="277" 
 y="1710" 
-textLength="218" 
+textLength="226" 
 class="s2_4"
->downloaded freely from:</text>
+>downloaded freely from the</text>
 
 <a xlink:href="http://lab.kbresearch.nl/static/html/eunews.html" target="_blank">
 <text 
-x="277" 
-y="1732" 
+x="508" 
+y="1710" 
+textLength="132" 
+class="s4_4"
+>Lab of the KB</text>
+</a>
+
+<text 
+x="640" 
+y="1710" 
 textLength="372" 
 class="s4_4"
->http://lab.kbresearch.nl/static/html/eunews.html.</text>
-</a>
+>,</text>
+
+<text 
+x="277" 
+y="1733" 
+textLength="372" 
+class="s2_4"
+>the National Library of the Netherlands.</text>
 
 <text 
 x="726" 
@@ -2127,11 +2141,11 @@ class="s2_4"
 >digitisation communities.</text>
 
 <text 
-x="292" 
-y="106" 
-textLength="715" 
+x="300" 
+y="100" 
+textLength="685" 
 class="s6_4"
->EUROPEANA NEWSPAPERS</text>
+>Europeana Newspapers</text>
 
 <text 
 x="483" 
@@ -2250,7 +2264,7 @@ class="s7_4"
 <foreignObject x="678" y="333" width="338" height="206">
   <iframe xmlns="http://www.w3.org/1999/xhtml"
     width="338" height="206"
-    src="https://www.youtube.com/embed/AZ77LvCbFr8"
+    src="http://www.youtube.com/embed/AZ77LvCbFr8"
     frameborder="0"></iframe>
 </foreignObject>
 
@@ -2275,6 +2289,11 @@ stroke="#000000" />
 @font-face {
 	font-family: ArialMT4;
 	src :url("assets/fonts/ArialMT.woff") format("woff");
+}
+
+@font-face {
+	font-family: Beckett;
+	src :url("assets/fonts/Beckett.woff") format("woff");
 }
 
 ]]></style>

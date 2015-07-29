@@ -19,8 +19,8 @@ stroke-linejoin: miter;
 }
 
 .s1_1{
-font-size: 55.00px;
-font-family: BaskOldFace1;
+font-size: 96.00px;
+font-family: Beckett;
 fill: #161413;
 }
 .s8_1{
@@ -72,11 +72,11 @@ L1286,0 Z "
 fill="#FFFFFF" stroke="none" />
 <image x="0" y="0" width="1284" height="1819" xlink:href="assets/img/1.png" />
 <text 
-x="292" 
-y="106" 
-textLength="715" 
+x="300" 
+y="100" 
+textLength="685" 
 class="s1_1"
->EUROPEANA NEWSPAPERS</text>
+>Europeana Newspapers</text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
 <image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>
@@ -713,85 +713,78 @@ class="s3_1"
 >newspaper</text>
 
 <text 
-x="176" 
+x="166" 
 y="1556" 
-textLength="73" 
+textLength="86" 
 class="s3_1"
->digitisati-</text>
+>digitisation</text>
 
 <text 
 x="64" 
-y="1579" 
-textLength="22" 
-class="s3_1"
->on</text>
-
-<text 
-x="64" 
-y="1625" 
+y="1602" 
 textLength="185" 
 class="s3_1"
 >5) Raising awareness</text>
 
 <text 
 x="64" 
-y="1648" 
+y="1625" 
 textLength="31" 
 class="s3_1"
 >and</text>
 
 <text 
 x="111" 
-y="1648" 
+y="1625" 
 textLength="72" 
 class="s3_1"
 >fostering</text>
 
 <text 
 x="199" 
-y="1648" 
+y="1625" 
 textLength="51" 
 class="s3_1"
 >know-</text>
 
 <text 
 x="64" 
-y="1671" 
+y="1648" 
 textLength="44" 
 class="s3_1"
 >ledge</text>
 
 <text 
 x="172" 
-y="1671" 
+y="1648" 
 textLength="77" 
 class="s3_1"
 >exchange</text>
 
 <text 
 x="64" 
-y="1693" 
+y="1671" 
 textLength="66" 
 class="s3_1"
 >through</text>
 
 <text 
 x="159" 
-y="1693" 
+y="1671" 
 textLength="90" 
 class="s3_1"
 >workshops</text>
 
 <text 
 x="64" 
-y="1716" 
+y="1694" 
 textLength="31" 
 class="s3_1"
 >and</text>
 
 <text 
 x="100" 
-y="1716" 
+y="1694" 
 textLength="152" 
 class="s3_1"
 >Information Days.</text>
@@ -2447,6 +2440,12 @@ stroke="#000000" />
 	font-family: ArialMT1;
 	src :url("assets/fonts/ArialMT.woff") format("woff");
 }
+
+@font-face {
+	font-family: Beckett;
+	src :url("assets/fonts/Beckett.woff") format("woff");
+}
+
 
 ]]></style>
 
