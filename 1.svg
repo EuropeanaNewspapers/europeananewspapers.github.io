@@ -1023,23 +1023,9 @@ class="s3_1"
 <text 
 x="1069" 
 y="740" 
-textLength="38" 
+textLength="98" 
 class="s3_1"
->their</text>
-
-<text 
-x="1122" 
-y="740" 
-textLength="92" 
-class="s3_1"
->refinement</text>
-
-<text 
-x="1038" 
-y="763" 
-textLength="47" 
-class="s3_1"
->work.</text>
+>refinement.</text>
 
 <text 
 x="1038" 
@@ -1111,56 +1097,51 @@ textLength="132"
 class="s3_1"
 >them from the</text>
 
+<a xlink:href="http://www.europeana-newspapers.eu/materials/tools/" target="_blank">
 <text 
 x="1038" 
 y="1084" 
 textLength="58" 
-class="s3_1"
+class="s4_1"
 >project</text>
 
 <text 
 x="1117" 
 y="1084" 
 textLength="61" 
-class="s3_1"
+class="s4_1"
 >website</text>
+</a>
 
 <text 
-x="1200" 
+x="1182" 
 y="1084" 
-textLength="14" 
+textLength="32" 
 class="s3_1"
->at</text>
+>and</text>
 
-<a xlink:href="http://www.europeana-newspapers.eu/materials/tools/" target="_blank">
 <text 
 x="1038" 
 y="1107" 
-textLength="170" 
-class="s4_1"
->http://www.europea-</text>
+textLength="80" 
+class="s3_1"
+>also from</text>
 
+<a xlink:href="https://github.com/EuropeanaNewspapers" target="_blank">
 <text 
-x="1038" 
-y="1130" 
-textLength="92" 
+x="1124" 
+y="1107" 
+textLength="62" 
 class="s4_1"
->na-newspa-</text>
-
-<text 
-x="1038" 
-y="1153" 
-textLength="172" 
-class="s4_1"
->pers.eu/public-mate-</text>
-
-<text 
-x="1038" 
-y="1176" 
-textLength="92" 
-class="s4_1"
->rials/tools/.</text>
+>GitHub</text>
 </a>
+
+<text 
+x="1184" 
+y="1107" 
+textLength="62" 
+class="s3_1"
+>.</text>
 
 <text 
 x="984" 
@@ -2168,7 +2149,7 @@ class="s4_1"
 <text 
 x="526" 
 y="1194" 
-textLength="48" 
+textLength="58" 
 class="s4_1"
 >EDM.</text>
 </a>
