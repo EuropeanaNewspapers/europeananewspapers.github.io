@@ -276,19 +276,21 @@ textLength="35"
 class="s2_2"
 >The</text>
 
+<a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/D5.3_Final_release_ENMAP_1.0.pdf" target="_blank">
 <text 
 x="114" 
 y="822" 
 textLength="75" 
-class="s2_2"
+class="s3_2"
 >ENMAP</text>
 
 <text 
 x="204" 
 y="822" 
 textLength="54" 
-class="s2_2"
+class="s3_2"
 >model</text>
+</a>
 
 <text 
 x="65" 
@@ -826,35 +828,44 @@ textLength="170"
 class="s2_2"
 >been released for</text>
 
+<a xlink:href="http://data.theeuropeanlibrary.org/download/newspapers/" target="_blank">
 <text 
 x="1046" 
 y="1463" 
+textLength="92" 
+class="s3_2"
+>download</text>
+</a>
+
+<text 
+x="1138" 
+y="1463" 
 textLength="168" 
 class="s2_2"
->download - read the </text>
+>.</text>
 
-<a xlink:href="http://research.europeana.eu/blogpost/experimental-text-dumps-from-europeana-newspapers" target="_blank">
 <text 
 x="1046" 
 y="1486" 
-textLength="83" 
+textLength="80" 
+class="s2_2"
+>Read the </text>
+
+<a xlink:href="http://research.europeana.eu/blogpost/experimental-text-dumps-from-europeana-newspapers" target="_blank">
+<text 
+x="1132" 
+y="1486" 
+textLength="80" 
 class="s3_2"
 >blog post</text>
 </a>
 
 <text 
-x="1136" 
-y="1486" 
-textLength="80" 
-class="s2_2"
->for more</text>
-
-<text 
 x="1046" 
 y="1509" 
-textLength="112" 
+textLength="168" 
 class="s2_2"
->information.</text>
+>for more information.</text>
 
 <text 
 x="1046" 
@@ -1817,12 +1828,13 @@ class="s6_2"
 <a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
 <image x="354" y="880" width="199" height="132" xlink:href="assets/img/14.png" /></a>
 <a xlink:href="http://www.europeana.eu/portal/record/9200355/BibliographicResource_3000096302620.html" target="_blank">
-<image x="285" y="1220" width="361" height="497" xlink:href="assets/img/13.png" /></a>
+<image x="285" y="1224" width="361" height="497" xlink:href="assets/img/13.png" /></a>
 <a xlink:href="https://www.flickr.com/photos/enewspapers/9816062224/" target="_blank">
 <image x="1046" y="750" width="171" height="156" xlink:href="assets/img/12.png" /></a>
 <a xlink:href="http://europeana.eu/portal/record/9200300/BibliographicResource_3000095593453.html" target="_blank">
 <image x="283" y="550" width="366" height="251" xlink:href="assets/img/8.png" /></a>
-<image x="67" y="1210" width="191" height="288" xlink:href="assets/img/9.png" />
+<a xlink:href="http://dbis-halvar.uibk.ac.at/dokuwiki/doku.php?id=main:structify" target="_blank">
+<image x="67" y="1210" width="191" height="288" xlink:href="assets/img/9.png" /></a>
 <a xlink:href="http://www.europeana-newspapers.eu/building-a-content-browser-for-digital-newspapers/" target="_blank">
 <image x="678" y="919" width="342" height="167" xlink:href="assets/img/10.png" /></a>
 <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">

@@ -653,12 +653,37 @@ textLength="189"
 class="s2_3"
 >in collaboration with</text>
 
+<a xlink:href="http://www.succeed-project.eu/" target="_blank">
 <text 
 x="66" 
-y="1739" 
+y="1738" 
+textLength="69" 
+class="s3_3"
+>Succeed </text>
+</a>
+
+<text 
+x="140" 
+y="1738" 
+textLength="30" 
+class="s2_3"
+>and </text>
+
+<a xlink:href="http://www.digitisation.eu/" target="_blank">
+<text 
+x="175" 
+y="1738" 
+textLength="65" 
+class="s3_3"
+>Impact</text>
+</a>
+
+<text 
+x="240" 
+y="1738" 
 textLength="189" 
 class="s2_3"
->Succeed and Impact.</text>
+>.</text>
 
 <text 
 x="1084" 
@@ -1508,122 +1533,59 @@ class="s2_3"
 
 <text 
 x="287" 
-y="1571" 
-textLength="89" 
+y="1576" 
+textLength="335" 
 class="s2_3"
->Moreover,</text>
-
-<text 
-x="398" 
-y="1571" 
-textLength="74" 
-class="s2_3"
->technical</text>
-
-<text 
-x="493" 
-y="1571" 
-textLength="77" 
-class="s2_3"
->decisions</text>
-
-<text 
-x="592" 
-y="1571" 
-textLength="31" 
-class="s2_3"
->that</text>
+>Moreover, technical decision that</text>
 
 <text 
 x="287" 
-y="1594" 
+y="1599" 
 textLength="335" 
 class="s2_3"
 >were made during the setup of the</text>
 
 <text 
 x="287" 
-y="1617" 
-textLength="93" 
+y="1622" 
+textLength="335" 
 class="s2_3"
->production</text>
-
-<text 
-x="413" 
-y="1617" 
-textLength="77" 
-class="s2_3"
->workflow</text>
-
-<text 
-x="523" 
-y="1617" 
-textLength="47" 
-class="s2_3"
->could</text>
-
-<text 
-x="603" 
-y="1617" 
-textLength="20" 
-class="s2_3"
->be</text>
+>production workflow could be</text>
 
 <text 
 x="287" 
-y="1640" 
+y="1645" 
 textLength="335" 
 class="s2_3"
 >confirmed. In terms of layout analysis</text>
 
 <text 
 x="287" 
-y="1663" 
+y="1668" 
 textLength="335" 
 class="s2_3"
 >capabilities however there is still room</text>
 
 <text 
 x="287" 
-y="1686" 
+y="1691" 
 textLength="335" 
 class="s2_3"
 >for improvement and any progress in</text>
 
 <text 
 x="287" 
-y="1709" 
+y="1714" 
 textLength="335" 
 class="s2_3"
 >this area could have a great impact on</text>
 
 <text 
 x="287" 
-y="1732" 
-textLength="45" 
+y="1737" 
+textLength="335" 
 class="s2_3"
->more</text>
-
-<text 
-x="356" 
-y="1732" 
-textLength="108" 
-class="s2_3"
->sophisticated</text>
-
-<text 
-x="489" 
-y="1732" 
-textLength="28" 
-class="s2_3"
->use</text>
-
-<text 
-x="540" 
-y="1732" 
-textLength="82" 
-class="s2_3"
->scenarios.</text>
+>more sophisticated use scenarios.</text>
 
 <text 
 x="708" 
@@ -2129,8 +2091,7 @@ class="s8_3"
 <a xlink:href="http://www.europeana-newspapers.eu/qa-with-newspapers-researchers-toine-pieters/" target="_blank">
 <image x="687" y="1215" width="290" height="218" xlink:href="assets/img/16.png" /></a>
 <a xlink:href="http://primaresearch.org/datasets/ENP" target="_blank">
-<image x="67" y="1338" width="187" height="173" xlink:href="assets/img/17.png" />
-</a>
+<image x="67" y="1338" width="187" height="173" xlink:href="assets/img/17.png" /></a>
 <a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/D3.5_Performance_Evaluation_Report_1.0.pdf" target="_blank">
 <image x="290" y="1358" width="332" height="188" xlink:href="assets/img/18.png" /></a>
 
