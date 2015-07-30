@@ -313,26 +313,28 @@ textLength="26"
 class="s3_1"
 >the</text>
 
+<a xlink:href="http://staatsbibliothek-berlin.de/" target="_blank">
 <text 
 x="64" 
 y="846" 
 textLength="52" 
-class="s3_1"
+class="s4_1"
 >Berlin</text>
 
 <text 
 x="132" 
 y="846" 
 textLength="40" 
-class="s3_1"
+class="s4_1"
 >State</text>
 
 <text 
 x="188" 
 y="846" 
 textLength="62" 
-class="s3_1"
+class="s4_1"
 >Library</text>
+</a>
 
 <text 
 x="64" 
