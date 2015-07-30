@@ -918,7 +918,7 @@ class="s2_3"
 
 <text 
 x="1047" 
-y="1090" 
+y="1080" 
 textLength="10" 
 class="s2_3"
 >• </text>
@@ -926,7 +926,7 @@ class="s2_3"
 <a xlink:href="https://www.facebook.com/EuropeanaNewspapers" target="_blank">
 <text 
 x="1060" 
-y="1090" 
+y="1080" 
 textLength="90" 
 class="s3_3"
 >Facebook</text>
@@ -934,7 +934,7 @@ class="s3_3"
 
 <text 
 x="1047" 
-y="1136" 
+y="1120" 
 textLength="10" 
 class="s2_3"
 >• </text>
@@ -942,7 +942,7 @@ class="s2_3"
 <a xlink:href="https://twitter.com/eurnews" target="_blank">
 <text 
 x="1060" 
-y="1136" 
+y="1120" 
 textLength="61" 
 class="s3_3"
 >Twitter</text>
@@ -950,7 +950,7 @@ class="s3_3"
 
 <text 
 x="1047" 
-y="1182" 
+y="1160" 
 textLength="10" 
 class="s2_3"
 >• </text>
@@ -958,7 +958,7 @@ class="s2_3"
 <a xlink:href="http://www.linkedin.com/groups?gid=4425919" target="_blank">
 <text 
 x="1060" 
-y="1182" 
+y="1160" 
 textLength="79" 
 class="s3_3"
 >LinkedIn</text>
@@ -966,7 +966,7 @@ class="s3_3"
 
 <text 
 x="1047" 
-y="1228" 
+y="1200" 
 textLength="10" 
 class="s2_3"
 >• </text>
@@ -974,7 +974,7 @@ class="s2_3"
 <a xlink:href="https://www.flickr.com/enewspapers/" target="_blank">
 <text 
 x="1060" 
-y="1228" 
+y="1200" 
 textLength="49" 
 class="s3_3"
 >Flickr</text>
@@ -982,7 +982,7 @@ class="s3_3"
 
 <text 
 x="1047" 
-y="1274" 
+y="1240" 
 textLength="10" 
 class="s2_3"
 >• </text>
@@ -990,7 +990,7 @@ class="s2_3"
 <a xlink:href="https://vimeo.com/1003139/" target="_blank">
 <text 
 x="1060" 
-y="1274" 
+y="1240" 
 textLength="57" 
 class="s3_3"
 >Vimeo</text>
@@ -998,7 +998,7 @@ class="s3_3"
 
 <text 
 x="1047" 
-y="1320" 
+y="1280" 
 textLength="10" 
 class="s2_3"
 >• </text>
@@ -1006,7 +1006,7 @@ class="s2_3"
 <a xlink:href="https://www.youtube.com/watch?v=5G6v00Z8CyQ" target="_blank">
 <text 
 x="1060" 
-y="1320" 
+y="1280" 
 textLength="73" 
 class="s3_3"
 >Youtube</text>
@@ -1014,7 +1014,7 @@ class="s3_3"
 
 <text 
 x="1047" 
-y="1366" 
+y="1320" 
 textLength="10" 
 class="s2_3"
 >• </text>
@@ -1022,7 +1022,7 @@ class="s2_3"
 <a xlink:href="http://www.slideshare.net/Europeana_Newspapers" target="_blank">
 <text 
 x="1060" 
-y="1366" 
+y="1320" 
 textLength="91" 
 class="s3_3"
 >Slideshare</text>

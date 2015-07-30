@@ -999,37 +999,9 @@ class="s2_2"
 <text 
 x="281" 
 y="541" 
-textLength="16" 
+textLength="148" 
 class="s2_2"
->as</text>
-
-<text 
-x="361" 
-y="541" 
-textLength="12" 
-class="s2_2"
->is</text>
-
-<text 
-x="436" 
-y="541" 
-textLength="26" 
-class="s2_2"
->the</text>
-
-<text 
-x="525" 
-y="541" 
-textLength="27" 
-class="s2_2"
->full</text>
-
-<text 
-x="615" 
-y="541" 
-textLength="35" 
-class="s2_2"
->text.</text>
+>as is the full text.</text>
 
 <text 
 x="281" 
@@ -1845,17 +1817,16 @@ class="s6_2"
 <a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
 <image x="354" y="880" width="199" height="132" xlink:href="assets/img/14.png" /></a>
 <a xlink:href="http://www.europeana.eu/portal/record/9200355/BibliographicResource_3000096302620.html" target="_blank">
-<image x="285" y="1239" width="361" height="497" xlink:href="assets/img/13.png" /></a>
+<image x="285" y="1220" width="361" height="497" xlink:href="assets/img/13.png" /></a>
 <a xlink:href="https://www.flickr.com/photos/enewspapers/9816062224/" target="_blank">
 <image x="1046" y="750" width="171" height="156" xlink:href="assets/img/12.png" /></a>
 <a xlink:href="http://europeana.eu/portal/record/9200300/BibliographicResource_3000095593453.html" target="_blank">
 <image x="283" y="550" width="366" height="251" xlink:href="assets/img/8.png" /></a>
-<image x="67" y="1220" width="191" height="288" xlink:href="assets/img/9.png" />
+<image x="67" y="1210" width="191" height="288" xlink:href="assets/img/9.png" />
 <a xlink:href="http://www.europeana-newspapers.eu/building-a-content-browser-for-digital-newspapers/" target="_blank">
 <image x="678" y="919" width="342" height="167" xlink:href="assets/img/10.png" /></a>
 <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
 <image x="678" y="1445" width="342" height="221" xlink:href="assets/img/11.png" /></a>
-
 <path d="M0,1818
 L0,0
 L1286,0
