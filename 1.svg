@@ -1961,116 +1961,106 @@ x="526"
 y="873" 
 textLength="218" 
 class="s3_1"
->by more than 20 million</text>
+>(1) by ingestion of metadata</text>
 
 <text 
 x="526" 
 y="896" 
 textLength="218" 
 class="s3_1"
->pages in Europeana, and</text>
+>in Europeana for more than</text>
 
+<a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
 <text 
 x="526" 
 y="919" 
+textLength="217" 
+class="s4_1"
+>20 million pages</text>
+</a>
+
+<text 
+x="743" 
+y="919" 
+textLength="8" 
+class="s3_1"
+>,</text>
+
+<text 
+x="526" 
+y="942" 
 textLength="38" 
 class="s3_1"
 >and,</text>
 
 <text 
 x="526" 
-y="942" 
-textLength="218" 
-class="s3_1"
->by more than 12 million</text>
-
-<text 
-x="526" 
 y="965" 
 textLength="218" 
 class="s3_1"
->million pages searchable.</text>
+>(2) by making more than</text>
+
+<a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
+<text 
+x="526" 
+y="988" 
+textLength="218" 
+class="s4_1"
+>12 million pages</text>
+</a>
 
 <text 
 x="526" 
 y="1010" 
-textLength="44" 
+textLength="128" 
 class="s3_1"
->With</text>
-
-<text 
-x="593" 
-y="1010" 
-textLength="34" 
-class="s3_1"
->this,</text>
-
-<text 
-x="651" 
-y="1010" 
-textLength="92" 
-class="s3_1"
->Europeana</text>
+>fully searchable.</text>
 
 <text 
 x="526" 
 y="1033" 
 textLength="218" 
 class="s3_1"
->Newspapers has not only</text>
+>With this, Europeana</text>
 
 <text 
 x="526" 
 y="1056" 
 textLength="218" 
 class="s3_1"
+>Newspapers has not only</text>
+
+<text 
+x="526" 
+y="1079" 
+textLength="218" 
+class="s3_1"
 >produced the largest con-</text>
 
 <text 
 x="526" 
-y="1079" 
-textLength="72" 
-class="s3_1"
->tribution</text>
-
-<text 
-x="615" 
-y="1079" 
-textLength="17" 
-class="s3_1"
->of</text>
-
-<text 
-x="648" 
-y="1079" 
-textLength="63" 
-class="s3_1"
->records</text>
-
-<text 
-x="727" 
-y="1079" 
-textLength="16" 
-class="s3_1"
->to</text>
-
-<text 
-x="526" 
-y="1101" 
+y="1102" 
 textLength="218" 
 class="s3_1"
->Europeana by a single project,</text>
+>tribution of records to</text>
 
 <text 
 x="526" 
 y="1125" 
 textLength="218" 
 class="s3_1"
->but has also contributed the</text>
+>Europeana by a single pro-</text>
 
 <text 
 x="526" 
 y="1148" 
+textLength="218" 
+class="s3_1"
+>ject, but also contributed the</text>
+
+<text 
+x="526" 
+y="1171" 
 textLength="218" 
 class="s3_1"
 >largest ingest so far in the</text>
@@ -2078,17 +2068,17 @@ class="s3_1"
 <a xlink:href="http://pro.europeana.eu/page/edm-documentation" target="_blank">
 <text 
 x="526" 
-y="1171" 
-textLength="218" 
+y="1194" 
+textLength="217" 
 class="s4_1"
->Europeana Data Model,</text>
+>Europeana Data Model</text>
 
 <text 
-x="526" 
+x="743" 
 y="1194" 
 textLength="58" 
-class="s4_1"
->EDM.</text>
+class="s3_1"
+>.</text>
 </a>
 
 <text 
