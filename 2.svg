@@ -486,14 +486,16 @@ x="65"
 y="1555" 
 textLength="193" 
 class="s2_2"
->together with a highly</text>
+>supported by the flexible</text>
 
+<a xlink:href="http://dbis-halvar.uibk.ac.at/dokuwiki/doku.php?id=main:structify" target="_blank">
 <text 
 x="65" 
 y="1578" 
 textLength="61" 
-class="s2_2"
->flexible</text>
+class="s3_2"
+>Structify</text>
+</a>
 
 <text 
 x="141" 
@@ -535,24 +537,17 @@ x="65"
 y="1670" 
 textLength="193" 
 class="s2_2"
->could cover the com-</text>
+>can cover the complex</text>
 
 <text 
 x="65" 
 y="1693" 
 textLength="193" 
 class="s2_2"
->plex situation of histo-</text>
+>situation of historical</text>
 
 <text 
 x="65" 
-y="1716" 
-textLength="35" 
-class="s2_2"
->rical</text>
-
-<text 
-x="105" 
 y="1716" 
 textLength="102" 
 class="s2_2"
@@ -1273,7 +1268,7 @@ x="676"
 y="540" 
 textLength="344" 
 class="s2_2"
->providers across 8 countries and even</text>
+>providers across 8 countries and many</text>
 
 <text 
 x="676" 
