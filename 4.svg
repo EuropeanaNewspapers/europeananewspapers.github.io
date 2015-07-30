@@ -2042,7 +2042,7 @@ stroke="#000000" />
 
 @font-face {
 	font-family: Beckett;
-	src :url("assets/fonts/Beckett.woff") format("woff");
+	src :url("assets/fonts/BeckettK.woff") format("woff");
 }
 
 ]]></style>
