@@ -1397,16 +1397,9 @@ class="s3_1"
 <text 
 x="280" 
 y="1286" 
-textLength="197" 
+textLength="306" 
 class="s3_1"
->When newspapers are</text>
-
-<text 
-x="512" 
-y="1286" 
-textLength="74" 
-class="s3_1"
->digitised,</text>
+>When newspapers are digitised,</text>
 
 <text 
 x="280" 
@@ -1970,7 +1963,7 @@ x="526"
 y="896" 
 textLength="218" 
 class="s3_1"
->in Europeana for more than</text>
+>in Europeana for almost</text>
 
 <a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
 <text 
@@ -1978,7 +1971,7 @@ x="526"
 y="919" 
 textLength="217" 
 class="s4_1"
->20 million pages</text>
+>21 million pages</text>
 </a>
 
 <text 
