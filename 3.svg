@@ -1422,16 +1422,9 @@ class="s2_3"
 <text 
 x="287" 
 y="701" 
-textLength="49" 
+textLength="116" 
 class="s2_3"
->below</text>
-
-<text 
-x="570" 
-y="701" 
-textLength="52" 
-class="s2_3"
->graph.</text>
+>below graph.</text>
 
 <text 
 x="287" 
