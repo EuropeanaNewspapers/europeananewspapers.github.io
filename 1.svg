@@ -1304,16 +1304,9 @@ class="s3_1"
 <text 
 x="959" 
 y="1568" 
-textLength="54" 
+textLength="114" 
 class="s3_1"
->Union</text>
-
-<text 
-x="1032" 
-y="1568" 
-textLength="45" 
-class="s3_1"
->along</text>
+>Commission</text>
 
 <text 
 x="1096" 
@@ -1347,52 +1340,47 @@ class="s3_1"
 <text 
 x="1058" 
 y="1614" 
-textLength="155" 
+textLength="115" 
 class="s4_1"
->Europeana Founda-</text>
+>Europeana</text>
+</a>
+
+<text 
+x="1180" 
+y="1614" 
+textLength="32" 
+class="s3_1"
+>has</text>
 
 <text 
 x="959" 
 y="1637" 
-textLength="42" 
-class="s4_1"
->tion</text>
-</a>
-
-<text 
-x="1011" 
-y="1637" 
-textLength="203" 
+textLength="255" 
 class="s3_1"
->has become a Digital</text>
+>has become a Digital Services</text>
 
 <text 
 x="959" 
 y="1660" 
 textLength="255" 
 class="s3_1"
->Services Infrastructure under</text>
+>Infrastructure under the</text>
 
+<a xlink:href="http://ec.europa.eu/digital-agenda/en/connecting-europe-facility" target="_blank">
 <text 
 x="959" 
 y="1683" 
 textLength="255" 
-class="s3_1"
->the Connecting Europe Faci-</text>
+class="s4_1"
+>Connecting Europe Facility</text>
 
 <text 
 x="959" 
 y="1707" 
-textLength="24" 
-class="s3_1"
->lity</text>
-
-<text 
-x="990" 
-y="1707" 
 textLength="57" 
-class="s3_1"
+class="s4_1"
 >(CEF).</text>
+</a>
 
 <text 
 x="280" 
