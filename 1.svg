@@ -388,14 +388,14 @@ class="s3_1"
 <text 
 x="64" 
 y="937" 
-textLength="60" 
+textLength="90" 
 class="s3_1"
->starting</text>
+>starting in</text>
 
 <text 
-x="174" 
+x="164" 
 y="937" 
-textLength="76" 
+textLength="86" 
 class="s3_1"
 >February</text>
 
@@ -435,25 +435,18 @@ class="s3_1"
 >project</text>
 
 <text 
-x="141" 
+x="128" 
 y="1006" 
-textLength="22" 
+textLength="52" 
 class="s3_1"
->set</text>
+>strove</text>
 
 <text 
-x="182" 
+x="188" 
 y="1006" 
 textLength="27" 
 class="s3_1"
->out</text>
-
-<text 
-x="228" 
-y="1006" 
-textLength="21" 
-class="s3_1"
->to:</text>
+>for:</text>
 
 <text 
 x="64" 
@@ -922,17 +915,17 @@ x="1147"
 y="626" 
 textLength="67" 
 class="s3_1"
->instituti-</text>
+>institu-</text>
 
 <text 
 x="1038" 
 y="648" 
-textLength="29" 
+textLength="39" 
 class="s3_1"
->ons</text>
+>tions</text>
 
 <text 
-x="1082" 
+x="1088" 
 y="648" 
 textLength="16" 
 class="s3_1"
@@ -1592,7 +1585,7 @@ x="853"
 y="1378" 
 textLength="68" 
 class="s3_1"
->process,</text>
+>process</text>
 
 <text 
 x="623" 
@@ -1867,7 +1860,7 @@ x="275"
 y="1146" 
 textLength="218" 
 class="s3_1"
->all partners deem the result</text>
+>all partners deem the results</text>
 
 <text 
 x="275" 

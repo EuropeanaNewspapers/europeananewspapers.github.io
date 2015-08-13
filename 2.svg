@@ -90,184 +90,118 @@ class="s1_2"
 <text 
 x="65" 
 y="501" 
-textLength="92" 
+textLength="193" 
 class="s2_2"
->Europeana</text>
-
-<text 
-x="186" 
-y="501" 
-textLength="72" 
-class="s2_2"
->Newspa-</text>
+>Europeana Newspapers</text>
 
 <text 
 x="65" 
 y="524" 
 textLength="193" 
 class="s2_2"
->pers designed and re-</text>
+>designed and released</text>
 
 <text 
 x="65" 
 y="547" 
-textLength="52" 
+textLength="193" 
 class="s2_2"
->leased</text>
-
-<text 
-x="249" 
-y="547" 
-textLength="9" 
-class="s2_2"
->a</text>
+>a comprehensive meta-</text>
 
 <text 
 x="65" 
 y="570" 
-textLength="128" 
+textLength="193" 
 class="s2_2"
->comprehensive</text>
-
-<text 
-x="212" 
-y="570" 
-textLength="46" 
-class="s2_2"
->meta-</text>
+>data and structure</text>
 
 <text 
 x="65" 
 y="593" 
-textLength="34" 
-class="s2_2"
->data</text>
-
-<text 
-x="126" 
-y="593" 
-textLength="31" 
-class="s2_2"
->and</text>
-
-<text 
-x="185" 
-y="593" 
-textLength="73" 
-class="s2_2"
->structure</text>
-
-<text 
-x="65" 
-y="616" 
 textLength="193" 
 class="s2_2"
 >model specifically for</text>
 
 <text 
 x="65" 
-y="638" 
-textLength="97" 
-class="s2_2"
->newspapers</text>
-
-<text 
-x="179" 
-y="638" 
-textLength="49" 
-class="s2_2"
->which</text>
-
-<text 
-x="246" 
-y="638" 
-textLength="12" 
-class="s2_2"
->is</text>
-
-<text 
-x="65" 
-y="661" 
-textLength="48" 
-class="s2_2"
->based</text>
-
-<text 
-x="128" 
-y="661" 
-textLength="22" 
-class="s2_2"
->on</text>
-
-<text 
-x="166" 
-y="661" 
-textLength="92" 
-class="s2_2"
->established</text>
-
-<text 
-x="65" 
-y="684" 
+y="616" 
 textLength="193" 
 class="s2_2"
->standards like METS</text>
+>newspapers which is</text>
 
 <text 
 x="65" 
-y="707" 
+y="639" 
 textLength="193" 
 class="s2_2"
->and ALTO. This can</text>
+>based on established</text>
 
 <text 
 x="65" 
-y="730" 
+y="662" 
+textLength="128" 
+class="s2_2"
+>standards like</text>
+
+<a xlink:href="http://www.loc.gov/standards/mets/" target="_blank">
+<text 
+x="198" 
+y="662" 
+textLength="60" 
+class="s3_2"
+>METS</text>
+</a>
+
+<text 
+x="65" 
+y="685" 
+textLength="32" 
+class="s2_2"
+>and</text>
+
+<a xlink:href="http://www.loc.gov/standards/alto/" target="_blank">
+<text 
+x="106" 
+y="685" 
+textLength="60" 
+class="s3_2"
+>ALTO</text>
+</a>
+
+<text 
+x="165" 
+y="685" 
+textLength="93" 
+class="s2_2"
+>. This can</text>
+
+<text 
+x="65" 
+y="708" 
 textLength="193" 
 class="s2_2"
 >serve as a best practice</text>
 
 <text 
 x="65" 
-y="753" 
+y="731" 
 textLength="193" 
 class="s2_2"
 >for those who are just</text>
 
 <text 
 x="65" 
-y="776" 
-textLength="60" 
+y="754" 
+textLength="193" 
 class="s2_2"
->starting</text>
-
-<text 
-x="141" 
-y="776" 
-textLength="35" 
-class="s2_2"
->with</text>
-
-<text 
-x="191" 
-y="776" 
-textLength="67" 
-class="s2_2"
->newspa-</text>
+>starting with news-</text>
 
 <text 
 x="65" 
-y="799" 
-textLength="28" 
+y="776" 
+textLength="153" 
 class="s2_2"
->per</text>
-
-<text 
-x="163" 
-y="799" 
-textLength="95" 
-class="s2_2"
->digitisation.</text>
+>paper digitisation.</text>
 
 <text 
 x="65" 
@@ -451,7 +385,7 @@ x="65"
 y="1120" 
 textLength="193" 
 class="s2_2"
->2) To provide a comp-</text>
+>2) To provide a com-</text>
 
 <text 
 x="65" 
@@ -1065,14 +999,14 @@ x="281"
 y="1205" 
 textLength="368" 
 class="s2_2"
->na can now also represent hierarchies bet-</text>
+>na can now also represent hierarchies be-</text>
 
 <text 
 x="281" 
 y="1228" 
-textLength="43" 
+textLength="53" 
 class="s2_2"
->ween</text>
+>tween</text>
 
 <text 
 x="342" 
@@ -1502,25 +1436,25 @@ class="s2_2"
 >interface</text>
 
 <text 
-x="900" 
+x="890" 
 y="1182" 
 textLength="31" 
 class="s2_2"
 >and</text>
 
 <text 
-x="962" 
+x="935" 
 y="1182" 
-textLength="58" 
+textLength="85" 
 class="s2_2"
->suggest</text>
+>to suggest</text>
 
 <text 
 x="676" 
 y="1204" 
 textLength="344" 
 class="s2_2"
->improvements before a final version will</text>
+>improvements before a final version would</text>
 
 <text 
 x="676" 
