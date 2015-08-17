@@ -479,51 +479,23 @@ class="s2_1"
 <text 
 x="1038" 
 y="465" 
-textLength="35" 
+textLength="176" 
 class="s3_1"
->The</text>
-
-<text 
-x="1121" 
-y="465" 
-textLength="92" 
-class="s3_1"
->Europeana</text>
+>The Europeana</text>
 
 <text 
 x="1038" 
 y="488" 
-textLength="102" 
+textLength="176" 
 class="s3_1"
->Newspapers</text>
-
-<text 
-x="1156" 
-y="488" 
-textLength="58" 
-class="s3_1"
->project</text>
+>Newspapers project</text>
 
 <text 
 x="1038" 
 y="511" 
-textLength="27" 
+textLength="176" 
 class="s3_1"
->has</text>
-
-<text 
-x="1092" 
-y="511" 
-textLength="87" 
-class="s3_1"
->developed</text>
-
-<text 
-x="1205" 
-y="511" 
-textLength="9" 
-class="s3_1"
->a</text>
+>has developed a</text>
 
 <text 
 x="1038" 
@@ -549,107 +521,37 @@ class="s3_1"
 <text 
 x="1038" 
 y="603" 
-textLength="29" 
+textLength="176" 
 class="s3_1"
->can</text>
-
-<text 
-x="1088" 
-y="603" 
-textLength="37" 
-class="s3_1"
->help</text>
-
-<text 
-x="1147" 
-y="603" 
-textLength="67" 
-class="s3_1"
->libraries</text>
+>can help libraries</text>
 
 <text 
 x="1038" 
 y="626" 
-textLength="31" 
+textLength="176" 
 class="s3_1"
->and</text>
-
-<text 
-x="1086" 
-y="626" 
-textLength="44" 
-class="s3_1"
->other</text>
-
-<text 
-x="1147" 
-y="626" 
-textLength="67" 
-class="s3_1"
->institu-</text>
+>and other institu-</text>
 
 <text 
 x="1038" 
 y="648" 
-textLength="39" 
+textLength="176" 
 class="s3_1"
->tions</text>
-
-<text 
-x="1088" 
-y="648" 
-textLength="16" 
-class="s3_1"
->to</text>
-
-<text 
-x="1112" 
-y="648" 
-textLength="48" 
-class="s3_1"
->refine</text>
-
-<text 
-x="1175" 
-y="648" 
-textLength="38" 
-class="s3_1"
->their</text>
+>tions to refine their</text>
 
 <text 
 x="1038" 
 y="671" 
-textLength="69" 
+textLength="176" 
 class="s3_1"
->digitised</text>
-
-<text 
-x="1138" 
-y="671" 
-textLength="76" 
-class="s3_1"
->historical</text>
+>digitised historical</text>
 
 <text 
 x="1038" 
 y="694" 
-textLength="97" 
+textLength="176" 
 class="s3_1"
->newspapers</text>
-
-<text 
-x="1151" 
-y="694" 
-textLength="31" 
-class="s3_1"
->and</text>
-
-<text 
-x="1198" 
-y="694" 
-textLength="16" 
-class="s3_1"
->to</text>
+>newspapers and to</text>
 
 <text 
 x="1038" 
@@ -661,37 +563,16 @@ class="s3_1"
 <text 
 x="1038" 
 y="740" 
-textLength="17" 
+textLength="176" 
 class="s3_1"
->of</text>
-
-<text 
-x="1069" 
-y="740" 
-textLength="98" 
-class="s3_1"
->refinement.</text>
+>of the refinement.</text>
 
 <text 
 x="1038" 
 y="923" 
-textLength="25" 
+textLength="176" 
 class="s3_1"
->All</text>
-
-<text 
-x="1084" 
-y="923" 
-textLength="69" 
-class="s3_1"
->software</text>
-
-<text 
-x="1174" 
-y="923" 
-textLength="40" 
-class="s3_1"
->tools</text>
+>All software tools</text>
 
 <text 
 x="1038" 
@@ -731,16 +612,9 @@ class="s3_1"
 <text 
 x="1038" 
 y="1061" 
-textLength="23" 
+textLength="176" 
 class="s3_1"
->get</text>
-
-<text 
-x="1082" 
-y="1061" 
-textLength="132" 
-class="s3_1"
->them from the</text>
+>get them from the</text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/materials/tools/" target="_blank">
 <text 
@@ -814,7 +688,7 @@ class="s3_1"
 <text 
 x="959" 
 y="1316" 
-textLength="252" 
+textLength="255" 
 class="s3_1"
 >internet portal and metadata</text>
 
@@ -863,128 +737,37 @@ class="s3_1"
 <text 
 x="959" 
 y="1476" 
-textLength="37" 
+textLength="255" 
 class="s3_1"
->than</text>
-
-<text 
-x="1010" 
-y="1476" 
-textLength="47" 
-class="s3_1"
->2,500</text>
-
-<text 
-x="1071" 
-y="1476" 
-textLength="63" 
-class="s3_1"
->cultural</text>
-
-<text 
-x="1148" 
-y="1476" 
-textLength="66" 
-class="s3_1"
->heritage</text>
+>than 2,500 cultural heritage</text>
 
 <text 
 x="959" 
 y="1499" 
-textLength="91" 
+textLength="255" 
 class="s3_1"
->institutions</text>
-
-<text 
-x="1072" 
-y="1499" 
-textLength="51" 
-class="s3_1"
->across</text>
-
-<text 
-x="1146" 
-y="1499" 
-textLength="68" 
-class="s3_1"
->Europe.</text>
+>institutions all across Europe.</text>
 
 <text 
 x="959" 
 y="1522" 
-textLength="92" 
+textLength="255" 
 class="s3_1"
->Europeana</text>
-
-<text 
-x="1075" 
-y="1522" 
-textLength="12" 
-class="s3_1"
->is</text>
-
-<text 
-x="1111" 
-y="1522" 
-textLength="60" 
-class="s3_1"
->funded</text>
-
-<text 
-x="1195" 
-y="1522" 
-textLength="19" 
-class="s3_1"
->by</text>
+>Europeana is funded by</text>
 
 <text 
 x="959" 
 y="1545" 
-textLength="49" 
+textLength="255" 
 class="s3_1"
->grants</text>
-
-<text 
-x="1026" 
-y="1545" 
-textLength="41" 
-class="s3_1"
->from</text>
-
-<text 
-x="1086" 
-y="1545" 
-textLength="26" 
-class="s3_1"
->the</text>
-
-<text 
-x="1131" 
-y="1545" 
-textLength="83" 
-class="s3_1"
->European</text>
+>grants from the European</text>
 
 <text 
 x="959" 
 y="1568" 
-textLength="114" 
+textLength="255" 
 class="s3_1"
->Commission</text>
-
-<text 
-x="1096" 
-y="1568" 
-textLength="35" 
-class="s3_1"
->with</text>
-
-<text 
-x="1149" 
-y="1568" 
-textLength="64" 
-class="s3_1"
->support</text>
+>Commission with support</text>
 
 <text 
 x="959" 
@@ -996,25 +779,18 @@ class="s3_1"
 <text 
 x="959" 
 y="1614" 
-textLength="95" 
+textLength="125" 
 class="s3_1"
->As of 2015, </text>
+>As of 2015,</text>
 
 <a xlink:href="http://pro.europeana.eu/" target="_blank">
 <text 
-x="1058" 
+x="1095" 
 y="1614" 
-textLength="115" 
+textLength="120" 
 class="s4_1"
 >Europeana</text>
 </a>
-
-<text 
-x="1180" 
-y="1614" 
-textLength="32" 
-class="s3_1"
->has</text>
 
 <text 
 x="959" 
