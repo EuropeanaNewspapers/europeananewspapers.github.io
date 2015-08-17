@@ -2,8 +2,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
-
-<!-- Page 4 -->
 <svg x="0" y="0" width="1286" height="1818" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 style="display: block;margin-left: auto;margin-right: auto;">
 <defs>
@@ -1902,13 +1900,6 @@ y="152"
 textLength="330" 
 class="s7_4"
 >Special Issue - Final Report</text>
-
-<!-- <text 
-x="532" 
-y="267" 
-textLength="232" 
-class="s7_4"
->Background stories</text> -->
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
 <image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>

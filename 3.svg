@@ -2,8 +2,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
-
-<!-- Page 3 -->
 <svg x="0" y="0" width="1286" height="1818" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 style="display: block;margin-left: auto;margin-right: auto;">
 <defs>
@@ -101,44 +99,16 @@ class="s2_3"
 <text 
 x="66" 
 y="501" 
-textLength="52" 
+textLength="189" 
 class="s2_3"
->Image</text>
-
-<text 
-x="137" 
-y="501" 
-textLength="31" 
-class="s2_3"
->and</text>
-
-<text 
-x="187" 
-y="501" 
-textLength="67" 
-class="s2_3"
->Ground</text>
+>Image and Ground</text>
 
 <text 
 x="66" 
 y="524" 
-textLength="49" 
+textLength="189" 
 class="s2_3"
->Truth</text>
-
-<text 
-x="131" 
-y="524" 
-textLength="91" 
-class="s2_3"
->Repository</text>
-
-<text 
-x="238" 
-y="524" 
-textLength="16" 
-class="s2_3"
->as</text>
+>Truth Repository as</text>
 
 <text 
 x="66" 
@@ -171,37 +141,16 @@ class="s2_3"
 <text 
 x="66" 
 y="639" 
-textLength="50" 
+textLength="189" 
 class="s2_3"
->peana</text>
-
-<text 
-x="152" 
-y="639" 
-textLength="102" 
-class="s2_3"
->Newspapers</text>
+>peana Newspapers</text>
 
 <text 
 x="66" 
 y="662" 
-textLength="52" 
+textLength="189" 
 class="s2_3"
->Image</text>
-
-<text 
-x="137" 
-y="662" 
-textLength="31" 
-class="s2_3"
->and</text>
-
-<text 
-x="187" 
-y="662" 
-textLength="67" 
-class="s2_3"
->Ground</text>
+>Image and Ground</text>
 
 <text 
 x="66" 
@@ -213,23 +162,9 @@ class="s2_3"
 <text 
 x="66" 
 y="707" 
-textLength="61" 
+textLength="189" 
 class="s2_3"
->created</text>
-
-<text 
-x="152" 
-y="707" 
-textLength="31" 
-class="s2_3"
->and</text>
-
-<text 
-x="208" 
-y="707" 
-textLength="47" 
-class="s2_3"
->made</text>
+>created and made</text>
 
 <text 
 x="66" 
@@ -241,23 +176,9 @@ class="s2_3"
 <text 
 x="66" 
 y="753" 
-textLength="60" 
+textLength="189" 
 class="s2_3"
->parties.</text>
-
-<text 
-x="146" 
-y="753" 
-textLength="38" 
-class="s2_3"
->This</text>
-
-<text 
-x="204" 
-y="753" 
-textLength="50" 
-class="s2_3"
->repre-</text>
+>parties. This repre-</text>
 
 <text 
 x="66" 
@@ -304,65 +225,23 @@ class="s2_3"
 <text 
 x="66" 
 y="914" 
-textLength="69" 
+textLength="189" 
 class="s2_3"
->presents</text>
-
-<text 
-x="161" 
-y="914" 
-textLength="9" 
-class="s2_3"
->a</text>
-
-<text 
-x="196" 
-y="914" 
-textLength="58" 
-class="s2_3"
->unique</text>
+>presents a unique</text>
 
 <text 
 x="66" 
 y="937" 
-textLength="72" 
+textLength="189" 
 class="s2_3"
->resource</text>
-
-<text 
-x="159" 
-y="937" 
-textLength="24" 
-class="s2_3"
->for</text>
-
-<text 
-x="205" 
-y="937" 
-textLength="50" 
-class="s2_3"
->future</text>
+>resource for future</text>
 
 <text 
 x="66" 
 y="960" 
-textLength="70" 
+textLength="189" 
 class="s2_3"
->research</text>
-
-<text 
-x="158" 
-y="960" 
-textLength="31" 
-class="s2_3"
->and</text>
-
-<text 
-x="210" 
-y="960" 
-textLength="44" 
-class="s2_3"
->deve-</text>
+>research and deve-</text>
 
 <text 
 x="66" 
@@ -416,23 +295,9 @@ class="s2_3"
 <text 
 x="66" 
 y="1143" 
-textLength="81" 
+textLength="189" 
 class="s2_3"
->computer</text>
-
-<text 
-x="162" 
-y="1143" 
-textLength="66" 
-class="s2_3"
->science.</text>
-
-<text 
-x="242" 
-y="1143" 
-textLength="13" 
-class="s2_3"
->It</text>
+>computer science. It</text>
 
 <text 
 x="66" 
@@ -444,79 +309,30 @@ class="s2_3"
 <text 
 x="66" 
 y="1189" 
-textLength="31" 
+textLength="189" 
 class="s2_3"
->that</text>
-
-<text 
-x="122" 
-y="1189" 
-textLength="41" 
-class="s2_3"
->most</text>
-
-<text 
-x="187" 
-y="1189" 
-textLength="67" 
-class="s2_3"
->libraries</text>
+>that most libraries</text>
 
 <text 
 x="66" 
 y="1212" 
-textLength="55" 
+textLength="189" 
 class="s2_3"
->agreed</text>
-
-<text 
-x="136" 
-y="1212" 
-textLength="16" 
-class="s2_3"
->to</text>
-
-<text 
-x="168" 
-y="1212" 
-textLength="46" 
-class="s2_3"
->make</text>
-
-<text 
-x="229" 
-y="1212" 
-textLength="26" 
-class="s2_3"
->the</text>
+>agreed to make their</text>
 
 <text 
 x="66" 
 y="1235" 
-textLength="67" 
+textLength="189" 
 class="s2_3"
->Ground</text>
-
-<text 
-x="158" 
-y="1235" 
-textLength="49" 
-class="s2_3"
->Truth</text>
-
-<text 
-x="232" 
-y="1235" 
-textLength="22" 
-class="s2_3"
->set</text>
+>Ground Truth data</text>
 
 <text 
 x="66" 
 y="1257" 
 textLength="189" 
 class="s2_3"
->freely available which</text>
+>freely available, which</text>
 
 <text 
 x="66" 
@@ -535,77 +351,35 @@ class="s2_3"
 <text 
 x="66" 
 y="1326" 
-textLength="88" 
+textLength="89" 
 class="s2_3"
 >drastically.</text>
 
 <text 
 x="66" 
 y="1532" 
-textLength="35" 
+textLength="189" 
 class="s2_3"
->The</text>
-
-<text 
-x="162" 
-y="1532" 
-textLength="92" 
-class="s2_3"
->Europeana</text>
+>The Europeana</text>
 
 <text 
 x="66" 
 y="1555" 
-textLength="102" 
+textLength="189" 
 class="s2_3"
->Newspapers</text>
-
-<text 
-x="183" 
-y="1555" 
-textLength="34" 
-class="s2_3"
->data</text>
-
-<text 
-x="232" 
-y="1555" 
-textLength="22" 
-class="s2_3"
->set</text>
+>Newspapers data set</text>
 
 <text 
 x="66" 
 y="1578" 
-textLength="12" 
+textLength="189" 
 class="s2_3"
->is</text>
-
-<text 
-x="96" 
-y="1578" 
-textLength="72" 
-class="s2_3"
->available</text>
-
-<text 
-x="175" 
-y="1578" 
-textLength="24" 
-class="s2_3"
->for</text>
-
-<text 
-x="204" 
-y="1578" 
-textLength="46" 
-class="s2_3"
->long-</text>
+>is available for long-</text>
 
 <text 
 x="66" 
 y="1601" 
-textLength="186" 
+textLength="189" 
 class="s2_3"
 >term use from the</text>
 
@@ -695,52 +469,24 @@ class="s1_3"
 <text 
 x="1047" 
 y="398" 
-textLength="30" 
+textLength="169" 
 class="s2_3"
->For</text>
-
-<text 
-x="1094" 
-y="398" 
-textLength="73" 
-class="s2_3"
->outreach</text>
-
-<text 
-x="1185" 
-y="398" 
-textLength="31" 
-class="s2_3"
->and</text>
+>For outreach and</text>
 
 <text 
 x="1047" 
 y="421" 
-textLength="121" 
+textLength="169" 
 class="s2_3"
->dissemination,</text>
-
-<text 
-x="1190" 
-y="421" 
-textLength="26" 
-class="s2_3"
->the</text>
+>dissemination, the</text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
 <text 
 x="1047" 
 y="444" 
-textLength="58" 
+textLength="139" 
 class="s3_3"
->project</text>
-
-<text 
-x="1122" 
-y="444" 
-textLength="61" 
-class="s3_3"
->website</text>
+>project website</text>
 </a>
 
 <text 
@@ -753,23 +499,9 @@ class="s2_3"
 <text 
 x="1047" 
 y="467" 
-textLength="26" 
+textLength="169" 
 class="s2_3"
->the</text>
-
-<text 
-x="1088" 
-y="467" 
-textLength="42" 
-class="s2_3"
->main</text>
-
-<text 
-x="1144" 
-y="467" 
-textLength="71" 
-class="s2_3"
->channel.</text>
+>the main channel.</text>
 
 <text 
 x="1047" 
@@ -923,14 +655,14 @@ class="s2_3"
 <text 
 x="1047" 
 y="998" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >Europeana News-</text>
 
 <text 
 x="1047" 
 y="1021" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >papers on social</text>
 
@@ -1077,70 +809,70 @@ class="s1_3"
 <text 
 x="1047" 
 y="1507" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >An approach for esti-</text>
 
 <text 
 x="1047" 
 y="1530" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >mating quality of a</text>
 
 <text 
 x="1047" 
 y="1553" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >digitisation pipeline</text>
 
 <text 
 x="1047" 
 y="1576" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >is introduced. As ex-</text>
 
 <text 
 x="1047" 
 y="1599" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >perimental evidence</text>
 
 <text 
 x="1047" 
 y="1622" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >shows, the quality of</text>
 
 <text 
 x="1047" 
 y="1645" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >digitisation results</text>
 
 <text 
 x="1047" 
 y="1668" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >can be predicted with</text>
 
 <text 
 x="1047" 
 y="1691" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >reasonable accuracy.</text>
 
 <text 
 x="1047" 
 y="1714" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >Find out more about</text>
 
@@ -1148,7 +880,7 @@ class="s2_3"
 <text 
 x="1047" 
 y="1736" 
-textLength="148" 
+textLength="149" 
 class="s3_3"
 >quality estimation</text>
 </a>
@@ -1156,7 +888,7 @@ class="s3_3"
 <text 
 x="1195" 
 y="1736" 
-textLength="168" 
+textLength="169" 
 class="s2_3"
 >.</text>
 
@@ -1177,37 +909,9 @@ class="s1_3"
 <text 
 x="287" 
 y="380" 
-textLength="14" 
+textLength="335" 
 class="s2_3"
->A</text>
-
-<text 
-x="317" 
-y="380" 
-textLength="42" 
-class="s2_3"
->main</text>
-
-<text 
-x="374" 
-y="380" 
-textLength="109" 
-class="s2_3"
->characteristic</text>
-
-<text 
-x="498" 
-y="380" 
-textLength="17" 
-class="s2_3"
->of</text>
-
-<text 
-x="530" 
-y="380" 
-textLength="92" 
-class="s2_3"
->Europeana</text>
+>A main characteristic of Europeana</text>
 
 <text 
 x="287" 
@@ -1226,37 +930,9 @@ class="s2_3"
 <text 
 x="287" 
 y="449" 
-textLength="17" 
+textLength="335" 
 class="s2_3"
->of</text>
-
-<text 
-x="328" 
-y="449" 
-textLength="50" 
-class="s2_3"
->digital</text>
-
-<text 
-x="401" 
-y="449" 
-textLength="94" 
-class="s2_3"
->collections.</text>
-
-<text 
-x="519" 
-y="449" 
-textLength="35" 
-class="s2_3"
->The</text>
-
-<text 
-x="578" 
-y="449" 
-textLength="45" 
-class="s2_3"
->sheer</text>
+>of digital collections. The sheer</text>
 
 <text 
 x="287" 
@@ -1373,44 +1049,9 @@ class="s2_3"
 <text 
 x="287" 
 y="655" 
-textLength="97" 
+textLength="335" 
 class="s2_3"
->newspapers</text>
-
-<text 
-x="400" 
-y="655" 
-textLength="48" 
-class="s2_3"
->issues</text>
-
-<text 
-x="463" 
-y="655" 
-textLength="41" 
-class="s2_3"
->from</text>
-
-<text 
-x="520" 
-y="655" 
-textLength="16" 
-class="s2_3"
->as</text>
-
-<text 
-x="551" 
-y="655" 
-textLength="40" 
-class="s2_3"
->early</text>
-
-<text 
-x="607" 
-y="655" 
-textLength="16" 
-class="s2_3"
->as</text>
+>newspaper issues from as early as</text>
 
 <text 
 x="287" 
@@ -1886,14 +1527,14 @@ class="s2_3"
 <text 
 x="671" 
 y="1552" 
-textLength="320" 
+textLength="323" 
 class="s2_3"
 >“I proposed to my students  to retrieve,</text>
 
 <text 
 x="671" 
 y="1575" 
-textLength="320" 
+textLength="323" 
 class="s2_3"
 >to analyse and to visualize any references</text>
 
@@ -1975,13 +1616,6 @@ y="152"
 textLength="330" 
 class="s8_3"
 >Special Issue - Final Report</text>
-
-<!-- <text 
-x="544" 
-y="267" 
-textLength="208" 
-class="s8_3"
->Facts and Figures</text> -->
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
 <image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>
