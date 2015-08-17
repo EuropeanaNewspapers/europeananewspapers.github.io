@@ -860,30 +860,9 @@ class="s3_1"
 <text 
 x="280" 
 y="1400" 
-textLength="26" 
+textLength="306" 
 class="s3_1"
->the</text>
-
-<text 
-x="323" 
-y="1400" 
-textLength="35" 
-class="s3_1"
->text.</text>
-
-<text 
-x="375" 
-y="1400" 
-textLength="92" 
-class="s3_1"
->Europeana</text>
-
-<text 
-x="484" 
-y="1400" 
-textLength="102" 
-class="s3_1"
->Newspapers</text>
+>the text. Europeana Newspapers</text>
 
 <text 
 x="280" 
@@ -909,44 +888,16 @@ class="s3_1"
 <text 
 x="280" 
 y="1492" 
-textLength="135" 
+textLength="306" 
 class="s3_1"
->paper pages using</text>
-
-<text 
-x="433" 
-y="1492" 
-textLength="153" 
-class="s3_1"
->Optical Character</text>
+>paper pages using Optical Character</text>
 
 <text 
 x="280" 
 y="1515" 
-textLength="101" 
+textLength="306" 
 class="s3_1"
->Recognition</text>
-
-<text 
-x="407" 
-y="1515" 
-textLength="58" 
-class="s3_1"
->(OCR)</text>
-
-<text 
-x="490" 
-y="1515" 
-textLength="91" 
-class="s3_1"
->technology</text>
-
-<text 
-x="582" 
-y="1515" 
-textLength="5" 
-class="s5_1"
->.</text>
+>Recognition (OCR) technology.</text>
 
 <text 
 x="280" 
@@ -1002,37 +953,9 @@ class="s3_1"
 <text 
 x="623" 
 y="1378" 
-textLength="49" 
+textLength="299" 
 class="s3_1"
->major</text>
-
-<text 
-x="686" 
-y="1378" 
-textLength="35" 
-class="s3_1"
->feat.</text>
-
-<text 
-x="736" 
-y="1378" 
-textLength="59" 
-class="s3_1"
->During</text>
-
-<text 
-x="810" 
-y="1378" 
-textLength="29" 
-class="s3_1"
->this</text>
-
-<text 
-x="853" 
-y="1378" 
-textLength="68" 
-class="s3_1"
->process</text>
+>major feat. During this process</text>
 
 <text 
 x="623" 
@@ -1172,44 +1095,16 @@ class="s3_1"
 <text 
 x="275" 
 y="757" 
-textLength="92" 
+textLength="218" 
 class="s3_1"
->Europeana</text>
-
-<text 
-x="391" 
-y="757" 
-textLength="102" 
-class="s3_1"
->Newspapers</text>
+>Europeana Newspapers</text>
 
 <text 
 x="275" 
 y="780" 
-textLength="58" 
+textLength="218" 
 class="s3_1"
->project</text>
-
-<text 
-x="348" 
-y="780" 
-textLength="52" 
-class="s3_1"
->aimed</text>
-
-<text 
-x="415" 
-y="780" 
-textLength="16" 
-class="s3_1"
->to</text>
-
-<text 
-x="447" 
-y="780" 
-textLength="46" 
-class="s3_1"
->make</text>
+>project aimed to make</text>
 
 <text 
 x="275" 
@@ -1263,16 +1158,9 @@ class="s3_1"
 <text 
 x="275" 
 y="1009" 
-textLength="23" 
+textLength="218" 
 class="s3_1"
->(2)</text>
-
-<text 
-x="312" 
-y="1009" 
-textLength="184" 
-class="s3_1"
->by using refinement</text>
+>(2) by using refinement</text>
 
 <text 
 x="275" 
@@ -1326,30 +1214,9 @@ class="s3_1"
 <text 
 x="526" 
 y="736" 
-textLength="35" 
+textLength="218" 
 class="s3_1"
->The</text>
-
-<text 
-x="576" 
-y="736" 
-textLength="56" 
-class="s3_1"
->overall</text>
-
-<text 
-x="647" 
-y="736" 
-textLength="64" 
-class="s3_1"
->amount</text>
-
-<text 
-x="727" 
-y="736" 
-textLength="17" 
-class="s3_1"
->of</text>
+>The overall amount of</text>
 
 <text 
 x="526" 
@@ -1492,17 +1359,17 @@ class="s3_1"
 <text 
 x="526" 
 y="1194" 
-textLength="217" 
+textLength="215" 
 class="s4_1"
 >Europeana Data Model</text>
+</a>
 
 <text 
-x="743" 
+x="741" 
 y="1194" 
-textLength="58" 
+textLength="3" 
 class="s3_1"
 >.</text>
-</a>
 
 <text 
 x="778" 
@@ -1550,22 +1417,15 @@ class="s3_1"
 <text 
 x="778" 
 y="873" 
-textLength="99" 
+textLength="231" 
 class="s4_1"
->Chronicling</text>
-
-<text 
-x="937" 
-y="873" 
-textLength="72" 
-class="s4_1"
->America</text>
+>Chronicling America</text>
 </a>
 
 <text 
 x="778" 
 y="896" 
-textLength="232" 
+textLength="231" 
 class="s3_1"
 >in the US, or the Australian</text>
 
@@ -1588,14 +1448,14 @@ class="s3_1"
 <text 
 x="778" 
 y="942" 
-textLength="232" 
+textLength="231" 
 class="s3_1"
 >The scale of Europeana</text>
 
 <text 
 x="778" 
 y="965" 
-textLength="232" 
+textLength="231" 
 class="s3_1"
 >Newspapers is truly putting</text>
 
@@ -1616,23 +1476,9 @@ class="s3_1"
 <text 
 x="778" 
 y="1033" 
-textLength="17" 
+textLength="231" 
 class="s3_1"
->of</text>
-
-<text 
-x="816" 
-y="1033" 
-textLength="69" 
-class="s3_1"
->digitised</text>
-
-<text 
-x="907" 
-y="1033" 
-textLength="102" 
-class="s3_1"
->newspapers.</text>
+>of digitised newspapers.</text>
 
 <text 
 x="778" 
@@ -1644,30 +1490,9 @@ class="s3_1"
 <text 
 x="778" 
 y="1079" 
-textLength="17" 
+textLength="231" 
 class="s3_1"
->of</text>
-
-<text 
-x="809" 
-y="1079" 
-textLength="67" 
-class="s3_1"
->statistics</text>
-
-<text 
-x="891" 
-y="1079" 
-textLength="78" 
-class="s3_1"
->regarding</text>
-
-<text 
-x="983" 
-y="1079" 
-textLength="26" 
-class="s3_1"
->the</text>
+>of statistics regarding the</text>
 
 <text 
 x="778" 
@@ -1693,30 +1518,9 @@ class="s3_1"
 <text 
 x="778" 
 y="1171" 
-textLength="63" 
+textLength="231" 
 class="s3_1"
->project,</text>
-
-<text 
-x="862" 
-y="1171" 
-textLength="52" 
-class="s3_1"
->please</text>
-
-<text 
-x="936" 
-y="1171" 
-textLength="26" 
-class="s3_1"
->see</text>
-
-<text 
-x="983" 
-y="1171" 
-textLength="26" 
-class="s3_1"
->the</text>
+>project, please see the</text>
 
 <text 
 x="778" 
