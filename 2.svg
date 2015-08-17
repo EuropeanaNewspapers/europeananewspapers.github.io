@@ -229,30 +229,16 @@ class="s3_2"
 <text 
 x="65" 
 y="845" 
-textLength="99" 
+textLength="193" 
 class="s2_2"
->(Europeana</text>
-
-<text 
-x="186" 
-y="845" 
-textLength="72" 
-class="s2_2"
->Newspa-</text>
+>(Europeana Newspa-</text>
 
 <text 
 x="65" 
 y="868" 
-textLength="35" 
+textLength="193" 
 class="s2_2"
->pers</text>
-
-<text 
-x="134" 
-y="868" 
-textLength="124" 
-class="s2_2"
->METS/ALTO</text>
+>pers METS/ALTO</text>
 
 <text 
 x="65" 
@@ -285,44 +271,16 @@ class="s2_2"
 <text 
 x="65" 
 y="982" 
-textLength="58" 
+textLength="193" 
 class="s2_2"
->gestion</text>
-
-<text 
-x="148" 
-y="982" 
-textLength="17" 
-class="s2_2"
->of</text>
-
-<text 
-x="189" 
-y="982" 
-textLength="69" 
-class="s2_2"
->digitised</text>
+>gestion of digitised</text>
 
 <text 
 x="65" 
 y="1005" 
-textLength="97" 
+textLength="193" 
 class="s2_2"
->newspapers</text>
-
-<text 
-x="185" 
-y="1005" 
-textLength="18" 
-class="s2_2"
->so</text>
-
-<text 
-x="227" 
-y="1005" 
-textLength="31" 
-class="s2_2"
->that</text>
+>newspapers so that</text>
 
 <text 
 x="65" 
@@ -334,44 +292,16 @@ class="s2_2"
 <text 
 x="65" 
 y="1051" 
-textLength="31" 
+textLength="193" 
 class="s2_2"
->and</text>
-
-<text 
-x="117" 
-y="1051" 
-textLength="74" 
-class="s2_2"
->searched</text>
-
-<text 
-x="212" 
-y="1051" 
-textLength="16" 
-class="s2_2"
->in</text>
-
-<text 
-x="249" 
-y="1051" 
-textLength="9" 
-class="s2_2"
->a</text>
+>and searched in a</text>
 
 <text 
 x="65" 
 y="1074" 
-textLength="90" 
+textLength="193" 
 class="s2_2"
->newspaper</text>
-
-<text 
-x="183" 
-y="1074" 
-textLength="75" 
-class="s2_2"
->browsing</text>
+>newspaper browsing</text>
 
 <text 
 x="65" 
@@ -426,24 +356,17 @@ class="s2_2"
 <text 
 x="65" 
 y="1578" 
-textLength="61" 
+textLength="71" 
 class="s3_2"
 >Structify</text>
 </a>
 
 <text 
-x="141" 
+x="142" 
 y="1578" 
-textLength="69" 
+textLength="116" 
 class="s2_2"
->software</text>
-
-<text 
-x="226" 
-y="1578" 
-textLength="32" 
-class="s2_2"
->tool</text>
+>software tool</text>
 
 <text 
 x="65" 
@@ -636,14 +559,14 @@ x="1046"
 y="953" 
 textLength="170" 
 class="s2_2"
->has also been imple-</text>
+>has also been im-</text>
 
 <text 
 x="1046" 
 y="976" 
 textLength="170" 
 class="s2_2"
->mented and is</text>
+>plemented and is</text>
 
 <text 
 x="1046" 
@@ -769,7 +692,7 @@ class="s3_2"
 <text 
 x="1138" 
 y="1463" 
-textLength="168" 
+textLength="3" 
 class="s2_2"
 >.</text>
 
@@ -792,21 +715,21 @@ class="s3_2"
 <text 
 x="1046" 
 y="1509" 
-textLength="168" 
+textLength="170" 
 class="s2_2"
 >for more information.</text>
 
 <text 
 x="1046" 
 y="1558" 
-textLength="164" 
+textLength="170" 
 class="s2_2"
 >Eventually, the com-</text>
 
 <text 
 x="1046" 
 y="1581" 
-textLength="164" 
+textLength="170" 
 class="s2_2"
 >plete Europeana</text>
 
@@ -869,37 +792,9 @@ class="s2_2"
 <text 
 x="281" 
 y="403" 
-textLength="40" 
+textLength="368" 
 class="s2_2"
->scale</text>
-
-<text 
-x="336" 
-y="403" 
-textLength="58" 
-class="s2_2"
->project</text>
-
-<text 
-x="408" 
-y="403" 
-textLength="51" 
-class="s2_2"
->where</text>
-
-<text 
-x="473" 
-y="403" 
-textLength="92" 
-class="s2_2"
->Europeana</text>
-
-<text 
-x="581" 
-y="403" 
-textLength="69" 
-class="s2_2"
->presents</text>
+>scale project where Europeana presents</text>
 
 <text 
 x="281" 
@@ -1004,44 +899,9 @@ class="s2_2"
 <text 
 x="281" 
 y="1228" 
-textLength="53" 
+textLength="368" 
 class="s2_2"
->tween</text>
-
-<text 
-x="342" 
-y="1228" 
-textLength="71" 
-class="s2_2"
->different</text>
-
-<text 
-x="431" 
-y="1228" 
-textLength="58" 
-class="s2_2"
->objects</text>
-
-<text 
-x="506" 
-y="1228" 
-textLength="16" 
-class="s2_2"
->in</text>
-
-<text 
-x="539" 
-y="1228" 
-textLength="38" 
-class="s2_2"
->their</text>
-
-<text 
-x="596" 
-y="1228" 
-textLength="54" 
-class="s2_2"
->portal.</text>
+>tween different objects in their portal.</text>
 
 <text 
 x="716" 
@@ -1067,37 +927,9 @@ class="s2_2"
 <text 
 x="676" 
 y="402" 
-textLength="33" 
+textLength="344" 
 class="s2_2"
->web</text>
-
-<text 
-x="735" 
-y="402" 
-textLength="57" 
-class="s2_2"
->portals</text>
-
-<text 
-x="818" 
-y="402" 
-textLength="24" 
-class="s2_2"
->for</text>
-
-<text 
-x="868" 
-y="402" 
-textLength="50" 
-class="s2_2"
->digital</text>
-
-<text 
-x="944" 
-y="402" 
-textLength="76" 
-class="s2_2"
->historical</text>
+>web portals for digital historical</text>
 
 <text 
 x="676" 
@@ -1109,51 +941,16 @@ class="s2_2"
 <text 
 x="676" 
 y="448" 
-textLength="92" 
+textLength="344" 
 class="s2_2"
->Europeana</text>
-
-<text 
-x="807" 
-y="448" 
-textLength="102" 
-class="s2_2"
->Newspapers</text>
-
-<text 
-x="948" 
-y="448" 
-textLength="72" 
-class="s2_2"
->interface</text>
+>Europeana Newspapers interface</text>
 
 <text 
 x="676" 
 y="471" 
-textLength="60" 
+textLength="344" 
 class="s2_2"
->offered</text>
-
-<text 
-x="766" 
-y="471" 
-textLength="45" 
-class="s2_2"
->some</text>
-
-<text 
-x="841" 
-y="471" 
-textLength="58" 
-class="s2_2"
->unique</text>
-
-<text 
-x="929" 
-y="471" 
-textLength="91" 
-class="s2_2"
->challenges:</text>
+>offered some unique challenges:</text>
 
 <text 
 x="676" 
@@ -1165,37 +962,9 @@ class="s2_2"
 <text 
 x="676" 
 y="517" 
-textLength="82" 
+textLength="344" 
 class="s2_2"
->metadata)</text>
-
-<text 
-x="775" 
-y="517" 
-textLength="41" 
-class="s2_2"
->from</text>
-
-<text 
-x="833" 
-y="517" 
-textLength="21" 
-class="s2_2"
->14</text>
-
-<text 
-x="870" 
-y="517" 
-textLength="71" 
-class="s2_2"
->different</text>
-
-<text 
-x="958" 
-y="517" 
-textLength="62" 
-class="s2_2"
->content</text>
+>metadata) from 14 different content</text>
 
 <text 
 x="676" 
@@ -1242,44 +1011,9 @@ class="s2_2"
 <text 
 x="676" 
 y="677" 
-textLength="19" 
+textLength="344" 
 class="s2_2"
->by</text>
-
-<text 
-x="714" 
-y="677" 
-textLength="34" 
-class="s2_2"
->data</text>
-
-<text 
-x="767" 
-y="677" 
-textLength="77" 
-class="s2_2"
->provider,</text>
-
-<text 
-x="863" 
-y="677" 
-textLength="69" 
-class="s2_2"
->country,</text>
-
-<text 
-x="950" 
-y="677" 
-textLength="35" 
-class="s2_2"
->date</text>
-
-<text 
-x="1004" 
-y="677" 
-textLength="17" 
-class="s2_2"
->of</text>
+>by collection holder, country, date of</text>
 
 <text 
 x="676" 
@@ -1305,37 +1039,9 @@ class="s2_2"
 <text 
 x="676" 
 y="769" 
-textLength="49" 
+textLength="344" 
 class="s2_2"
->which</text>
-
-<text 
-x="742" 
-y="769" 
-textLength="72" 
-class="s2_2"
->gathered</text>
-
-<text 
-x="831" 
-y="769" 
-textLength="99" 
-class="s2_2"
->information</text>
-
-<text 
-x="947" 
-y="769" 
-textLength="22" 
-class="s2_2"
->on</text>
-
-<text 
-x="985" 
-y="769" 
-textLength="35" 
-class="s2_2"
->how</text>
+>which gathered information on how</text>
 
 <text 
 x="676" 
@@ -1375,9 +1081,9 @@ class="s2_2"
 <text 
 x="676" 
 y="907" 
-textLength="320" 
+textLength="344" 
 class="s2_2"
->and a first prototype implemented.</text>
+>and a first prototype was implemented.</text>
 
 <text 
 x="676" 
@@ -1389,30 +1095,9 @@ class="s2_2"
 <text 
 x="676" 
 y="1136" 
-textLength="35" 
+textLength="344" 
 class="s2_2"
->with</text>
-
-<text 
-x="738" 
-y="1136" 
-textLength="58" 
-class="s2_2"
->project</text>
-
-<text 
-x="823" 
-y="1136" 
-textLength="102" 
-class="s2_2"
->participants,</text>
-
-<text 
-x="952" 
-y="1136" 
-textLength="68" 
-class="s2_2"
->usability</text>
+>with project participants, usability</text>
 
 <text 
 x="676" 
@@ -1424,30 +1109,9 @@ class="s2_2"
 <text 
 x="676" 
 y="1182" 
-textLength="90" 
+textLength="344" 
 class="s2_2"
->newspaper</text>
-
-<text 
-x="797" 
-y="1182" 
-textLength="72" 
-class="s2_2"
->interface</text>
-
-<text 
-x="890" 
-y="1182" 
-textLength="31" 
-class="s2_2"
->and</text>
-
-<text 
-x="935" 
-y="1182" 
-textLength="85" 
-class="s2_2"
->to suggest</text>
+>newspaper interface and to suggest</text>
 
 <text 
 x="676" 
@@ -1489,58 +1153,16 @@ class="s2_2"
 <text 
 x="676" 
 y="1296" 
-textLength="82" 
+textLength="344" 
 class="s2_2"
->Following</text>
-
-<text 
-x="800" 
-y="1296" 
-textLength="26" 
-class="s2_2"
->the</text>
-
-<text 
-x="868" 
-y="1296" 
-textLength="152" 
-class="s2_2"
->recommendations</text>
+>Following-up on the recommendations</text>
 
 <text 
 x="676" 
 y="1319" 
-textLength="75" 
+textLength="344" 
 class="s2_2"
->provided</text>
-
-<text 
-x="770" 
-y="1319" 
-textLength="19" 
-class="s2_2"
->by</text>
-
-<text 
-x="807" 
-y="1319" 
-textLength="26" 
-class="s2_2"
->the</text>
-
-<text 
-x="851" 
-y="1319" 
-textLength="65" 
-class="s2_2"
->experts,</text>
-
-<text 
-x="935" 
-y="1319" 
-textLength="85" 
-class="s2_2"
->numerous</text>
+>provided by the experts, numerous</text>
 
 <text 
 x="676" 
@@ -1552,37 +1174,9 @@ class="s2_2"
 <text 
 x="676" 
 y="1365" 
-textLength="72" 
+textLength="344" 
 class="s2_2"
->interface</text>
-
-<text 
-x="763" 
-y="1365" 
-textLength="39" 
-class="s2_2"
->were</text>
-
-<text 
-x="817" 
-y="1365" 
-textLength="112" 
-class="s2_2"
->implemented</text>
-
-<text 
-x="943" 
-y="1365" 
-textLength="36" 
-class="s2_2"
->over</text>
-
-<text 
-x="994" 
-y="1365" 
-textLength="26" 
-class="s2_2"
->the</text>
+>interface were implemented over the</text>
 
 <text 
 x="676" 
@@ -1601,7 +1195,7 @@ class="s2_2"
 <text 
 x="676" 
 y="1434" 
-textLength="339" 
+textLength="340" 
 class="s2_2"
 >will be continuously added to the site</text>
 
@@ -1615,7 +1209,7 @@ class="s4_2"
 <text 
 x="676" 
 y="1690" 
-textLength="339" 
+textLength="344" 
 class="s2_2"
 >Try the newspaper search interface at</text>
 
@@ -1648,13 +1242,6 @@ y="152"
 textLength="330" 
 class="s6_2"
 >Special Issue - Final Report</text>
-
-<!-- <text 
-x="474" 
-y="267" 
-textLength="348" 
-class="s6_2"
->Outcomes and achievements</text> -->
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
 <image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>
