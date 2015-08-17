@@ -92,16 +92,9 @@ class="s2_1"
 <text 
 x="64" 
 y="433" 
-textLength="90" 
+textLength="185" 
 class="s3_1"
->Europeana</text>
-
-<text 
-x="158" 
-y="433" 
-textLength="90" 
-class="s3_1"
->Newspapers</text>
+>Europeana Newspapers</text>
 
 <text 
 x="64" 
@@ -120,37 +113,16 @@ class="s3_1"
 <text 
 x="64" 
 y="502" 
-textLength="117" 
+textLength="185" 
 class="s3_1"
->Commission's</text>
-
-<text 
-x="213" 
-y="502" 
-textLength="36" 
-class="s3_1"
->ICT</text>
+>Commission's ICT</text>
 
 <text 
 x="64" 
 y="525" 
-textLength="51" 
+textLength="185" 
 class="s3_1"
->Policy</text>
-
-<text 
-x="131" 
-y="525" 
-textLength="68" 
-class="s3_1"
->Support</text>
-
-<text 
-x="214" 
-y="525" 
-textLength="36" 
-class="s3_1"
->Pro-</text>
+>Policy Support Pro-</text>
 
 <text 
 x="64" 
@@ -162,44 +134,23 @@ class="s3_1"
 <text 
 x="64" 
 y="571" 
-textLength="139" 
+textLength="185" 
 class="s3_1"
->Competitiveness</text>
-
-<text 
-x="219" 
-y="571" 
-textLength="31" 
-class="s3_1"
->and</text>
+>Competitiveness and</text>
 
 <text 
 x="64" 
 y="593" 
-textLength="91" 
+textLength="185" 
 class="s3_1"
->Innovation</text>
-
-<text 
-x="195" 
-y="593" 
-textLength="54" 
-class="s3_1"
->frame-</text>
+>Innovation frame-</text>
 
 <text 
 x="64" 
 y="616" 
-textLength="42" 
+textLength="185" 
 class="s3_1"
->work</text>
-
-<text 
-x="150" 
-y="616" 
-textLength="100" 
-class="s3_1"
->Programme</text>
+>work Programme</text>
 
 <text 
 x="64" 
@@ -211,23 +162,9 @@ class="s3_1"
 <text 
 x="64" 
 y="662" 
-textLength="28" 
+textLength="185" 
 class="s3_1"
->ject</text>
-
-<text 
-x="110" 
-y="662" 
-textLength="57" 
-class="s3_1"
->budget</text>
-
-<text 
-x="184" 
-y="662" 
-textLength="66" 
-class="s3_1"
->compri-</text>
+>ject budget compri-</text>
 
 <text 
 x="64" 
@@ -246,30 +183,9 @@ class="s3_1"
 <text 
 x="64" 
 y="731" 
-textLength="22" 
+textLength="185" 
 class="s3_1"
->on</text>
-
-<text 
-x="101" 
-y="731" 
-textLength="17" 
-class="s3_1"
->of</text>
-
-<text 
-x="133" 
-y="731" 
-textLength="36" 
-class="s3_1"
->€4.1</text>
-
-<text 
-x="185" 
-y="731" 
-textLength="65" 
-class="s3_1"
->million.</text>
+>on of €4.1 million.</text>
 
 <text 
 x="64" 
@@ -288,67 +204,32 @@ class="s3_1"
 <text 
 x="64" 
 y="800" 
-textLength="186" 
+textLength="185" 
 class="s3_1"
 >a total of 18 partners,</text>
 
 <text 
 x="64" 
 y="823" 
-textLength="101" 
+textLength="185" 
 class="s3_1"
->coordinated</text>
-
-<text 
-x="185" 
-y="823" 
-textLength="19" 
-class="s3_1"
->by</text>
-
-<text 
-x="224" 
-y="823" 
-textLength="26" 
-class="s3_1"
->the</text>
+>coordinated by the</text>
 
 <a xlink:href="http://staatsbibliothek-berlin.de/" target="_blank">
 <text 
 x="64" 
 y="846" 
-textLength="52" 
+textLength="185" 
 class="s4_1"
->Berlin</text>
-
-<text 
-x="132" 
-y="846" 
-textLength="40" 
-class="s4_1"
->State</text>
-
-<text 
-x="188" 
-y="846" 
-textLength="62" 
-class="s4_1"
->Library</text>
+>Berlin State Library</text>
 </a>
 
 <text 
 x="64" 
 y="868" 
-textLength="139" 
+textLength="185" 
 class="s3_1"
->(Staatsbibliothek</text>
-
-<text 
-x="231" 
-y="868" 
-textLength="19" 
-class="s3_1"
->zu</text>
+>(Staatsbibliothek zu</text>
 
 <text 
 x="64" 
@@ -360,65 +241,23 @@ class="s3_1"
 <text 
 x="64" 
 y="914" 
-textLength="32" 
+textLength="185" 
 class="s3_1"
->tion</text>
-
-<text 
-x="112" 
-y="914" 
-textLength="17" 
-class="s3_1"
->of</text>
-
-<text 
-x="145" 
-y="914" 
-textLength="21" 
-class="s3_1"
->38</text>
-
-<text 
-x="181" 
-y="914" 
-textLength="68" 
-class="s3_1"
->months,</text>
+>tion of 38 months,</text>
 
 <text 
 x="64" 
 y="937" 
-textLength="90" 
+textLength="185" 
 class="s3_1"
->starting in</text>
-
-<text 
-x="164" 
-y="937" 
-textLength="86" 
-class="s3_1"
->February</text>
+>starting in February</text>
 
 <text 
 x="64" 
 y="960" 
-textLength="42" 
+textLength="185" 
 class="s3_1"
->2012</text>
-
-<text 
-x="130" 
-y="960" 
-textLength="31" 
-class="s3_1"
->and</text>
-
-<text 
-x="184" 
-y="960" 
-textLength="65" 
-class="s3_1"
->running</text>
+>2012 and running</text>
 
 <text 
 x="64" 
@@ -430,58 +269,23 @@ class="s3_1"
 <text 
 x="64" 
 y="1006" 
-textLength="58" 
+textLength="155" 
 class="s3_1"
->project</text>
-
-<text 
-x="128" 
-y="1006" 
-textLength="52" 
-class="s3_1"
->strove</text>
-
-<text 
-x="188" 
-y="1006" 
-textLength="27" 
-class="s3_1"
->for:</text>
+>project strove for:</text>
 
 <text 
 x="64" 
 y="1052" 
-textLength="16" 
+textLength="185" 
 class="s3_1"
->1)</text>
-
-<text 
-x="106" 
-y="1052" 
-textLength="98" 
-class="s3_1"
->Aggregating</text>
-
-<text 
-x="229" 
-y="1052" 
-textLength="21" 
-class="s3_1"
->18</text>
+>1) Aggregating 18</text>
 
 <text 
 x="64" 
 y="1075" 
-textLength="60" 
+textLength="185" 
 class="s3_1"
->million</text>
-
-<text 
-x="188" 
-y="1075" 
-textLength="62" 
-class="s3_1"
->historic</text>
+>million of historic</text>
 
 <text 
 x="64" 
@@ -493,86 +297,37 @@ class="s3_1"
 <text 
 x="64" 
 y="1121" 
-textLength="98" 
+textLength="185" 
 class="s3_1"
->Europeana,</text>
-
-<text 
-x="224" 
-y="1121" 
-textLength="26" 
-class="s3_1"
->the</text>
+>Europeana, the main</text>
 
 <text 
 x="64" 
 y="1143" 
-textLength="83" 
+textLength="185" 
 class="s3_1"
->European</text>
-
-<text 
-x="177" 
-y="1143" 
-textLength="72" 
-class="s3_1"
->platform</text>
+>European platform</text>
 
 <text 
 x="64" 
 y="1166" 
-textLength="24" 
+textLength="185" 
 class="s3_1"
->for</text>
-
-<text 
-x="113" 
-y="1166" 
-textLength="50" 
-class="s3_1"
->digital</text>
-
-<text 
-x="187" 
-y="1166" 
-textLength="63" 
-class="s3_1"
->cultural</text>
+>for digital cultural</text>
 
 <text 
 x="64" 
 y="1189" 
-textLength="71" 
+textLength="185" 
 class="s3_1"
->heritage,</text>
-
-<text 
-x="159" 
-y="1189" 
-textLength="31" 
-class="s3_1"
->and</text>
-
-<text 
-x="215" 
-y="1189" 
-textLength="35" 
-class="s3_1"
->The</text>
+>heritage, and The</text>
 
 <text 
 x="64" 
 y="1212" 
-textLength="83" 
+textLength="165" 
 class="s3_1"
->European</text>
-
-<text 
-x="153" 
-y="1212" 
-textLength="67" 
-class="s3_1"
->Library;</text>
+>European Library;</text>
 
 <text 
 x="64" 
@@ -591,23 +346,9 @@ class="s3_1"
 <text 
 x="64" 
 y="1304" 
-textLength="16" 
+textLength="185" 
 class="s3_1"
->to</text>
-
-<text 
-x="94" 
-y="1304" 
-textLength="27" 
-class="s3_1"
->full</text>
-
-<text 
-x="135" 
-y="1304" 
-textLength="35" 
-class="s3_1"
->text;</text>
+>to searchable full text;</text>
 
 <text 
 x="64" 
@@ -633,44 +374,23 @@ class="s3_1"
 <text 
 x="64" 
 y="1418" 
-textLength="28" 
+textLength="125" 
 class="s3_1"
->per</text>
-
-<text 
-x="96" 
-y="1418" 
-textLength="80" 
-class="s3_1"
->browsing;</text>
+>per browsing;</text>
 
 <text 
 x="64" 
 y="1464" 
-textLength="186" 
+textLength="185" 
 class="s3_1"
 >4) Building tools that</text>
 
 <text 
 x="64" 
 y="1487" 
-textLength="28" 
+textLength="185" 
 class="s3_1"
->will</text>
-
-<text 
-x="109" 
-y="1487" 
-textLength="43" 
-class="s3_1"
->allow</text>
-
-<text 
-x="168" 
-y="1487" 
-textLength="82" 
-class="s3_1"
->professio-</text>
+>will allow professio-</text>
 
 <text 
 x="64" 
@@ -682,28 +402,14 @@ class="s3_1"
 <text 
 x="64" 
 y="1533" 
-textLength="26" 
+textLength="185" 
 class="s3_1"
->the</text>
-
-<text 
-x="92" 
-y="1533" 
-textLength="54" 
-class="s3_1"
->quality</text>
-
-<text 
-x="148" 
-y="1533" 
-textLength="102" 
-class="s3_1"
->of newspaper</text>
+>quality of newspaper</text>
 
 <text 
 x="64" 
 y="1556" 
-textLength="90" 
+textLength="100" 
 class="s3_1"
 >digitisation;</text>
 
@@ -717,65 +423,30 @@ class="s3_1"
 <text 
 x="64" 
 y="1625" 
-textLength="31" 
+textLength="185" 
 class="s3_1"
->and</text>
-
-<text 
-x="111" 
-y="1625" 
-textLength="72" 
-class="s3_1"
->fostering</text>
-
-<text 
-x="199" 
-y="1625" 
-textLength="51" 
-class="s3_1"
->know-</text>
+>and fostering know-</text>
 
 <text 
 x="64" 
 y="1648" 
-textLength="44" 
+textLength="185" 
 class="s3_1"
->ledge</text>
-
-<text 
-x="172" 
-y="1648" 
-textLength="77" 
-class="s3_1"
->exchange</text>
+>ledge exchange through</text>
 
 <text 
 x="64" 
 y="1671" 
-textLength="66" 
+textLength="185" 
 class="s3_1"
->through</text>
-
-<text 
-x="159" 
-y="1671" 
-textLength="90" 
-class="s3_1"
->workshops</text>
+>workshops and Infor-</text>
 
 <text 
 x="64" 
 y="1694" 
-textLength="31" 
+textLength="125" 
 class="s3_1"
->and</text>
-
-<text 
-x="100" 
-y="1694" 
-textLength="152" 
-class="s3_1"
->Information Days.</text>
+>mation Days.</text>
 
 <text 
 x="1078" 
