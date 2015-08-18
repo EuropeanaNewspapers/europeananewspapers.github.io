@@ -55,7 +55,6 @@ body {
 #mainNav {
     background: url('../img/assets.png') repeat scroll 0 -24px transparent;
     /* Background pattern courtesy of http://subtlepatterns.com/mocha-grunge/ */
-    
     padding-top: 7px;
     text-align: center;
     height: 32px;
