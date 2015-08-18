@@ -24,7 +24,6 @@ body {
 #leftNav {
     background: url('../img/assets.png') repeat scroll 0 -24px transparent;
     /* Background pattern courtesy of http://subtlepatterns.com/mocha-grunge/ */
-    
     display: none;
     padding-top: 7px;
     padding-left: 5px;
