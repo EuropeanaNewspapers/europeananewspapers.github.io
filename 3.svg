@@ -3,473 +3,255 @@
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <?xml-stylesheet type="text/css" href="assets/css/Style.css" ?>
     <svg x="0" y="0" width="1286" height="1818" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display: block;margin-left: auto;margin-right: auto;">
-
         <path d="M0,0 L0,1818 L1286,1818 L1286,0 Z " fill="#FFFFFF" stroke="none" />
         <image x="0" y="-1" width="1285" height="1821" xlink:href="assets/img/01.png" />
         <text x="89" y="387" textLength="135" class="s7">Ground Truth</text>
-
         <text x="122" y="410" textLength="77" class="s7">Dataset</text>
-
         <text x="66" y="455" textLength="189" class="s4">Another major activi-</text>
-
         <text x="66" y="478" textLength="189" class="s4">ty was the setup of an</text>
-
         <text x="66" y="501" textLength="189" class="s4">Image and Ground</text>
-
         <text x="66" y="524" textLength="189" class="s4">Truth Repository as</text>
-
         <text x="66" y="547" textLength="189" class="s4">the central infrastruc-</text>
-
         <text x="66" y="570" textLength="189" class="s4">ture for reference and</text>
-
         <text x="66" y="593" textLength="189" class="s4">all evaluation related</text>
-
         <text x="66" y="616" textLength="189" class="s4">purposes. The Euro-</text>
-
         <text x="66" y="639" textLength="189" class="s4">peana Newspapers</text>
-
         <text x="66" y="662" textLength="189" class="s4">Image and Ground</text>
-
         <text x="66" y="685" textLength="189" class="s4">Truth Repository was</text>
-
         <text x="66" y="707" textLength="189" class="s4">created and made</text>
-
         <text x="66" y="730" textLength="189" class="s4">available to interested</text>
-
         <text x="66" y="753" textLength="189" class="s4">parties. This repre-</text>
-
         <text x="66" y="776" textLength="189" class="s4">sentative and detailed</text>
-
         <text x="66" y="799" textLength="189" class="s4">dataset used for eva-</text>
-
         <text x="66" y="822" textLength="189" class="s4">luating the results of</text>
-
         <text x="66" y="845" textLength="189" class="s4">the main Europeana</text>
-
         <text x="66" y="868" textLength="189" class="s4">Newspapers produc-</text>
-
         <text x="66" y="891" textLength="189" class="s4">tion workflow also re-</text>
-
         <text x="66" y="914" textLength="189" class="s4">presents a unique</text>
-
         <text x="66" y="937" textLength="189" class="s4">resource for future</text>
-
         <text x="66" y="960" textLength="189" class="s4">research and deve-</text>
-
         <text x="66" y="982" textLength="189" class="s4">lopment activities re-</text>
-
         <text x="66" y="1005" textLength="189" class="s4">lated to training and</text>
-
         <text x="66" y="1028" textLength="189" class="s4">optimisation of OCR</text>
-
         <text x="66" y="1051" textLength="189" class="s4">engines, tracking the</text>
-
         <text x="66" y="1074" textLength="189" class="s4">state-of-the-art in the</text>
-
         <text x="66" y="1097" textLength="189" class="s4">field and may be used</text>
-
         <text x="66" y="1120" textLength="189" class="s4">for other research in</text>
-
         <text x="66" y="1143" textLength="189" class="s4">computer science. It</text>
-
         <text x="66" y="1166" textLength="189" class="s4">has to be emphasised</text>
-
         <text x="66" y="1189" textLength="189" class="s4">that most libraries</text>
-
         <text x="66" y="1212" textLength="189" class="s4">agreed to make their</text>
-
         <text x="66" y="1235" textLength="189" class="s4">Ground Truth data</text>
-
         <text x="66" y="1257" textLength="189" class="s4">freely available, which</text>
-
         <text x="66" y="1280" textLength="189" class="s4">will increase the usa-</text>
-
         <text x="66" y="1303" textLength="189" class="s4">bility of the data set</text>
-
         <text x="66" y="1326" textLength="89" class="s4">drastically.</text>
-
         <text x="66" y="1532" textLength="189" class="s4">The Europeana</text>
-
         <text x="66" y="1555" textLength="189" class="s4">Newspapers data set</text>
-
         <text x="66" y="1578" textLength="189" class="s4">is available for long-</text>
-
         <text x="66" y="1601" textLength="189" class="s4">term use from the</text>
-
         <text x="66" y="1624" textLength="189" class="s4">University of Salford</text>
-
         <text x="66" y="1647" textLength="189" class="s4">PRImA research group</text>
-
         <a xlink:href="http://primaresearch.org/datasets/ENP" target="_blank">
             <text x="66" y="1670" textLength="86" class="s6">repository</text>
         </a>
-
         <text x="152" y="1670" textLength="98" class="s4">. Automated</text>
-
         <text x="66" y="1693" textLength="189" class="s4">access was implemented</text>
-
         <text x="66" y="1716" textLength="189" class="s4">in collaboration with</text>
-
         <a xlink:href="http://www.succeed-project.eu/" target="_blank">
             <text x="66" y="1738" textLength="69" class="s6">Succeed </text>
         </a>
-
         <text x="140" y="1738" textLength="30" class="s4">and </text>
-
         <a xlink:href="http://www.digitisation.eu/" target="_blank">
             <text x="175" y="1738" textLength="65" class="s6">Impact</text>
         </a>
-
         <text x="240" y="1738" textLength="189" class="s4">.</text>
-
         <text x="1084" y="352" textLength="92" class="s7">Outreach</text>
-
         <text x="1047" y="398" textLength="169" class="s4">For outreach and</text>
-
         <text x="1047" y="421" textLength="169" class="s4">dissemination, the</text>
-
         <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
             <text x="1047" y="444" textLength="139" class="s6">project website</text>
         </a>
-
         <text x="1201" y="444" textLength="14" class="s4">is</text>
-
         <text x="1047" y="467" textLength="169" class="s4">the main channel.</text>
-
         <text x="1047" y="490" textLength="169" class="s4">The website provi-</text>
-
         <text x="1047" y="513" textLength="169" class="s4">des general infor-</text>
-
         <text x="1047" y="535" textLength="169" class="s4">mation about the</text>
-
         <text x="1047" y="558" textLength="169" class="s4">project, the consor-</text>
-
         <text x="1047" y="581" textLength="169" class="s4">tium members and</text>
-
         <text x="1047" y="604" textLength="169" class="s4">associated partners,</text>
-
         <text x="1047" y="627" textLength="169" class="s4">news related to the</text>
-
         <text x="1047" y="650" textLength="169" class="s4">project, activities</text>
-
         <text x="1047" y="673" textLength="169" class="s4">within the project</text>
-
         <text x="1047" y="696" textLength="169" class="s4">and public events.</text>
-
         <text x="1047" y="719" textLength="169" class="s4">Additionally, public</text>
-
         <text x="1047" y="742" textLength="169" class="s4">materials - delivera-</text>
-
         <text x="1047" y="765" textLength="169" class="s4">bles and dissemina-</text>
-
         <text x="1047" y="789" textLength="169" class="s4">tion materials - can</text>
-
         <text x="1047" y="812" textLength="48" class="s4">all be </text>
-
         <a xlink:href="http://www.europeana-newspapers.eu/public-materials/" target="_blank">
             <text x="1098" y="812" textLength="104" class="s6">downloaded</text>
         </a>
-
         <text x="1202" y="812" textLength="4" class="s4">.</text>
-
         <text x="1065" y="895" textLength="128" class="s7">Social Media</text>
-
         <text x="1047" y="929" textLength="169" class="s4">For past and fu-</text>
-
         <text x="1047" y="952" textLength="169" class="s4">ture activities,</text>
-
         <text x="1047" y="975" textLength="169" class="s4">make sure to follow</text>
-
         <text x="1047" y="998" textLength="169" class="s4">Europeana News-</text>
-
         <text x="1047" y="1021" textLength="169" class="s4">papers on social</text>
-
         <text x="1047" y="1044" textLength="122" class="s4">media here:</text>
-
-        <text x="1047" y="1080" textLength="10" class="s4">• </text>
-
+        <text x="1047" y="1080" textLength="10" class="s4">&#8226; </text>
         <a xlink:href="https://www.facebook.com/EuropeanaNewspapers" target="_blank">
             <text x="1060" y="1080" textLength="90" class="s6">Facebook</text>
         </a>
-
-        <text x="1047" y="1120" textLength="10" class="s4">• </text>
-
+        <text x="1047" y="1120" textLength="10" class="s4">&#8226; </text>
         <a xlink:href="https://twitter.com/eurnews" target="_blank">
             <text x="1060" y="1120" textLength="61" class="s6">Twitter</text>
         </a>
-
-        <text x="1047" y="1160" textLength="10" class="s4">• </text>
-
+        <text x="1047" y="1160" textLength="10" class="s4">&#8226; </text>
         <a xlink:href="http://www.linkedin.com/groups?gid=4425919" target="_blank">
             <text x="1060" y="1160" textLength="79" class="s6">LinkedIn</text>
         </a>
-
-        <text x="1047" y="1200" textLength="10" class="s4">• </text>
-
+        <text x="1047" y="1200" textLength="10" class="s4">&#8226; </text>
         <a xlink:href="https://www.flickr.com/enewspapers/" target="_blank">
             <text x="1060" y="1200" textLength="49" class="s6">Flickr</text>
         </a>
-
-        <text x="1047" y="1240" textLength="10" class="s4">• </text>
-
+        <text x="1047" y="1240" textLength="10" class="s4">&#8226; </text>
         <a xlink:href="https://vimeo.com/1003139/" target="_blank">
             <text x="1060" y="1240" textLength="57" class="s6">Vimeo</text>
         </a>
-
-        <text x="1047" y="1280" textLength="10" class="s4">• </text>
-
+        <text x="1047" y="1280" textLength="10" class="s4">&#8226; </text>
         <a xlink:href="https://www.youtube.com/watch?v=5G6v00Z8CyQ" target="_blank">
             <text x="1060" y="1280" textLength="73" class="s6">Youtube</text>
         </a>
-
-        <text x="1047" y="1320" textLength="10" class="s4">• </text>
-
+        <text x="1047" y="1320" textLength="10" class="s4">&#8226; </text>
         <a xlink:href="http://www.slideshare.net/Europeana_Newspapers" target="_blank">
             <text x="1060" y="1320" textLength="91" class="s6">Slideshare</text>
         </a>
-
         <text x="1084" y="1422" textLength="85" class="s7">Quality</text>
-
         <text x="1074" y="1445" textLength="110" class="s7">Estimation</text>
-
         <text x="1084" y="1468" textLength="85" class="s7">Toolkit</text>
-
         <text x="1047" y="1507" textLength="169" class="s4">An approach for esti-</text>
-
         <text x="1047" y="1530" textLength="169" class="s4">mating quality of a</text>
-
         <text x="1047" y="1553" textLength="169" class="s4">digitisation pipeline</text>
-
         <text x="1047" y="1576" textLength="169" class="s4">is introduced. As ex-</text>
-
         <text x="1047" y="1599" textLength="169" class="s4">perimental evidence</text>
-
         <text x="1047" y="1622" textLength="169" class="s4">shows, the quality of</text>
-
         <text x="1047" y="1645" textLength="169" class="s4">digitisation results</text>
-
         <text x="1047" y="1668" textLength="169" class="s4">can be predicted with</text>
-
         <text x="1047" y="1691" textLength="169" class="s4">reasonable accuracy.</text>
-
         <text x="1047" y="1714" textLength="169" class="s4">Find out more about</text>
-
         <a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/D3.6-Planning-resources-and-quality-estimation-toolkit.pdf" target="_blank">
             <text x="1047" y="1736" textLength="149" class="s6">quality estimation</text>
         </a>
-
         <text x="1195" y="1736" textLength="169" class="s4">.</text>
-
         <text x="312" y="311" textLength="285" class="s7">The Europeana Newspapers</text>
-
         <text x="404" y="334" textLength="101" class="s7">Collection</text>
-
         <text x="287" y="380" textLength="335" class="s4">A main characteristic of Europeana</text>
-
         <text x="287" y="403" textLength="335" class="s4">Newspapers is that it is a project about</text>
-
         <text x="287" y="426" textLength="335" class="s4">large scale aggregation and refinement</text>
-
         <text x="287" y="449" textLength="335" class="s4">of digital collections. The sheer</text>
-
         <text x="287" y="471" textLength="335" class="s4">amount of newspaper titles and pages</text>
-
         <text x="287" y="494" textLength="335" class="s4">being made available through the pro-</text>
-
         <text x="287" y="517" textLength="335" class="s4">ject is exceptional. At the end of March</text>
-
         <text x="287" y="540" textLength="134" class="s4">2015, a total of</text>
-
         <text x="430" y="540" textLength="90" class="s8">20.984.128</text>
-
         <text x="530" y="540" textLength="93" class="s4">pages have</text>
-
         <text x="287" y="563" textLength="335" class="s4">been released into the Europeana por-</text>
-
         <text x="287" y="586" textLength="207" class="s4">tal. This corresponds to</text>
-
         <text x="503" y="586" textLength="45" class="s8">3.463</text>
-
         <text x="556" y="586" textLength="67" class="s4">newspa-</text>
-
         <text x="287" y="609" textLength="28" class="s4">per</text>
-
         <text x="335" y="609" textLength="38" class="s4">titles</text>
-
         <text x="394" y="609" textLength="18" class="s4">or</text>
-
         <text x="432" y="609" textLength="80" class="s8">3.603.427</text>
-
         <text x="533" y="609" textLength="90" class="s4">newspaper</text>
-
         <text x="287" y="632" textLength="335" class="s4">issues. The overall collection covers</text>
-
         <text x="287" y="655" textLength="335" class="s4">newspaper issues from as early as</text>
-
         <text x="287" y="678" textLength="335" class="s4">1618 up to the 1990s, as can be seen in</text>
-
         <text x="287" y="701" textLength="116" class="s4">below graph.</text>
-
         <text x="287" y="976" textLength="335" class="s4">Altogether the content collected and</text>
-
         <text x="287" y="999" textLength="335" class="s4">processed from 14 project partners and</text>
-
         <text x="287" y="1021" textLength="335" class="s4">11 associated partner libraries covers</text>
-
         <text x="287" y="1044" textLength="335" class="s4">16 languages (with historical spel-</text>
-
         <text x="287" y="1067" textLength="335" class="s4">ling) and 5 different scripts (Roman,</text>
-
         <text x="287" y="1090" textLength="335" class="s4">Gothic, Cyrillic, Hebrew and Arabic).</text>
-
         <text x="329" y="1159" textLength="252" class="s7">Quality of the Europeana</text>
-
         <text x="296" y="1182" textLength="312" class="s7">Newspapers full text collection</text>
-
         <text x="287" y="1228" textLength="335" class="s4">A careful performance evaluation of</text>
-
         <text x="287" y="1251" textLength="335" class="s4">the quality of the full text produced</text>
-
         <text x="287" y="1274" textLength="335" class="s4">concluded that the results, especially</text>
-
         <text x="287" y="1296" textLength="335" class="s4">with regard to the overall text accuracy</text>
-
-        <text x="287" y="1319" textLength="335" class="s4">of around 80%, are of good quality and</text>
-
+        <text x="287" y="1319" textLength="335" class="s4">of around 80&#37;, are of good quality and</text>
         <text x="287" y="1342" textLength="335" class="s4">fit for use in a number of use scenarios.</text>
-
         <text x="287" y="1576" textLength="335" class="s4">Moreover, technical decisions that</text>
-
         <text x="287" y="1599" textLength="335" class="s4">were made during the setup of the</text>
-
         <text x="287" y="1622" textLength="335" class="s4">production workflow could be</text>
-
         <text x="287" y="1645" textLength="335" class="s4">confirmed. In terms of layout analysis</text>
-
         <text x="287" y="1668" textLength="335" class="s4">capabilities however, there is still room</text>
-
         <text x="287" y="1691" textLength="335" class="s4">for improvement and any progress in</text>
-
         <text x="287" y="1714" textLength="335" class="s4">this area could have a great impact on</text>
-
         <text x="287" y="1737" textLength="335" class="s4">more sophisticated use scenarios.</text>
-
         <text x="708" y="310" textLength="245" class="s7">Overview Of Newspaper</text>
-
         <text x="722" y="333" textLength="220" class="s7">Digitisation In Europe</text>
-
         <text x="651" y="379" textLength="14" class="s4">A</text>
-
         <a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/ENP-Deliverable_4.1_final.pdf" target="_blank">
             <text x="685" y="379" textLength="42" class="s6">2012</text>
-
             <text x="746" y="379" textLength="53" class="s6">survey</text>
         </a>
-
         <text x="812" y="379" textLength="204" class="s4">that was conducted by the</text>
-
         <text x="651" y="402" textLength="363" class="s4">Europeana Newspapers team identified all</text>
-
         <text x="651" y="425" textLength="363" class="s4">newspaper collections digitised by natio-</text>
-
         <text x="651" y="448" textLength="363" class="s4">nal, research and public libraries in Euro-</text>
-
         <text x="651" y="471" textLength="363" class="s4">pe. It revealed the 20th century gap or,</text>
-
         <text x="651" y="494" textLength="363" class="s4">according to Tim Sheratt, Manager of</text>
-
-        <text x="651" y="517" textLength="363" class="s4">Trove, "Copyright Cliff of Death" - the pro-</text>
-
+        <text x="651" y="517" textLength="363" class="s4">Trove, “Copyright Cliff of Death” - the pro-</text>
         <text x="651" y="540" textLength="363" class="s4">blem of making 20th century content</text>
-
         <text x="651" y="563" textLength="363" class="s4">available. Also, while millions of pages have</text>
-
         <text x="651" y="587" textLength="363" class="s4">been digitised, this is still only a fraction</text>
-
         <text x="651" y="610" textLength="363" class="s4">of the total physical holdings in libraries</text>
-
         <text x="651" y="633" textLength="193" class="s4">and newspaper archives.</text>
-
         <text x="651" y="656" textLength="363" class="s4">Next to this, the survey also noted that:</text>
-
-        <text x="651" y="679" textLength="363" class="s4">• Access to digitised newspapers is nearly</text>
-
+        <text x="651" y="679" textLength="363" class="s4">&#8226; Access to digitised newspapers is nearly</text>
         <text x="651" y="702" textLength="193" class="s4">always free of charge</text>
-
-        <text x="651" y="725" textLength="363" class="s4">• There is still much to be done to exploit</text>
-
+        <text x="651" y="725" textLength="363" class="s4">&#8226; There is still much to be done to exploit</text>
         <text x="651" y="748" textLength="363" class="s4">the richness of digitised newspaper content</text>
-
         <text x="678" y="813" textLength="302" class="s7">User stories: Researchers are</text>
-
         <text x="721" y="836" textLength="216" class="s7">keen to work with the</text>
-
         <text x="737" y="859" textLength="191" class="s7">digital newspapers</text>
-
         <text x="651" y="905" textLength="363" class="s4">Throughout the whole project, but</text>
-
         <text x="651" y="928" textLength="363" class="s4">especially in the 3rd and final year, when</text>
-
         <text x="651" y="951" textLength="363" class="s4">lots of material became available,</text>
-
         <text x="651" y="974" textLength="363" class="s4">Europeana Newspapers has conducted a</text>
-
         <text x="651" y="997" textLength="363" class="s4">series of interviews with scholars who use</text>
-
         <text x="651" y="1020" textLength="363" class="s4">digital newspapers in their research. The</text>
-
         <text x="651" y="1043" textLength="363" class="s4">interviews manifest an overwhelming</text>
-
         <text x="651" y="1066" textLength="363" class="s4">interest in a common European</text>
-
         <text x="651" y="1089" textLength="197" class="s4">newspaper resource.</text>
-
         <text x="651" y="1112" textLength="363" class="s4">E.g. Toine Pieters, Professor at the</text>
-
         <text x="651" y="1134" textLength="250" class="s4">University of Utrecht stated:</text>
-
         <text x="671" y="1157" textLength="323" class="s4">“For the first time in history we have</text>
-
         <text x="671" y="1180" textLength="323" class="s4">the opportunity to do transnational</text>
-
         <text x="671" y="1203" textLength="193" class="s4">comparative research.”</text>
-
-        <text x="651" y="1460" textLength="363" class="s4">Another researcher from Madrid, Amélia</text>
-
+        <text x="651" y="1460" textLength="363" class="s4">Another researcher from Madrid, Am&#233;lia</text>
         <text x="651" y="1483" textLength="363" class="s4">Sanz Cabrerizo, is already using the</text>
-
         <text x="651" y="1506" textLength="363" class="s4">Europeana Newspapers collection in her</text>
-
         <text x="651" y="1529" textLength="175" class="s4">classes with students:</text>
-
         <text x="671" y="1552" textLength="323" class="s4">“I proposed to my students to retrieve,</text>
-
         <text x="671" y="1575" textLength="323" class="s4">to analyse and to visualize any references</text>
-
-        <text x="671" y="1598" textLength="323" class="s4">concerning Madame de Staël in the</text>
-
+        <text x="671" y="1598" textLength="323" class="s4">concerning Madame de Sta&#235;l in the</text>
         <text x="671" y="1621" textLength="323" class="s4">Europeana Newspapers collection</text>
-
         <text x="671" y="1644" textLength="323" class="s4">and Hispanic Digital Newspapers.”</text>
-
         <text x="651" y="1667" textLength="363" class="s4">Read all about the various use cases and</text>
-
         <text x="651" y="1690" textLength="363" class="s4">opportunities for researchers made</text>
-
         <text x="651" y="1713" textLength="363" class="s4">possible through Europeana Newspapers</text>
-
         <text x="651" y="1736" textLength="44" class="s4">in the </text>
-
         <a xlink:href="http://www.europeana-newspapers.eu/category/interviews-with-researchers/" target="_blank">
             <text x="700" y="1736" textLength="192" class="s6">“Q&amp;A with researchers” </text>
         </a>
-
         <text x="897" y="1736" textLength="96" class="s4">blog series.</text>
-
         <text x="280" y="100" textLength="720" class="s1">Europeana Newspapers</text>
-
         <text x="483" y="152" textLength="330" class="s5">Special Issue - Final Report</text>
-
         <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
             <image x="64" y="69" width="199" height="284" xlink:href="assets/img/02.png" />
         </a>
@@ -477,38 +259,26 @@
             <image x="1038" y="69" width="182" height="119" xlink:href="assets/img/03.png" />
         </a>
         <text x="1051" y="309" textLength="151" class="s5">19 August 2015</text>
-
         <a xlink:href="http://ec.europa.eu/" target="_blank">
             <image x="1055" y="184" width="137" height="97" xlink:href="assets/img/04.png" />
         </a>
         <text x="267" y="181" textLength="337" class="s4">The Europeana Newspapers project (</text>
-
         <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
             <text x="604" y="181" textLength="262" class="s6">www.europeana-newspapers.eu</text>
         </a>
-
         <text x="867" y="181" textLength="165" class="s4">) is an EU-funded</text>
-
         <text x="267" y="204" textLength="286" class="s4">Best Practice Network to make</text>
-
         <text x="576" y="204" textLength="445" class="s4">European digital historical newspapers available via</text>
-
         <text x="267" y="227" textLength="107" class="s4">Europeana (</text>
-
         <a xlink:href="http://www.europeana.eu/" target="_blank">
             <text x="374" y="227" textLength="159" class="s6">www.europeana.eu</text>
         </a>
-
         <text x="534" y="227" textLength="249" class="s4">) &amp; The European Library (</text>
-
         <a xlink:href="http://www.theeuropeanlibrary.org/" target="_blank">
             <text x="783" y="227" textLength="237" class="s6">www.theeuropeanlibrary.org</text>
         </a>
-
         <text x="1021" y="227" textLength="11" class="s4">).</text>
-
         <text x="1146" y="1793" textLength="79" class="s5">Page 3</text>
-
         <a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2012/04/D-2-1_Dataset_for_refinement.pdf" target="_blank">
             <image x="292" y="710" width="330" height="234" xlink:href="assets/img/15.png" />
         </a>
@@ -521,8 +291,6 @@
         <a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/D3.5_Performance_Evaluation_Report_1.0.pdf" target="_blank">
             <image x="290" y="1358" width="332" height="188" xlink:href="assets/img/18.png" />
         </a>
-
         <path d="M0,1818 L0,0 L1286,0 L1286,1818 z " fill="none" stroke-width="1.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000" />
-
         <title>Europeana Newspapers: Final Report, Page 3</title>
     </svg>
