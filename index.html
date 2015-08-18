@@ -17,10 +17,10 @@
                 [1286, 1818],
                 [1286, 1818]
             ];
-            IDRViewer.makeNavBar(4, '.jpg', bounds, false);
+            Viewer.makeNavBar(4, '.jpg', bounds, false);
         }
     </script>
-    <script src="http://www.europeana-newspapers.eu/wp-content/uploads/2015/07/IDRViewer.js" type="text/javascript"></script>
+    <script src="http://www.europeana-newspapers.eu/wp-content/uploads/2015/08/Viewer.js" type="text/javascript"></script>
     <script src="http://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
 </head>
 <!-- Background pattern courtesy of http://subtlepatterns.com/grey-washed-wall/ -->
@@ -28,8 +28,8 @@
 <body style="background:url('assets/img/bg.png') repeat scroll 0 0 transparent;">
     <div id="left">
         <div id="leftNav">
-            <div id="btnThumbnails" onclick="IDRViewer.toggleOutlines(false)" title="Thumbnails" class="navBtn inactive"></div>
-            <div id="btnOutlines" onclick="IDRViewer.toggleOutlines(true)" title="Bookmarks" class="navBtn inactive"></div>
+            <div id="btnThumbnails" onclick="Viewer.toggleOutlines(false)" title="Thumbnails" class="navBtn inactive"></div>
+            <div id="btnOutlines" onclick="Viewer.toggleOutlines(true)" title="Bookmarks" class="navBtn inactive"></div>
         </div>
         <div id="leftContent">
             <div id="thumbnailPanel"></div>
@@ -38,18 +38,18 @@
     </div>
     <div id="main">
         <div id="mainNav">
-            <div id="btnSideToggle" onclick="IDRViewer.toggleThumbnails();" class="navBtn">
+            <div id="btnSideToggle" onclick="Viewer.toggleThumbnails();" class="navBtn">
                 <div title="Sidebar"></div>
             </div>
-            <div id="btnPrev" title="Previous Page" onclick="IDRViewer.prev()" class="navBtn"></div>
-            <select id="goBtn" onchange="IDRViewer.goToPage(0)">
+            <div id="btnPrev" title="Previous Page" onclick="Viewer.prev()" class="navBtn"></div>
+            <select id="goBtn" onchange="Viewer.goToPage(0)">
             </select>
             <span id="pgCount"></span>
-            <div id="btnNext" title="Next Page" onclick="IDRViewer.next()" class="navBtn"></div>
-            <div id="btnSelect" title="Select" onclick="IDRViewer.setSelectMode(0)" class="navBtn"></div>
-            <div id="btnMove" title="Pan" onclick="IDRViewer.setSelectMode(1)" class="navBtn"></div>
-            <div id="btnZoomOut" title="Zoom Out" onclick="IDRViewer.zoomOut()" class="navBtn"></div>
-            <select id="zoomBtn" onchange="IDRViewer.zoomUpdate()">
+            <div id="btnNext" title="Next Page" onclick="Viewer.next()" class="navBtn"></div>
+            <div id="btnSelect" title="Select" onclick="Viewer.setSelectMode(0)" class="navBtn"></div>
+            <div id="btnMove" title="Pan" onclick="Viewer.setSelectMode(1)" class="navBtn"></div>
+            <div id="btnZoomOut" title="Zoom Out" onclick="Viewer.zoomOut()" class="navBtn"></div>
+            <select id="zoomBtn" onchange="Viewer.zoomUpdate()">
                 <option value="0">100%</option>
                 <option value="1">Actual Size</option>
                 <option value="2">Fit Width</option>
@@ -57,8 +57,8 @@
                 <option value="4">Fit Page</option>
                 <option value="5">Automatic</option>
             </select>
-            <div id="btnZoomIn" title="Zoom In" onclick="IDRViewer.zoomIn()" class="navBtn"></div>
-            <div id="btnFullscreen" title="Fullscreen" onclick="IDRViewer.toggleFullScreen();" class="navBtn closed"></div>
+            <div id="btnZoomIn" title="Zoom In" onclick="Viewer.zoomIn()" class="navBtn"></div>
+            <div id="btnFullscreen" title="Fullscreen" onclick="Viewer.toggleFullScreen();" class="navBtn closed"></div>
         </div>
         <div id="mainContent">
             <div id="contentContainer">
