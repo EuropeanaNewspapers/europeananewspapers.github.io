@@ -1,56 +1,56 @@
-.s1{
-font-size: 96.00px;
-font-family: BeckettK;
-fill: #161413;
+.s1 {
+    font-size: 96.00px;
+    font-family: BeckettK;
+    fill: #161413;
 }
-.s2{
-font-size: 27.50px;
-font-family: Fo0S0;
-fill: #161413;
-font-weight: bold;
+.s2 {
+    font-size: 27.50px;
+    font-family: Fo0S0;
+    fill: #161413;
+    font-weight: bold;
 }
-.s3{
-font-size: 30.56px;
-font-family: Fo0S0;
-fill: #161413;
-font-weight: bold;
+.s3 {
+    font-size: 30.56px;
+    font-family: Fo0S0;
+    fill: #161413;
+    font-weight: bold;
 }
-.s4{
-font-size: 21.39px;
-font-family: BaskOldFace;
-fill: #161413;
+.s4 {
+    font-size: 21.39px;
+    font-family: BaskOldFace;
+    fill: #161413;
 }
-.s5{
-font-size: 30.56px;
-font-family: BaskOldFace;
-fill: #161413;
+.s5 {
+    font-size: 30.56px;
+    font-family: BaskOldFace;
+    fill: #161413;
 }
-.s6{
-font-size: 21.39px;
-font-family: BaskOldFace;
-fill: #0000FF;
+.s6 {
+    font-size: 21.39px;
+    font-family: BaskOldFace;
+    fill: #0000FF;
 }
-.s7{
-font-size: 21.39px;
-font-family: Fo0S0;
-fill: #161413;
-font-weight: bold;
+.s7 {
+    font-size: 21.39px;
+    font-family: Fo0S0;
+    fill: #161413;
+    font-weight: bold;
 }
-.s8{
-font-size: 20px;
-font-family: Fo0S0;
-fill: #161413;
-font-weight: bold;
-}
-@font-face {
-	font-family: BaskOldFace;
-	src :url("../fonts/BaskOldFace.woff") format("woff");
+.s8 {
+    font-size: 20px;
+    font-family: Fo0S0;
+    fill: #161413;
+    font-weight: bold;
 }
 @font-face {
-	font-family: ArialMT;
-	src :url("../fonts/ArialMT.woff") format("woff");
+    font-family: BaskOldFace;
+    src: url("../fonts/BaskOldFace.woff") format("woff");
 }
 @font-face {
-	font-family: BeckettK;
-	src :url("../fonts/BeckettK.woff") format("woff");
+    font-family: ArialMT;
+    src: url("../fonts/ArialMT.woff") format("woff");
+}
+@font-face {
+    font-family: BeckettK;
+    src: url("../fonts/BeckettK.woff") format("woff");
 }

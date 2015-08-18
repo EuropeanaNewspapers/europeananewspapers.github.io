@@ -3,10 +3,10 @@ body:-webkit-full-screen {
     height: 100%;
 }
 body::-ms-backdrop {
-    background:url('assets/img/bg.png') repeat scroll 0 0 transparent;
+    background: url('assets/img/bg.png') repeat scroll 0 0 transparent;
 }
 body {
-    margin:0;
+    margin: 0;
     overflow: hidden;
 }
 #left {
@@ -22,7 +22,9 @@ body {
     z-index: 5;
 }
 #leftNav {
-    background:url('../img/assets.png') repeat scroll 0 -24px transparent; /* Background pattern courtesy of http://subtlepatterns.com/mocha-grunge/ */
+    background: url('../img/assets.png') repeat scroll 0 -24px transparent;
+    /* Background pattern courtesy of http://subtlepatterns.com/mocha-grunge/ */
+    
     display: none;
     padding-top: 7px;
     padding-left: 5px;
@@ -36,7 +38,7 @@ body {
     right: 0;
     position: absolute;
     overflow-y: scroll;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     -webkit-overflow-scrolling: touch;
 }
 #outlinePanel {
@@ -51,11 +53,13 @@ body {
     position: absolute;
 }
 #mainNav {
-    background:url('../img/assets.png') repeat scroll 0 -24px transparent; /* Background pattern courtesy of http://subtlepatterns.com/mocha-grunge/ */
+    background: url('../img/assets.png') repeat scroll 0 -24px transparent;
+    /* Background pattern courtesy of http://subtlepatterns.com/mocha-grunge/ */
+    
     padding-top: 7px;
     text-align: center;
     height: 32px;
-    z-index:999;
+    z-index: 999;
     border-bottom: 1px solid #555555;
     white-space: nowrap;
     top: 0;
@@ -73,7 +77,9 @@ body {
     font-size: 14px;
     color: rgb(255, 255, 255);
 }
-#btnSelect, #btnZoomOut, #viewBtn {
+#btnSelect,
+#btnZoomOut,
+#viewBtn {
     margin-left: 20px;
 }
 #btnFullscreen {
@@ -100,18 +106,42 @@ body {
 .navBtn:active {
     opacity: 0.6;
 }
-#btnPrev { background-position: -120px 0; }
-#btnNext { background-position: -72px 0; }
-#btnSelect { background-position: -144px 0; }
-#btnMove { background-position: -48px 0; }
-#btnZoomOut { background-position: -240px 0; }
-#btnZoomIn { background-position: -216px 0; }
-#btnFullscreen.closed { background-position: 0 0; }
-#btnFullscreen.open { background-position: -24px 0; }
-#btnSideToggle { background-position: -192px 0; }
-#btnThumbnails { background-position: -168px 0; }
-#btnOutlines { background-position: -96px 0; }
-#btnDownload { background-position: -264px 0; }
+#btnPrev {
+    background-position: -120px 0;
+}
+#btnNext {
+    background-position: -72px 0;
+}
+#btnSelect {
+    background-position: -144px 0;
+}
+#btnMove {
+    background-position: -48px 0;
+}
+#btnZoomOut {
+    background-position: -240px 0;
+}
+#btnZoomIn {
+    background-position: -216px 0;
+}
+#btnFullscreen.closed {
+    background-position: 0 0;
+}
+#btnFullscreen.open {
+    background-position: -24px 0;
+}
+#btnSideToggle {
+    background-position: -192px 0;
+}
+#btnThumbnails {
+    background-position: -168px 0;
+}
+#btnOutlines {
+    background-position: -96px 0;
+}
+#btnDownload {
+    background-position: -264px 0;
+}
 #mainContent {
     top: 40px;
     bottom: 0;
@@ -122,7 +152,7 @@ body {
 }
 #contentContainer {
     margin: 0 auto;
-    overflow:hidden;
+    overflow: hidden;
     padding: 3px;
 }
 .inactive {
@@ -142,7 +172,8 @@ body {
 #mainNav * {
     vertical-align: middle;
 }
-#zoomBtn, #viewBtn {
+#zoomBtn,
+#viewBtn {
     width: 95px;
     height: 25px;
     background-color: #B0B0B0;
@@ -158,7 +189,7 @@ body {
     margin: 0 auto;
     text-align: center;
 }
-.thumbnail img{
+.thumbnail img {
     max-width: 160px;
 }
 .currentPageThumbnail {
@@ -182,7 +213,7 @@ body {
     font-size: 15px;
 }
 #outlinePanel li:hover {
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0, 0, 0, 0.3);
     cursor: pointer;
 }
 .customNavLink {
@@ -192,6 +223,6 @@ body {
     height: 27px;
     width: auto;
     border: 0 !important;
-    border-radius:0 !important;
+    border-radius: 0 !important;
     margin-top: -3px;
 }

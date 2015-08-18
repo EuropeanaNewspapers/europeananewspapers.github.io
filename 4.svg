@@ -1,1550 +1,480 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <?xml-stylesheet type="text/css" href="assets/css/Style.css" ?>
-<svg x="0" y="0" width="1286" height="1818" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-style="display: block;margin-left: auto;margin-right: auto;">
-
-<path d="M0,0
-L0,1818
-L1286,1818
-L1286,0 Z " 
-fill="#FFFFFF" stroke="none" />
-<image x="0" y="0" width="1285" height="1819" xlink:href="assets/img/01.png" />
-<a xlink:href="https://www.flickr.com/photos/enewspapers/" target="_blank">
-<image x="78" y="421" width="168" height="180" xlink:href="assets/img/22.png" /></a>
-<text 
-x="92" 
-y="386" 
-textLength="138" 
-class="s7"
->Note from the</text>
-
-<text 
-x="100" 
-y="409" 
-textLength="122" 
-class="s7"
->Coordinator</text>
-
-<text 
-x="72" 
-y="638" 
-textLength="177" 
-class="s4"
->“It is a fairly rare ex-</text>
-
-<text 
-x="72" 
-y="661" 
-textLength="177" 
-class="s4"
->perience for a libra-</text>
-
-<text 
-x="72" 
-y="684" 
-textLength="177" 
-class="s4"
->rian to be involved</text>
-
-<text 
-x="72" 
-y="707" 
-textLength="177" 
-class="s4"
->in an international</text>
-
-<text 
-x="72" 
-y="730" 
-textLength="177" 
-class="s4"
->endeavour as suc-</text>
-
-<text 
-x="72" 
-y="753" 
-textLength="177" 
-class="s4"
->cessful as the Euro-</text>
-
-<text 
-x="72" 
-y="776" 
-textLength="177" 
-class="s4"
->peana Newspapers</text>
-
-<text 
-x="72" 
-y="799" 
-textLength="77" 
-class="s4"
->project.</text>
-
-<text 
-x="72" 
-y="844" 
-textLength="177" 
-class="s4"
->Looking back at the</text>
-
-<text 
-x="72" 
-y="867" 
-textLength="177" 
-class="s4"
->past three years I</text>
-
-<text 
-x="72" 
-y="890" 
-textLength="177" 
-class="s4"
->can't help but mar-</text>
-
-<text 
-x="72" 
-y="913" 
-textLength="177" 
-class="s4"
->vel at the sheer size</text>
-
-<text 
-x="72" 
-y="936" 
-textLength="177" 
-class="s4"
->of what the project</text>
-
-<text 
-x="72" 
-y="959" 
-textLength="177" 
-class="s4"
->consortium has</text>
-
-<text 
-x="72" 
-y="982" 
-textLength="77" 
-class="s4"
->achieved.</text>
-
-<text 
-x="72" 
-y="1028" 
-textLength="177" 
-class="s4"
->Stipulating access to</text>
-
-<text 
-x="72" 
-y="1051" 
-textLength="177" 
-class="s4"
->more than 20 milli-</text>
-
-<text 
-x="72" 
-y="1074" 
-textLength="177" 
-class="s4"
->on newspaper pages</text>
-
-<text 
-x="72" 
-y="1097" 
-textLength="177" 
-class="s4"
->as machine readable</text>
-
-<text 
-x="72" 
-y="1119" 
-textLength="177" 
-class="s4"
->texts is more than</text>
-
-<text 
-x="72" 
-y="1142" 
-textLength="177" 
-class="s4"
->we could have anti-</text>
-
-<text 
-x="72" 
-y="1165" 
-textLength="177" 
-class="s4"
->cipated at the begin-</text>
-
-<text 
-x="72" 
-y="1188" 
-textLength="166" 
-class="s4"
->ning of our work.</text>
-
-<text 
-x="72" 
-y="1234" 
-textLength="177" 
-class="s4"
->More than anything</text>
-
-<text 
-x="72" 
-y="1257" 
-textLength="177" 
-class="s4"
->else it is the absolu-</text>
-
-<text 
-x="72" 
-y="1280" 
-textLength="177" 
-class="s4"
->tely overwhelming</text>
-
-<text 
-x="72" 
-y="1303" 
-textLength="177" 
-class="s4"
->feedback of our users</text>
-
-<text 
-x="72" 
-y="1326" 
-textLength="177" 
-class="s4"
->that has stunned me.</text>
-
-<text 
-x="72" 
-y="1372" 
-textLength="177" 
-class="s4"
->Fostering access to</text>
-
-<text 
-x="72" 
-y="1394" 
-textLength="177" 
-class="s4"
->these resources on a</text>
-
-<text 
-x="72" 
-y="1417" 
-textLength="177" 
-class="s4"
->pan-European scale</text>
-
-<text 
-x="72" 
-y="1440" 
-textLength="177" 
-class="s4"
->now enables insights</text>
-
-<text 
-x="72" 
-y="1463" 
-textLength="177" 
-class="s4"
->that were, in practi-</text>
-
-<text 
-x="72" 
-y="1486" 
-textLength="177" 
-class="s4"
->cal terms, hitherto</text>
-
-<text 
-x="72" 
-y="1509" 
-textLength="177" 
-class="s4"
->impossible to gain.</text>
-
-<text 
-x="72" 
-y="1555" 
-textLength="177" 
-class="s4"
->I feel privileged and</text>
-
-<text 
-x="72" 
-y="1578" 
-textLength="177" 
-class="s4"
->honoured to be part</text>
-
-<text 
-x="72" 
-y="1601" 
-textLength="177" 
-class="s4"
->of this great work.”</text>
-
-<text 
-x="72" 
-y="1647" 
-textLength="177" 
-class="s4"
->Hans-Jörg Lieder</text>
-
-<text 
-x="72" 
-y="1669" 
-textLength="177" 
-class="s4"
->from the Berlin State</text>
-
-<text 
-x="72" 
-y="1692" 
-textLength="177" 
-class="s4"
->Library, Coordinator</text>
-
-<text 
-x="72" 
-y="1715" 
-textLength="177" 
-class="s4"
->of the Europeana</text>
-
-<text 
-x="72" 
-y="1736" 
-textLength="177" 
-class="s4"
->Newspapers project.</text>
-
-<text 
-x="1094" 
-y="351" 
-textLength="72" 
-class="s7"
->Project</text>
-
-<text 
-x="1104" 
-y="374" 
-textLength="50" 
-class="s7"
->rated</text>
-
-<text 
-x="1076" 
-y="396" 
-textLength="113" 
-class="s7"
->“Excellent”</text>
-
-<text 
-x="1048" 
-y="442" 
-textLength="170" 
-class="s4"
->The project achie-</text>
-
-<text 
-x="1048" 
-y="465" 
-textLength="170" 
-class="s4"
->vements and outco-</text>
-
-<text 
-x="1048" 
-y="488" 
-textLength="170" 
-class="s4"
->mes have been</text>
-
-<text 
-x="1048" 
-y="511" 
-textLength="170" 
-class="s4"
->carefully assessed</text>
-
-<text 
-x="1048" 
-y="534" 
-textLength="170" 
-class="s4"
->by external experts</text>
-
-<text 
-x="1048" 
-y="557" 
-textLength="170" 
-class="s4"
->appointed by the</text>
-
-<text 
-x="1048" 
-y="580" 
-textLength="170" 
-class="s4"
->European Com-</text>
-
-<text 
-x="1048" 
-y="603" 
-textLength="170" 
-class="s4"
->mission. The out-</text>
-
-<text 
-x="1048" 
-y="626" 
-textLength="170" 
-class="s4"
->come of this</text>
-
-<text 
-x="1048" 
-y="649" 
-textLength="170" 
-class="s4"
->assessment was that</text>
-
-<text 
-x="1048" 
-y="671" 
-textLength="170" 
-class="s4"
->the project had ma-</text>
-
-<text 
-x="1048" 
-y="694" 
-textLength="170" 
-class="s4"
->de “Excellent pro-</text>
-
-<text 
-x="1048" 
-y="717" 
-textLength="170" 
-class="s4"
->gress (the project</text>
-
-<text 
-x="1048" 
-y="740" 
-textLength="170" 
-class="s4"
->has fully achieved</text>
-
-<text 
-x="1048" 
-y="763" 
-textLength="170" 
-class="s4"
->its objectives and</text>
-
-<text 
-x="1048" 
-y="786" 
-textLength="170" 
-class="s4"
->goals for the period</text>
-
-<text 
-x="1048" 
-y="809" 
-textLength="170" 
-class="s4"
->and has even ex-</text>
-
-<text 
-x="1048" 
-y="832" 
-textLength="170" 
-class="s4"
->ceeded expectati-</text>
-
-<text 
-x="1048" 
-y="855" 
-textLength="170" 
-class="s4"
->ons)” and that “This</text>
-
-<text 
-x="1048" 
-y="878" 
-textLength="170" 
-class="s4"
->has been a signifi-</text>
-
-<text 
-x="1048" 
-y="901" 
-textLength="170" 
-class="s4"
->cant and successful</text>
-
-<text 
-x="1048" 
-y="924" 
-textLength="170" 
-class="s4"
->project with great</text>
-
-<text 
-x="1048" 
-y="946" 
-textLength="170" 
-class="s4"
->potential for enga-</text>
-
-<text 
-x="1048" 
-y="969" 
-textLength="170" 
-class="s4"
->ging public interest</text>
-
-<text 
-x="1048" 
-y="992" 
-textLength="170" 
-class="s4"
->and generating high</text>
-
-<text 
-x="1048" 
-y="1015" 
-textLength="170" 
-class="s4"
->use over a long time</text>
-
-<text 
-x="1048" 
-y="1038" 
-textLength="48" 
-class="s4"
->span.”</text>
-
-<text 
-x="1068" 
-y="1107" 
-textLength="123" 
-class="s7"
->Take-up and</text>
-
-<text 
-x="1070" 
-y="1130" 
-textLength="118" 
-class="s7"
->exploitation</text>
-
-<text 
-x="1085" 
-y="1153" 
-textLength="95" 
-class="s7"
->of results</text>
-
-<text 
-x="1048" 
-y="1199" 
-textLength="170" 
-class="s4"
->Already now there</text>
-
-<text 
-x="1048" 
-y="1222" 
-textLength="170" 
-class="s4"
->are some great ex-</text>
-
-<text 
-x="1048" 
-y="1245" 
-textLength="170" 
-class="s4"
->amples of take-up</text>
-
-<text 
-x="1048" 
-y="1268" 
-textLength="170" 
-class="s4"
->and exploitation of</text>
-
-<text 
-x="1048" 
-y="1290" 
-textLength="170" 
-class="s4"
->the project outcomes.</text>
-
-<text 
-x="1048" 
-y="1313" 
-textLength="170" 
-class="s4"
->For example, the</text>
-
-<text 
-x="1048" 
-y="1336" 
-textLength="170" 
-class="s4"
->European Asso-</text>
-
-<text 
-x="1048" 
-y="1359" 
-textLength="170" 
-class="s4"
->ciation of History</text>
-
-<text 
-x="1048" 
-y="1382" 
-textLength="170" 
-class="s4"
->Educators (Euroclio)</text>
-
-<text 
-x="1048" 
-y="1405" 
-textLength="170" 
-class="s4"
->will use Europeana</text>
-
-<text 
-x="1048" 
-y="1428" 
-textLength="170" 
-class="s4"
->Newspapers in their</text>
-
-<text 
-x="1048" 
-y="1451" 
-textLength="170" 
-class="s4"
->online educational</text>
-
-<text 
-x="1048" 
-y="1474" 
-textLength="170" 
-class="s4"
->multimedia tool</text>
-
-<a xlink:href="http://www.historiana.eu/" target="_blank">
-<text 
-x="1048" 
-y="1497" 
-textLength="88" 
-class="s6"
->Historiana</text>
-</a>
-
-<text 
-x="1136" 
-y="1497" 
-textLength="11" 
-class="s4"
->.</text>
-
-<text 
-x="1048" 
-y="1542" 
-textLength="170" 
-class="s4"
->Furthermore, the</text>
-
-<text 
-x="1047" 
-y="1565" 
-textLength="170" 
-class="s4"
->Berlin State Library</text>
-
-<text 
-x="1048" 
-y="1588" 
-textLength="170" 
-class="s4"
->is working on fee-</text>
-
-<text 
-x="1048" 
-y="1611" 
-textLength="170" 
-class="s4"
->ding experiences and</text>
-
-<text 
-x="1048" 
-y="1634" 
-textLength="170" 
-class="s4"
->lessons learned into</text>
-
-<text 
-x="1048" 
-y="1657" 
-textLength="170" 
-class="s4"
->the next national</text>
-
-<text 
-x="1048" 
-y="1680" 
-textLength="170" 
-class="s4"
->funding programme</text>
-
-<text 
-x="1048" 
-y="1703" 
-textLength="170" 
-class="s4"
->for newspaper digiti-</text>
-
-<text 
-x="1048" 
-y="1726" 
-textLength="170" 
-class="s4"
->sation in Germany.</text>
-
-<text 
-x="342" 
-y="312" 
-textLength="235" 
-class="s7"
->Refinement of digitised</text>
-
-<text 
-x="402" 
-y="335" 
-textLength="122" 
-class="s7"
->newspapers</text>
-
-<text 
-x="277" 
-y="380" 
-textLength="372" 
-class="s4"
->A key activitiy in Europeana Newspapers</text>
-
-<text 
-x="277" 
-y="403" 
-textLength="372" 
-class="s4"
->was the refinement of digitised newspaper</text>
-
-<text 
-x="277" 
-y="426" 
-textLength="372" 
-class="s4"
->pages with Optical Character Recognition</text>
-
-<text 
-x="277" 
-y="449" 
-textLength="372" 
-class="s4"
->and Optical Layout Recognition in order</text>
-
-<text 
-x="277" 
-y="472" 
-textLength="372" 
-class="s4"
->to produce electronic and fully searchable</text>
-
-<text 
-x="277" 
-y="495" 
-textLength="372" 
-class="s4"
->text from scanned newspaper images. The</text>
-
-<text 
-x="277" 
-y="518" 
-textLength="372" 
-class="s4"
->ambitious goal of the project was to apply</text>
-
-<text 
-x="277" 
-y="541" 
-textLength="372" 
-class="s4"
->these techniques to approximately 10 milli-</text>
-
-<text 
-x="277" 
-y="564" 
-textLength="372" 
-class="s4"
->on pages, and accordingly technical project</text>
-
-<text 
-x="277" 
-y="587" 
-textLength="372" 
-class="s4"
->partners with great experience in such refi-</text>
-
-<text 
-x="277" 
-y="610" 
-textLength="372" 
-class="s4"
->nement were selected for the processing of</text>
-
-<text 
-x="277" 
-y="632" 
-textLength="372" 
-class="s4"
->the newspaper pages. Organising the refine-</text>
-
-<text 
-x="277" 
-y="655" 
-textLength="372" 
-class="s4"
->ment of over 10 million newspaper pages</text>
-
-<text 
-x="277" 
-y="678" 
-textLength="372" 
-class="s4"
->required a very clear and highly standardi-</text>
-
-<text 
-x="277" 
-y="701" 
-textLength="372" 
-class="s4"
->sed workflow to ensure that all parties are</text>
-
-<text 
-x="277" 
-y="724" 
-textLength="372" 
-class="s4"
->aware of their tasks at all times and can al-</text>
-
-<text 
-x="277" 
-y="747" 
-textLength="372" 
-class="s4"
->ways track the data at any point in the defi-</text>
-
-<text 
-x="277" 
-y="770" 
-textLength="372" 
-class="s4"
->ned workflow. In the first year of the</text>
-
-<text 
-x="277" 
-y="793" 
-textLength="372" 
-class="s4"
->project, available digital newspaper collecti-</text>
-
-<text 
-x="277" 
-y="816" 
-textLength="372" 
-class="s4"
->ons of the partners were analysed and suita-</text>
-
-<text 
-x="277" 
-y="839" 
-textLength="372" 
-class="s4"
->ble materials for refinement selected. In the</text>
-
-<text 
-x="277" 
-y="862" 
-textLength="372" 
-class="s4"
->first year, a clear and strict specification</text>
-
-<text 
-x="277" 
-y="885" 
-textLength="372" 
-class="s4"
->was drawn, giving detailed instructions</text>
-
-<text 
-x="277" 
-y="907" 
-textLength="372" 
-class="s4"
->about the way files and folders had to be</text>
-
-<text 
-x="277" 
-y="930" 
-textLength="372" 
-class="s4"
->provided by libraries in order to make the</text>
-
-<text 
-x="277" 
-y="953" 
-textLength="372" 
-class="s4"
->subsequent refinement processes run as au-</text>
-
-<text 
-x="277" 
-y="976" 
-textLength="372" 
-class="s4"
->tomated and smoothly as possible. To faci-</text>
-
-<text 
-x="277" 
-y="999" 
-textLength="372" 
-class="s4"
->litate the necessary pre-processing of local</text>
-
-<text 
-x="277" 
-y="1022" 
-textLength="372" 
-class="s4"
->data to meet the requirements set out in the</text>
-
-<text 
-x="277" 
-y="1045" 
-textLength="372" 
-class="s4"
->specification, a number of supporting soft-</text>
-
-<text 
-x="277" 
-y="1068" 
-textLength="372" 
-class="s4"
->ware tools were created which have</text>
-
-<text 
-x="277" 
-y="1091" 
-textLength="372" 
-class="s4"
->since also been released as open source.</text>
-
-<text 
-x="327" 
-y="1137" 
-textLength="264" 
-class="s7"
->Named Entity Recognition</text>
-
-<text 
-x="331" 
-y="1160" 
-textLength="262" 
-class="s7"
->for Historical Newspapers</text>
-
-<text 
-x="277" 
-y="1205" 
-textLength="372" 
-class="s4"
->Named Entity Recognition (NER) is the</text>
-
-<text 
-x="277" 
-y="1228" 
-textLength="372" 
-class="s4"
->process of identifying and classifying entities</text>
-
-<text 
-x="277" 
-y="1251" 
-textLength="372" 
-class="s4"
->such as persons, locations and organisations</text>
-
-<text 
-x="277" 
-y="1274" 
-textLength="372" 
-class="s4"
->in a text in order to enhance searchability.</text>
-
-<text 
-x="277" 
-y="1297" 
-textLength="372" 
-class="s4"
->For Europeana Newspapers, it was decided</text>
-
-<text 
-x="277" 
-y="1320" 
-textLength="372" 
-class="s4"
->to produce NER for newspapers in three</text>
-
-<text 
-x="277" 
-y="1343" 
-textLength="372" 
-class="s4"
->languages: Dutch, French and German.</text>
-
-<text 
-x="277" 
-y="1549" 
-textLength="372" 
-class="s4"
->Further to that, the project experimented</text>
-
-<text 
-x="277" 
-y="1572" 
-textLength="372" 
-class="s4"
->with more advanced ways to refine the NER</text>
-
-<text 
-x="277" 
-y="1595" 
-textLength="372" 
-class="s4"
->results by disambiguation and linking of</text>
-
-<text 
-x="277" 
-y="1618" 
-textLength="372" 
-class="s4"
->the extracted entities to authority files. In</text>
-
-<text 
-x="277" 
-y="1641" 
-textLength="372" 
-class="s4"
->the long run this will allow for a much more</text>
-
-<text 
-x="277" 
-y="1664" 
-textLength="372" 
-class="s4"
->useful presentation of search results.</text>
-
-<text 
-x="277" 
-y="1687" 
-textLength="372" 
-class="s4"
->All software and data for NER can also be</text>
-
-<text 
-x="277" 
-y="1710" 
-textLength="226" 
-class="s4"
->downloaded freely from the</text>
-
-<a xlink:href="http://lab.kbresearch.nl/static/html/eunews.html" target="_blank">
-<text 
-x="508" 
-y="1710" 
-textLength="132" 
-class="s6"
->Lab of the KB</text>
-</a>
-
-<text 
-x="640" 
-y="1710" 
-textLength="372" 
-class="s6"
->,</text>
-
-<text 
-x="277" 
-y="1733" 
-textLength="372" 
-class="s4"
->the National Library of the Netherlands.</text>
-
-<text 
-x="726" 
-y="312" 
-textLength="243" 
-class="s7"
->The Story of Walter Flex</text>
-
-<text 
-x="677" 
-y="564" 
-textLength="341" 
-class="s4"
->A film was produced in cooperation</text>
-
-<text 
-x="677" 
-y="587" 
-textLength="341" 
-class="s4"
->between Europeana Newspapers and</text>
-
-<a xlink:href="http://www.europeana-collections-1914-1918.eu/" target="_blank">
-<text 
-x="677" 
-y="610" 
-textLength="341" 
-class="s6"
->Europeana Collections 1914-1918</text>
-</a>
-
-<text 
-x="677" 
-y="633" 
-textLength="341" 
-class="s4"
->narrating the story of Walter Flex, war</text>
-
-<text 
-x="677" 
-y="655" 
-textLength="341" 
-class="s4"
->volunteer from the start and one of the</text>
-
-<text 
-x="677" 
-y="678" 
-textLength="341" 
-class="s4"
->best-known writers of the First World</text>
-
-<text 
-x="677" 
-y="701" 
-textLength="341" 
-class="s4"
->War. Important documents of his</text>
-
-<text 
-x="677" 
-y="724" 
-textLength="341" 
-class="s4"
->literary remains, kept in the Staatsbiblio-</text>
-
-<text 
-x="677" 
-y="747" 
-textLength="341" 
-class="s4"
->thek zu Berlin, have now been digitized</text>
-
-<text 
-x="677" 
-y="770" 
-textLength="341" 
-class="s4"
->and are freely accessible in Europeana.</text>
-
-<text 
-x="677" 
-y="816" 
-textLength="341" 
-class="s4"
->You can watch the full 18-minute movie</text>
-
-<text 
-x="677" 
-y="839" 
-textLength="341" 
-class="s4"
->(with subtitles in multiple languages) on</text>
-
-<a xlink:href="https://www.youtube.com/watch?v=AZ77LvCbFr8" target="_blank">
-<text 
-x="677" 
-y="862" 
-textLength="78" 
-class="s6"
->Youtube.</text>
-</a>
-
-<text 
-x="790" 
-y="930" 
-textLength="115" 
-class="s7"
->Workshops</text>
-
-<text 
-x="677" 
-y="1160" 
-textLength="341" 
-class="s4"
->The Europeana Newspapers project</text>
-
-<text 
-x="677" 
-y="1183" 
-textLength="341" 
-class="s4"
->organised three major public workshops:</text>
-
-<text 
-x="677" 
-y="1228" 
-textLength="15" 
-class="s4"
->1.</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/focus-on-newspaper-refinement-quality-assessment-in-belgrade/" target="_blank">
-<text 
-x="732" 
-y="1228" 
-textLength="286" 
-class="s6"
->Workshop on “Refinement and</text>
-
-<text 
-x="732" 
-y="1251" 
-textLength="186" 
-class="s6"
->Quality Assessment”,</text>
-</a>
-
-<text 
-x="732" 
-y="1274" 
-textLength="226" 
-class="s4"
->June 2013, Belgrade, Serbia.</text>
-
-<text 
-x="677" 
-y="1320" 
-textLength="15" 
-class="s4"
->2.</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/amsterdam-workshop-report/" target="_blank">
-<text 
-x="732" 
-y="1320" 
-textLength="286" 
-class="s6"
->Workshop on “Aggregation and</text>
-
-<text 
-x="732" 
-y="1343" 
-textLength="114" 
-class="s6"
->Presentation”</text>
-</a>
-
-<text 
-x="846" 
-y="1343" 
-textLength="5" 
-class="s5_4"
->,</text>
-
-<text 
-x="732" 
-y="1366" 
-textLength="286" 
-class="s4"
->September 2013, Amsterdam,</text>
-
-<text 
-x="732" 
-y="1389" 
-textLength="116" 
-class="s4"
->Netherlands.</text>
-
-<text 
-x="677" 
-y="1435" 
-textLength="15" 
-class="s4"
->3.</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/D6.2.3_Report_on_Final_Workshop_London.pdf" target="_blank">
-<text 
-x="732" 
-y="1435" 
-textLength="286" 
-class="s6"
->Workshop on “Newspapers in</text>
-
-<text 
-x="732" 
-y="1458" 
-textLength="286" 
-class="s6"
->Europe and the Digital Agenda for</text>
-</a>
-
-<text 
-x="732" 
-y="1480" 
-textLength="116" 
-class="s6"
->for Europe”</text>
-
-<text 
-x="732" 
-y="1503" 
-textLength="286" 
-class="s4"
->September 2013, London, United</text>
-
-<text 
-x="732" 
-y="1526" 
-textLength="86" 
-class="s4"
->Kingdom.</text>
-
-<text 
-x="677" 
-y="1595" 
-textLength="341" 
-class="s4"
->In addition to the workshops, a series of</text>
-
-<text 
-x="677" 
-y="1618" 
-textLength="142" 
-class="s4"
->highly successful </text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/D6.3.1_Summary_Infodays_final.pdf" target="_blank">
-<text 
-x="828" 
-y="1618" 
-textLength="145" 
-class="s6"
->Information Days</text>
-</a>
-
-<text 
-x="982" 
-y="1618" 
-textLength="42" 
-class="s4"
->were</text>
-
-<text 
-x="677" 
-y="1641" 
-textLength="341" 
-class="s4"
->organised by participants in their own</text>
-
-<text 
-x="677" 
-y="1664" 
-textLength="341" 
-class="s4"
->country and local language, to make sure the</text>
-
-<text 
-x="677" 
-y="1687" 
-textLength="341" 
-class="s4"
->project and its activities are well embedded</text>
-
-<text 
-x="677" 
-y="1710" 
-textLength="341" 
-class="s4"
->in the various national newspaper and</text>
-
-<text 
-x="677" 
-y="1733" 
-textLength="218"
-class="s4"
->digitisation communities.</text>
-
-<text 
-x="280" 
-y="100" 
-textLength="720" 
-class="s1"
->Europeana Newspapers</text>
-
-<text 
-x="483" 
-y="152" 
-textLength="330" 
-class="s5"
->Special Issue - Final Report</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
-<image x="64" y="69" width="199" height="284" xlink:href="assets/img/02.png" /></a>
-<a xlink:href="http://ec.europa.eu/cip/ict-psp/index_en.htm" target="_blank">
-<image x="1038" y="69" width="182" height="119" xlink:href="assets/img/03.png" /></a>
-<text 
-x="1051" 
-y="309" 
-textLength="151" 
-class="s5"
->31 July 2015</text>
-
-<a xlink:href="http://ec.europa.eu/" target="_blank">
-<image x="1055" y="184" width="137" height="97" xlink:href="assets/img/04.png" /></a>
-<text 
-x="267" 
-y="181" 
-textLength="337" 
-class="s4"
->The Europeana Newspapers project (</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
-<text 
-x="604" 
-y="181" 
-textLength="262" 
-class="s6"
->www.europeana-newspapers.eu</text>
-</a>
-
-<text 
-x="867" 
-y="181" 
-textLength="165" 
-class="s4"
->) is an EU-funded</text>
-
-<text 
-x="267" 
-y="204" 
-textLength="286" 
-class="s4"
->Best Practice Network to make</text>
-
-<text 
-x="576" 
-y="204" 
-textLength="445" 
-class="s4"
->European digital historical newspapers available via</text>
-
-<text 
-x="267" 
-y="227" 
-textLength="107" 
-class="s4"
->Europeana (</text>
-
-<a xlink:href="http://www.europeana.eu/" target="_blank">
-<text 
-x="374" 
-y="227" 
-textLength="159" 
-class="s6"
->www.europeana.eu</text>
-</a>
-
-<text 
-x="534" 
-y="227" 
-textLength="249" 
-class="s4"
->) &amp; The European Library (</text>
-
-<a xlink:href="httP://www.theeuropeanlibrary.org/" target="_blank">
-<text 
-x="783" 
-y="227" 
-textLength="237" 
-class="s6"
->www.theeuropeanlibrary.org</text>
-</a>
-
-<text 
-x="1021" 
-y="227" 
-textLength="11" 
-class="s4"
->).</text>
-
-<text 
-x="1146" 
-y="1793" 
-textLength="79" 
-class="s5"
->Page 4</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/digital-newspapers-illustration/" target="_blank">
-<image x="679" y="941" width="340" height="195" xlink:href="assets/img/19.png" /></a>
-<a xlink:href="http://www.europeana-newspapers.eu/named-entity-recognition-for-digitised-newspapers/" target="_blank">
-<image x="279" y="1355" width="370" height="165" xlink:href="assets/img/20.png" /></a>
-<foreignObject x="678" y="333" width="338" height="206">
-  <iframe xmlns="http://www.w3.org/1999/xhtml"
-    width="338" height="206"
-    src="http://www.youtube.com/embed/AZ77LvCbFr8"
-    frameborder="0"></iframe>
-</foreignObject>
-
-<path d="M0,1818
-L0,0
-L1286,0
-L1286,1818 z "
-fill="none"
-stroke-width="1.0"
-stroke-linecap="butt"
-stroke-linejoin="miter"
-stroke="#000000" />
-
-<title>Europeana Newspapers: Final Report, Page 4</title>
-</svg>
+    <svg x="0" y="0" width="1286" height="1818" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display: block;margin-left: auto;margin-right: auto;">
+
+        <path d="M0,0 L0,1818 L1286,1818 L1286,0 Z " fill="#FFFFFF" stroke="none" />
+        <image x="0" y="0" width="1285" height="1819" xlink:href="assets/img/01.png" />
+        <a xlink:href="https://www.flickr.com/photos/enewspapers/" target="_blank">
+            <image x="78" y="421" width="168" height="180" xlink:href="assets/img/22.png" />
+        </a>
+        <text x="92" y="386" textLength="138" class="s7">Note from the</text>
+
+        <text x="100" y="409" textLength="122" class="s7">Coordinator</text>
+
+        <text x="72" y="638" textLength="177" class="s4">“It is a fairly rare ex-</text>
+
+        <text x="72" y="661" textLength="177" class="s4">perience for a libra-</text>
+
+        <text x="72" y="684" textLength="177" class="s4">rian to be involved</text>
+
+        <text x="72" y="707" textLength="177" class="s4">in an international</text>
+
+        <text x="72" y="730" textLength="177" class="s4">endeavour as suc-</text>
+
+        <text x="72" y="753" textLength="177" class="s4">cessful as the Euro-</text>
+
+        <text x="72" y="776" textLength="177" class="s4">peana Newspapers</text>
+
+        <text x="72" y="799" textLength="77" class="s4">project.</text>
+
+        <text x="72" y="844" textLength="177" class="s4">Looking back at the</text>
+
+        <text x="72" y="867" textLength="177" class="s4">past three years I</text>
+
+        <text x="72" y="890" textLength="177" class="s4">can't help but mar-</text>
+
+        <text x="72" y="913" textLength="177" class="s4">vel at the sheer size</text>
+
+        <text x="72" y="936" textLength="177" class="s4">of what the project</text>
+
+        <text x="72" y="959" textLength="177" class="s4">consortium has</text>
+
+        <text x="72" y="982" textLength="77" class="s4">achieved.</text>
+
+        <text x="72" y="1028" textLength="177" class="s4">Stipulating access to</text>
+
+        <text x="72" y="1051" textLength="177" class="s4">more than 20 milli-</text>
+
+        <text x="72" y="1074" textLength="177" class="s4">on newspaper pages</text>
+
+        <text x="72" y="1097" textLength="177" class="s4">as machine readable</text>
+
+        <text x="72" y="1119" textLength="177" class="s4">texts is more than</text>
+
+        <text x="72" y="1142" textLength="177" class="s4">we could have anti-</text>
+
+        <text x="72" y="1165" textLength="177" class="s4">cipated at the begin-</text>
+
+        <text x="72" y="1188" textLength="166" class="s4">ning of our work.</text>
+
+        <text x="72" y="1234" textLength="177" class="s4">More than anything</text>
+
+        <text x="72" y="1257" textLength="177" class="s4">else it is the absolu-</text>
+
+        <text x="72" y="1280" textLength="177" class="s4">tely overwhelming</text>
+
+        <text x="72" y="1303" textLength="177" class="s4">feedback of our users</text>
+
+        <text x="72" y="1326" textLength="177" class="s4">that has stunned me.</text>
+
+        <text x="72" y="1372" textLength="177" class="s4">Fostering access to</text>
+
+        <text x="72" y="1394" textLength="177" class="s4">these resources on a</text>
+
+        <text x="72" y="1417" textLength="177" class="s4">pan-European scale</text>
+
+        <text x="72" y="1440" textLength="177" class="s4">now enables insights</text>
+
+        <text x="72" y="1463" textLength="177" class="s4">that were, in practi-</text>
+
+        <text x="72" y="1486" textLength="177" class="s4">cal terms, hitherto</text>
+
+        <text x="72" y="1509" textLength="177" class="s4">impossible to gain.</text>
+
+        <text x="72" y="1555" textLength="177" class="s4">I feel privileged and</text>
+
+        <text x="72" y="1578" textLength="177" class="s4">honoured to be part</text>
+
+        <text x="72" y="1601" textLength="177" class="s4">of this great work.”</text>
+
+        <text x="72" y="1647" textLength="177" class="s4">Hans-Jörg Lieder</text>
+
+        <text x="72" y="1669" textLength="177" class="s4">from the Berlin State</text>
+
+        <text x="72" y="1692" textLength="177" class="s4">Library, Coordinator</text>
+
+        <text x="72" y="1715" textLength="177" class="s4">of the Europeana</text>
+
+        <text x="72" y="1736" textLength="177" class="s4">Newspapers project.</text>
+
+        <text x="1094" y="351" textLength="72" class="s7">Project</text>
+
+        <text x="1104" y="374" textLength="50" class="s7">rated</text>
+
+        <text x="1076" y="396" textLength="113" class="s7">“Excellent”</text>
+
+        <text x="1048" y="442" textLength="170" class="s4">The project achie-</text>
+
+        <text x="1048" y="465" textLength="170" class="s4">vements and outco-</text>
+
+        <text x="1048" y="488" textLength="170" class="s4">mes have been</text>
+
+        <text x="1048" y="511" textLength="170" class="s4">carefully assessed</text>
+
+        <text x="1048" y="534" textLength="170" class="s4">by external experts</text>
+
+        <text x="1048" y="557" textLength="170" class="s4">appointed by the</text>
+
+        <text x="1048" y="580" textLength="170" class="s4">European Com-</text>
+
+        <text x="1048" y="603" textLength="170" class="s4">mission. The out-</text>
+
+        <text x="1048" y="626" textLength="170" class="s4">come of this</text>
+
+        <text x="1048" y="649" textLength="170" class="s4">assessment was that</text>
+
+        <text x="1048" y="671" textLength="170" class="s4">the project had ma-</text>
+
+        <text x="1048" y="694" textLength="170" class="s4">de “Excellent pro-</text>
+
+        <text x="1048" y="717" textLength="170" class="s4">gress (the project</text>
+
+        <text x="1048" y="740" textLength="170" class="s4">has fully achieved</text>
+
+        <text x="1048" y="763" textLength="170" class="s4">its objectives and</text>
+
+        <text x="1048" y="786" textLength="170" class="s4">goals for the period</text>
+
+        <text x="1048" y="809" textLength="170" class="s4">and has even ex-</text>
+
+        <text x="1048" y="832" textLength="170" class="s4">ceeded expectati-</text>
+
+        <text x="1048" y="855" textLength="170" class="s4">ons)” and that “This</text>
+
+        <text x="1048" y="878" textLength="170" class="s4">has been a signifi-</text>
+
+        <text x="1048" y="901" textLength="170" class="s4">cant and successful</text>
+
+        <text x="1048" y="924" textLength="170" class="s4">project with great</text>
+
+        <text x="1048" y="946" textLength="170" class="s4">potential for enga-</text>
+
+        <text x="1048" y="969" textLength="170" class="s4">ging public interest</text>
+
+        <text x="1048" y="992" textLength="170" class="s4">and generating high</text>
+
+        <text x="1048" y="1015" textLength="170" class="s4">use over a long time</text>
+
+        <text x="1048" y="1038" textLength="48" class="s4">span.”</text>
+
+        <text x="1068" y="1107" textLength="123" class="s7">Take-up and</text>
+
+        <text x="1070" y="1130" textLength="118" class="s7">exploitation</text>
+
+        <text x="1085" y="1153" textLength="95" class="s7">of results</text>
+
+        <text x="1048" y="1199" textLength="170" class="s4">Already now there</text>
+
+        <text x="1048" y="1222" textLength="170" class="s4">are some great ex-</text>
+
+        <text x="1048" y="1245" textLength="170" class="s4">amples of take-up</text>
+
+        <text x="1048" y="1268" textLength="170" class="s4">and exploitation of</text>
+
+        <text x="1048" y="1290" textLength="170" class="s4">the project outcomes.</text>
+
+        <text x="1048" y="1313" textLength="170" class="s4">For example, the</text>
+
+        <text x="1048" y="1336" textLength="170" class="s4">European Asso-</text>
+
+        <text x="1048" y="1359" textLength="170" class="s4">ciation of History</text>
+
+        <text x="1048" y="1382" textLength="170" class="s4">Educators (Euroclio)</text>
+
+        <text x="1048" y="1405" textLength="170" class="s4">will use Europeana</text>
+
+        <text x="1048" y="1428" textLength="170" class="s4">Newspapers in their</text>
+
+        <text x="1048" y="1451" textLength="170" class="s4">online educational</text>
+
+        <text x="1048" y="1474" textLength="170" class="s4">multimedia tool</text>
+
+        <a xlink:href="http://www.historiana.eu/" target="_blank">
+            <text x="1048" y="1497" textLength="88" class="s6">Historiana</text>
+        </a>
+
+        <text x="1136" y="1497" textLength="11" class="s4">.</text>
+
+        <text x="1048" y="1542" textLength="170" class="s4">Furthermore, the</text>
+
+        <text x="1047" y="1565" textLength="170" class="s4">Berlin State Library</text>
+
+        <text x="1048" y="1588" textLength="170" class="s4">is working on fee-</text>
+
+        <text x="1048" y="1611" textLength="170" class="s4">ding experiences and</text>
+
+        <text x="1048" y="1634" textLength="170" class="s4">lessons learned into</text>
+
+        <text x="1048" y="1657" textLength="170" class="s4">the next national</text>
+
+        <text x="1048" y="1680" textLength="170" class="s4">funding programme</text>
+
+        <text x="1048" y="1703" textLength="170" class="s4">for newspaper digiti-</text>
+
+        <text x="1048" y="1726" textLength="170" class="s4">sation in Germany.</text>
+
+        <text x="342" y="312" textLength="235" class="s7">Refinement of digitised</text>
+
+        <text x="402" y="335" textLength="122" class="s7">newspapers</text>
+
+        <text x="277" y="380" textLength="372" class="s4">A key activitiy in Europeana Newspapers</text>
+
+        <text x="277" y="403" textLength="372" class="s4">was the refinement of digitised newspaper</text>
+
+        <text x="277" y="426" textLength="372" class="s4">pages with Optical Character Recognition</text>
+
+        <text x="277" y="449" textLength="372" class="s4">and Optical Layout Recognition in order</text>
+
+        <text x="277" y="472" textLength="372" class="s4">to produce electronic and fully searchable</text>
+
+        <text x="277" y="495" textLength="372" class="s4">text from scanned newspaper images. The</text>
+
+        <text x="277" y="518" textLength="372" class="s4">ambitious goal of the project was to apply</text>
+
+        <text x="277" y="541" textLength="372" class="s4">these techniques to approximately 10 milli-</text>
+
+        <text x="277" y="564" textLength="372" class="s4">on pages, and accordingly technical project</text>
+
+        <text x="277" y="587" textLength="372" class="s4">partners with great experience in such refi-</text>
+
+        <text x="277" y="610" textLength="372" class="s4">nement were selected for the processing of</text>
+
+        <text x="277" y="632" textLength="372" class="s4">the newspaper pages. Organising the refine-</text>
+
+        <text x="277" y="655" textLength="372" class="s4">ment of over 10 million newspaper pages</text>
+
+        <text x="277" y="678" textLength="372" class="s4">required a very clear and highly standardi-</text>
+
+        <text x="277" y="701" textLength="372" class="s4">sed workflow to ensure that all parties are</text>
+
+        <text x="277" y="724" textLength="372" class="s4">aware of their tasks at all times and can al-</text>
+
+        <text x="277" y="747" textLength="372" class="s4">ways track the data at any point in the defi-</text>
+
+        <text x="277" y="770" textLength="372" class="s4">ned workflow. In the first year of the</text>
+
+        <text x="277" y="793" textLength="372" class="s4">project, available digital newspaper collecti-</text>
+
+        <text x="277" y="816" textLength="372" class="s4">ons of the partners were analysed and suita-</text>
+
+        <text x="277" y="839" textLength="372" class="s4">ble materials for refinement selected. In the</text>
+
+        <text x="277" y="862" textLength="372" class="s4">first year, a clear and strict specification</text>
+
+        <text x="277" y="885" textLength="372" class="s4">was drawn, giving detailed instructions</text>
+
+        <text x="277" y="907" textLength="372" class="s4">about the way files and folders had to be</text>
+
+        <text x="277" y="930" textLength="372" class="s4">provided by libraries in order to make the</text>
+
+        <text x="277" y="953" textLength="372" class="s4">subsequent refinement processes run as au-</text>
+
+        <text x="277" y="976" textLength="372" class="s4">tomated and smoothly as possible. To faci-</text>
+
+        <text x="277" y="999" textLength="372" class="s4">litate the necessary pre-processing of local</text>
+
+        <text x="277" y="1022" textLength="372" class="s4">data to meet the requirements set out in the</text>
+
+        <text x="277" y="1045" textLength="372" class="s4">specification, a number of supporting soft-</text>
+
+        <text x="277" y="1068" textLength="372" class="s4">ware tools were created which have</text>
+
+        <text x="277" y="1091" textLength="372" class="s4">since also been released as open source.</text>
+
+        <text x="327" y="1137" textLength="264" class="s7">Named Entity Recognition</text>
+
+        <text x="331" y="1160" textLength="262" class="s7">for Historical Newspapers</text>
+
+        <text x="277" y="1205" textLength="372" class="s4">Named Entity Recognition (NER) is the</text>
+
+        <text x="277" y="1228" textLength="372" class="s4">process of identifying and classifying entities</text>
+
+        <text x="277" y="1251" textLength="372" class="s4">such as persons, locations and organisations</text>
+
+        <text x="277" y="1274" textLength="372" class="s4">in a text in order to enhance searchability.</text>
+
+        <text x="277" y="1297" textLength="372" class="s4">For Europeana Newspapers, it was decided</text>
+
+        <text x="277" y="1320" textLength="372" class="s4">to produce NER for newspapers in three</text>
+
+        <text x="277" y="1343" textLength="372" class="s4">languages: Dutch, French and German.</text>
+
+        <text x="277" y="1549" textLength="372" class="s4">Further to that, the project experimented</text>
+
+        <text x="277" y="1572" textLength="372" class="s4">with more advanced ways to refine the NER</text>
+
+        <text x="277" y="1595" textLength="372" class="s4">results by disambiguation and linking of</text>
+
+        <text x="277" y="1618" textLength="372" class="s4">the extracted entities to authority files. In</text>
+
+        <text x="277" y="1641" textLength="372" class="s4">the long run this will allow for a much more</text>
+
+        <text x="277" y="1664" textLength="372" class="s4">useful presentation of search results.</text>
+
+        <text x="277" y="1687" textLength="372" class="s4">All software and data for NER can also be</text>
+
+        <text x="277" y="1710" textLength="226" class="s4">downloaded freely from the</text>
+
+        <a xlink:href="http://lab.kbresearch.nl/static/html/eunews.html" target="_blank">
+            <text x="508" y="1710" textLength="132" class="s6">Lab of the KB</text>
+        </a>
+
+        <text x="640" y="1710" textLength="372" class="s6">,</text>
+
+        <text x="277" y="1733" textLength="372" class="s4">the National Library of the Netherlands.</text>
+
+        <text x="726" y="312" textLength="243" class="s7">The Story of Walter Flex</text>
+
+        <text x="677" y="564" textLength="341" class="s4">A film was produced in cooperation</text>
+
+        <text x="677" y="587" textLength="341" class="s4">between Europeana Newspapers and</text>
+
+        <a xlink:href="http://www.europeana-collections-1914-1918.eu/" target="_blank">
+            <text x="677" y="610" textLength="341" class="s6">Europeana Collections 1914-1918</text>
+        </a>
+
+        <text x="677" y="633" textLength="341" class="s4">narrating the story of Walter Flex, war</text>
+
+        <text x="677" y="655" textLength="341" class="s4">volunteer from the start and one of the</text>
+
+        <text x="677" y="678" textLength="341" class="s4">best-known writers of the First World</text>
+
+        <text x="677" y="701" textLength="341" class="s4">War. Important documents of his</text>
+
+        <text x="677" y="724" textLength="341" class="s4">literary remains, kept in the Staatsbiblio-</text>
+
+        <text x="677" y="747" textLength="341" class="s4">thek zu Berlin, have now been digitized</text>
+
+        <text x="677" y="770" textLength="341" class="s4">and are freely accessible in Europeana.</text>
+
+        <text x="677" y="816" textLength="341" class="s4">You can watch the full 18-minute movie</text>
+
+        <text x="677" y="839" textLength="341" class="s4">(with subtitles in multiple languages) on</text>
+
+        <a xlink:href="https://www.youtube.com/watch?v=AZ77LvCbFr8" target="_blank">
+            <text x="677" y="862" textLength="78" class="s6">Youtube.</text>
+        </a>
+
+        <text x="790" y="930" textLength="115" class="s7">Workshops</text>
+
+        <text x="677" y="1160" textLength="341" class="s4">The Europeana Newspapers project</text>
+
+        <text x="677" y="1183" textLength="341" class="s4">organised three major public workshops:</text>
+
+        <text x="677" y="1228" textLength="15" class="s4">1.</text>
+
+        <a xlink:href="http://www.europeana-newspapers.eu/focus-on-newspaper-refinement-quality-assessment-in-belgrade/" target="_blank">
+            <text x="732" y="1228" textLength="286" class="s6">Workshop on “Refinement and</text>
+
+            <text x="732" y="1251" textLength="186" class="s6">Quality Assessment”,</text>
+        </a>
+
+        <text x="732" y="1274" textLength="226" class="s4">June 2013, Belgrade, Serbia.</text>
+
+        <text x="677" y="1320" textLength="15" class="s4">2.</text>
+
+        <a xlink:href="http://www.europeana-newspapers.eu/amsterdam-workshop-report/" target="_blank">
+            <text x="732" y="1320" textLength="286" class="s6">Workshop on “Aggregation and</text>
+
+            <text x="732" y="1343" textLength="114" class="s6">Presentation”</text>
+        </a>
+
+        <text x="846" y="1343" textLength="5" class="s5_4">,</text>
+
+        <text x="732" y="1366" textLength="286" class="s4">September 2013, Amsterdam,</text>
+
+        <text x="732" y="1389" textLength="116" class="s4">Netherlands.</text>
+
+        <text x="677" y="1435" textLength="15" class="s4">3.</text>
+
+        <a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/D6.2.3_Report_on_Final_Workshop_London.pdf" target="_blank">
+            <text x="732" y="1435" textLength="286" class="s6">Workshop on “Newspapers in</text>
+
+            <text x="732" y="1458" textLength="286" class="s6">Europe and the Digital Agenda for</text>
+        </a>
+
+        <text x="732" y="1480" textLength="116" class="s6">for Europe”</text>
+
+        <text x="732" y="1503" textLength="286" class="s4">September 2013, London, United</text>
+
+        <text x="732" y="1526" textLength="86" class="s4">Kingdom.</text>
+
+        <text x="677" y="1595" textLength="341" class="s4">In addition to the workshops, a series of</text>
+
+        <text x="677" y="1618" textLength="142" class="s4">highly successful </text>
+
+        <a xlink:href="http://www.europeana-newspapers.eu/wp-content/uploads/2015/05/D6.3.1_Summary_Infodays_final.pdf" target="_blank">
+            <text x="828" y="1618" textLength="145" class="s6">Information Days</text>
+        </a>
+
+        <text x="982" y="1618" textLength="42" class="s4">were</text>
+
+        <text x="677" y="1641" textLength="341" class="s4">organised by participants in their own</text>
+
+        <text x="677" y="1664" textLength="341" class="s4">country and local language, to make sure the</text>
+
+        <text x="677" y="1687" textLength="341" class="s4">project and its activities are well embedded</text>
+
+        <text x="677" y="1710" textLength="341" class="s4">in the various national newspaper and</text>
+
+        <text x="677" y="1733" textLength="218" class="s4">digitisation communities.</text>
+
+        <text x="280" y="100" textLength="720" class="s1">Europeana Newspapers</text>
+
+        <text x="483" y="152" textLength="330" class="s5">Special Issue - Final Report</text>
+
+        <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
+            <image x="64" y="69" width="199" height="284" xlink:href="assets/img/02.png" />
+        </a>
+        <a xlink:href="http://ec.europa.eu/cip/ict-psp/index_en.htm" target="_blank">
+            <image x="1038" y="69" width="182" height="119" xlink:href="assets/img/03.png" />
+        </a>
+        <text x="1051" y="309" textLength="151" class="s5">31 July 2015</text>
+
+        <a xlink:href="http://ec.europa.eu/" target="_blank">
+            <image x="1055" y="184" width="137" height="97" xlink:href="assets/img/04.png" />
+        </a>
+        <text x="267" y="181" textLength="337" class="s4">The Europeana Newspapers project (</text>
+
+        <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
+            <text x="604" y="181" textLength="262" class="s6">www.europeana-newspapers.eu</text>
+        </a>
+
+        <text x="867" y="181" textLength="165" class="s4">) is an EU-funded</text>
+
+        <text x="267" y="204" textLength="286" class="s4">Best Practice Network to make</text>
+
+        <text x="576" y="204" textLength="445" class="s4">European digital historical newspapers available via</text>
+
+        <text x="267" y="227" textLength="107" class="s4">Europeana (</text>
+
+        <a xlink:href="http://www.europeana.eu/" target="_blank">
+            <text x="374" y="227" textLength="159" class="s6">www.europeana.eu</text>
+        </a>
+
+        <text x="534" y="227" textLength="249" class="s4">) &amp; The European Library (</text>
+
+        <a xlink:href="httP://www.theeuropeanlibrary.org/" target="_blank">
+            <text x="783" y="227" textLength="237" class="s6">www.theeuropeanlibrary.org</text>
+        </a>
+
+        <text x="1021" y="227" textLength="11" class="s4">).</text>
+
+        <text x="1146" y="1793" textLength="79" class="s5">Page 4</text>
+
+        <a xlink:href="http://www.europeana-newspapers.eu/digital-newspapers-illustration/" target="_blank">
+            <image x="679" y="941" width="340" height="195" xlink:href="assets/img/19.png" />
+        </a>
+        <a xlink:href="http://www.europeana-newspapers.eu/named-entity-recognition-for-digitised-newspapers/" target="_blank">
+            <image x="279" y="1355" width="370" height="165" xlink:href="assets/img/20.png" />
+        </a>
+        <foreignObject x="678" y="333" width="338" height="206">
+            <iframe xmlns="http://www.w3.org/1999/xhtml" width="338" height="206" src="http://www.youtube.com/embed/AZ77LvCbFr8" frameborder="0"></iframe>
+        </foreignObject>
+
+        <path d="M0,1818 L0,0 L1286,0 L1286,1818 z " fill="none" stroke-width="1.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000" />
+
+        <title>Europeana Newspapers: Final Report, Page 4</title>
+    </svg>

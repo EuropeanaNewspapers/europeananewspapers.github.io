@@ -1,1576 +1,495 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <?xml-stylesheet type="text/css" href="assets/css/Style.css" ?>
-<svg x="0" y="0" width="1286" height="1818" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-style="display: block;margin-left: auto;margin-right: auto;">
-<path d="M0,0
-L0,1818
-L1286,1818
-L1286,0 Z " 
-fill="#FFFFFF" stroke="none" />
-<image x="0" y="0" width="1284" height="1819" xlink:href="assets/img/01.png" />
-<text x="280" y="100" textLength="720" class="s1">Europeana Newspapers</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
-<image x="64" y="69" width="199" height="284" xlink:href="assets/img/02.png" /></a>
-<a xlink:href="http://ec.europa.eu/cip/ict-psp/index_en.htm" target="_blank">
-<image x="1038" y="69" width="182" height="119" xlink:href="assets/img/03.png" /></a>
-<text 
-x="68" 
-y="387" 
-textLength="178" 
-class="s7"
->Project fact sheet</text>
-
-<text 
-x="64" 
-y="433" 
-textLength="185" 
-class="s4"
->Europeana Newspapers</text>
-
-<text 
-x="64" 
-y="456" 
-textLength="185" 
-class="s4"
->is a project funded</text>
-
-<text 
-x="64" 
-y="479" 
-textLength="185" 
-class="s4"
->by the European</text>
-
-<text 
-x="64" 
-y="502" 
-textLength="185" 
-class="s4"
->Commission's ICT</text>
-
-<text 
-x="64" 
-y="525" 
-textLength="185" 
-class="s4"
->Policy Support Pro-</text>
-
-<text 
-x="64" 
-y="548" 
-textLength="185" 
-class="s4"
->gramme as part of the</text>
-
-<text 
-x="64" 
-y="571" 
-textLength="185" 
-class="s4"
->Competitiveness and</text>
-
-<text 
-x="64" 
-y="593" 
-textLength="185" 
-class="s4"
->Innovation frame-</text>
-
-<text 
-x="64" 
-y="616" 
-textLength="185" 
-class="s4"
->work Programme</text>
-
-<text 
-x="64" 
-y="639" 
-textLength="185" 
-class="s4"
->(CIP). The total pro-</text>
-
-<text 
-x="64" 
-y="662" 
-textLength="185" 
-class="s4"
->ject budget compri-</text>
-
-<text 
-x="64" 
-y="685" 
-textLength="185" 
-class="s4"
->sed €5.2 million, with</text>
-
-<text 
-x="64" 
-y="708" 
-textLength="185" 
-class="s4"
->a max. EC contributi-</text>
-
-<text 
-x="64" 
-y="731" 
-textLength="185" 
-class="s4"
->on of €4.1 million.</text>
-
-<text 
-x="64" 
-y="754" 
-textLength="185" 
-class="s4"
->The project consorti-</text>
-
-<text 
-x="64" 
-y="777" 
-textLength="185" 
-class="s4"
->um brought together</text>
-
-<text 
-x="64" 
-y="800" 
-textLength="185" 
-class="s4"
->a total of 18 partners,</text>
-
-<text 
-x="64" 
-y="823" 
-textLength="185" 
-class="s4"
->coordinated by the</text>
-
-<a xlink:href="http://staatsbibliothek-berlin.de/" target="_blank">
-<text 
-x="64" 
-y="846" 
-textLength="185" 
-class="s6"
->Berlin State Library</text>
-</a>
-
-<text 
-x="64" 
-y="868" 
-textLength="185" 
-class="s4"
->(Staatsbibliothek zu</text>
-
-<text 
-x="64" 
-y="891" 
-textLength="185" 
-class="s4"
->Berlin). Over a dura-</text>
-
-<text 
-x="64" 
-y="914" 
-textLength="185" 
-class="s4"
->tion of 38 months,</text>
-
-<text 
-x="64" 
-y="937" 
-textLength="185" 
-class="s4"
->starting in February</text>
-
-<text 
-x="64" 
-y="960" 
-textLength="185" 
-class="s4"
->2012 and running</text>
-
-<text 
-x="64" 
-y="983" 
-textLength="185" 
-class="s4"
->until March 2015, the</text>
-
-<text 
-x="64" 
-y="1006" 
-textLength="155" 
-class="s4"
->project strove for:</text>
-
-<text 
-x="64" 
-y="1052" 
-textLength="185" 
-class="s4"
->1) Aggregating 18</text>
-
-<text 
-x="64" 
-y="1075" 
-textLength="185" 
-class="s4"
->million of historic</text>
-
-<text 
-x="64" 
-y="1098" 
-textLength="185" 
-class="s4"
->newspaper pages for</text>
-
-<text 
-x="64" 
-y="1121" 
-textLength="185" 
-class="s4"
->Europeana, the main</text>
-
-<text 
-x="64" 
-y="1143" 
-textLength="185" 
-class="s4"
->European platform</text>
-
-<text 
-x="64" 
-y="1166" 
-textLength="185" 
-class="s4"
->for digital cultural</text>
-
-<text 
-x="64" 
-y="1189" 
-textLength="185" 
-class="s4"
->heritage, and The</text>
-
-<text 
-x="64" 
-y="1212" 
-textLength="165" 
-class="s4"
->European Library;</text>
-
-<text 
-x="64" 
-y="1258" 
-textLength="185" 
-class="s4"
->2) Converting 10 mil-</text>
-
-<text 
-x="64" 
-y="1281" 
-textLength="185" 
-class="s4"
->lion newspaper pages</text>
-
-<text 
-x="64" 
-y="1304" 
-textLength="185" 
-class="s4"
->to searchable full text;</text>
-
-<text 
-x="64" 
-y="1350" 
-textLength="186" 
-class="s4"
->3) Creating a special</text>
-
-<text 
-x="64" 
-y="1373" 
-textLength="185" 
-class="s4"
->content viewer to im-</text>
-
-<text 
-x="64" 
-y="1396" 
-textLength="185" 
-class="s4"
->prove online newspa-</text>
-
-<text 
-x="64" 
-y="1418" 
-textLength="125" 
-class="s4"
->per browsing;</text>
-
-<text 
-x="64" 
-y="1464" 
-textLength="185" 
-class="s4"
->4) Building tools that</text>
-
-<text 
-x="64" 
-y="1487" 
-textLength="185" 
-class="s4"
->will allow professio-</text>
-
-<text 
-x="64" 
-y="1510" 
-textLength="185" 
-class="s4"
->nals to better assess the</text>
-
-<text 
-x="64" 
-y="1533" 
-textLength="185" 
-class="s4"
->quality of newspaper</text>
-
-<text 
-x="64" 
-y="1556" 
-textLength="100" 
-class="s4"
->digitisation;</text>
-
-<text 
-x="64" 
-y="1602" 
-textLength="185" 
-class="s4"
->5) Raising awareness</text>
-
-<text 
-x="64" 
-y="1625" 
-textLength="185" 
-class="s4"
->and fostering know-</text>
-
-<text 
-x="64" 
-y="1648" 
-textLength="185" 
-class="s4"
->ledge exchange through</text>
-
-<text 
-x="64" 
-y="1671" 
-textLength="185" 
-class="s4"
->workshops and Infor-</text>
-
-<text 
-x="64" 
-y="1694" 
-textLength="125" 
-class="s4"
->mation Days.</text>
-
-<text 
-x="1078" 
-y="351" 
-textLength="87" 
-class="s7"
->Free and</text>
-
-<text 
-x="1057" 
-y="373" 
-textLength="132" 
-class="s7"
->Open Source</text>
-
-<text 
-x="1050" 
-y="396" 
-textLength="150" 
-class="s7"
->Software Tools</text>
-
-<text 
-x="1046" 
-y="419" 
-textLength="159" 
-class="s7"
->for Newspapers</text>
-
-<text 
-x="1038" 
-y="465" 
-textLength="176" 
-class="s4"
->The Europeana</text>
-
-<text 
-x="1038" 
-y="488" 
-textLength="176" 
-class="s4"
->Newspapers project</text>
-
-<text 
-x="1038" 
-y="511" 
-textLength="176" 
-class="s4"
->has developed a</text>
-
-<text 
-x="1038" 
-y="534" 
-textLength="176" 
-class="s4"
->number of free and</text>
-
-<text 
-x="1038" 
-y="557" 
-textLength="176" 
-class="s4"
->open source softwa-</text>
-
-<text 
-x="1038" 
-y="580" 
-textLength="176" 
-class="s4"
->re tools. These tools</text>
-
-<text 
-x="1038" 
-y="603" 
-textLength="176" 
-class="s4"
->can help libraries</text>
-
-<text 
-x="1038" 
-y="626" 
-textLength="176" 
-class="s4"
->and other institu-</text>
-
-<text 
-x="1038" 
-y="648" 
-textLength="176" 
-class="s4"
->tions to refine their</text>
-
-<text 
-x="1038" 
-y="671" 
-textLength="176" 
-class="s4"
->digitised historical</text>
-
-<text 
-x="1038" 
-y="694" 
-textLength="176" 
-class="s4"
->newspapers and to</text>
-
-<text 
-x="1038" 
-y="717" 
-textLength="176" 
-class="s4"
->evaluate the quality</text>
-
-<text 
-x="1038" 
-y="740" 
-textLength="176" 
-class="s4"
->of the refinement.</text>
-
-<text 
-x="1038" 
-y="923" 
-textLength="176" 
-class="s4"
->All software tools</text>
-
-<text 
-x="1038" 
-y="946" 
-textLength="176" 
-class="s4"
->produced are either</text>
-
-<text 
-x="1038" 
-y="969" 
-textLength="176" 
-class="s4"
->free to download or</text>
-
-<text 
-x="1038" 
-y="992" 
-textLength="176" 
-class="s4"
->have even been re-</text>
-
-<text 
-x="1038" 
-y="1015" 
-textLength="176" 
-class="s4"
->leased as open sour-</text>
-
-<text 
-x="1038" 
-y="1038" 
-textLength="176" 
-class="s4"
->ce projects. You can</text>
-
-<text 
-x="1038" 
-y="1061" 
-textLength="176" 
-class="s4"
->get them from the</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/materials/tools/" target="_blank">
-<text 
-x="1038" 
-y="1084" 
-textLength="58" 
-class="s6"
->project</text>
-
-<text 
-x="1117" 
-y="1084" 
-textLength="61" 
-class="s6"
->website</text>
-</a>
-
-<text 
-x="1182" 
-y="1084" 
-textLength="32" 
-class="s4"
->and</text>
-
-<text 
-x="1038" 
-y="1107" 
-textLength="80" 
-class="s4"
->also from</text>
-
-<a xlink:href="https://github.com/EuropeanaNewspapers" target="_blank">
-<text 
-x="1124" 
-y="1107" 
-textLength="62" 
-class="s6"
->GitHub</text>
-</a>
-
-<text 
-x="1184" 
-y="1107" 
-textLength="62" 
-class="s4"
->.</text>
-
-<text 
-x="984" 
-y="1247" 
-textLength="204" 
-class="s7"
->What is Europeana?</text>
-
-<a xlink:href="http://www.europeana.eu/" target="_blank">
-<text 
-x="959" 
-y="1287" 
-textLength="92" 
-class="s6"
->Europeana</text>
-</a>
-
-<text 
-x="1056" 
-y="1287" 
-textLength="154" 
-class="s4"
->is a multilingual</text>
-
-<text 
-x="959" 
-y="1310" 
-textLength="255" 
-class="s4"
->internet portal and metadata</text>
-
-<text 
-x="959" 
-y="1333" 
-textLength="255" 
-class="s4"
->aggregator that provides a single</text>
-
-<text 
-x="959" 
-y="1356" 
-textLength="255" 
-class="s4"
->point of access to the Euro-</text>
-
-<text 
-x="959" 
-y="1379" 
-textLength="255" 
-class="s4"
->pean digital cultural heritage.</text>
-
-<text 
-x="959" 
-y="1402" 
-textLength="255" 
-class="s4"
->Europeana holds records for</text>
-
-<text 
-x="959" 
-y="1425" 
-textLength="255" 
-class="s4"
->more than 44 million digital</text>
-
-<text 
-x="959" 
-y="1448" 
-textLength="255" 
-class="s4"
->objects, contributed by more</text>
-
-<text 
-x="959" 
-y="1470" 
-textLength="255" 
-class="s4"
->than 2,500 cultural heritage</text>
-
-<text 
-x="959" 
-y="1493" 
-textLength="255" 
-class="s4"
->institutions all across Europe.</text>
-
-<text 
-x="959" 
-y="1516" 
-textLength="255" 
-class="s4"
->Europeana is funded by</text>
-
-<text 
-x="959" 
-y="1539" 
-textLength="255" 
-class="s4"
->grants from the European</text>
-
-<text 
-x="959" 
-y="1562" 
-textLength="255" 
-class="s4"
->Commission with support</text>
-
-<text 
-x="959" 
-y="1585" 
-textLength="255" 
-class="s4"
->from its Member States.</text>
-
-<text 
-x="959" 
-y="1608" 
-textLength="125" 
-class="s4"
->As of 2015,</text>
-
-<a xlink:href="http://pro.europeana.eu/" target="_blank">
-<text 
-x="1095" 
-y="1608" 
-textLength="120" 
-class="s6"
->Europeana</text>
-</a>
-
-<text 
-x="959" 
-y="1631" 
-textLength="255" 
-class="s4"
->has become a Digital Services</text>
-
-<text 
-x="959" 
-y="1654" 
-textLength="255" 
-class="s4"
->Infrastructure under the</text>
-
-<a xlink:href="http://ec.europa.eu/digital-agenda/en/connecting-europe-facility" target="_blank">
-<text 
-x="959" 
-y="1677" 
-textLength="255" 
-class="s6"
->Connecting Europe Facility</text>
-
-<text 
-x="959" 
-y="1701" 
-textLength="57" 
-class="s6"
->(CEF).</text>
-</a>
-
-<text 
-x="280" 
-y="1286" 
-textLength="306" 
-class="s4"
->When newspapers are digitised,</text>
-
-<text 
-x="280" 
-y="1308" 
-textLength="306" 
-class="s4"
->the resulting electronic versions are</text>
-
-<text 
-x="280" 
-y="1331" 
-textLength="306" 
-class="s4"
->often just scanned images which do</text>
-
-<text 
-x="280" 
-y="1354" 
-textLength="306" 
-class="s4"
->not yet allow users to search for</text>
-
-<text 
-x="280" 
-y="1377" 
-textLength="306" 
-class="s4"
->specific articles or keywords within</text>
-
-<text 
-x="280" 
-y="1400" 
-textLength="306" 
-class="s4"
->the text. Europeana Newspapers</text>
-
-<text 
-x="280" 
-y="1423" 
-textLength="306" 
-class="s4"
->changed that dramatically, creating</text>
-
-<text 
-x="280" 
-y="1446" 
-textLength="306" 
-class="s4"
->fully searchable electronic text ver-</text>
-
-<text 
-x="280" 
-y="1469" 
-textLength="306" 
-class="s4"
->sions of nearly 12 million digital news-</text>
-
-<text 
-x="280" 
-y="1492" 
-textLength="306" 
-class="s4"
->paper pages using Optical Character</text>
-
-<text 
-x="280" 
-y="1515" 
-textLength="306" 
-class="s4"
->Recognition (OCR) technology.</text>
-
-<text 
-x="280" 
-y="1675" 
-textLength="306" 
-class="s4"
->Search millions of newspaper pages</text>
-
-<text 
-x="280" 
-y="1698" 
-textLength="54" 
-class="s4"
->on the</text>
-
-<a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
-<text 
-x="341" 
-y="1698" 
-textLength="252" 
-class="s6"
->Europeana Newspapers Portal.</text>
-</a>
-
-<text 
-x="623" 
-y="1287" 
-textLength="299" 
-class="s4"
->The refinement of millions of his-</text>
-
-<text 
-x="623" 
-y="1310" 
-textLength="299" 
-class="s4"
->torical newspaper pages from 14</text>
-
-<text 
-x="623" 
-y="1332" 
-textLength="299" 
-class="s4"
->libraries within a timeframe of just</text>
-
-<text 
-x="623" 
-y="1355" 
-textLength="299" 
-class="s4"
->three years can be described as a</text>
-
-<text 
-x="623" 
-y="1378" 
-textLength="299" 
-class="s4"
->major feat. During this process</text>
-
-<text 
-x="623" 
-y="1401" 
-textLength="299" 
-class="s4"
->decisions had to be taken that were</text>
-
-<text 
-x="623" 
-y="1424" 
-textLength="299" 
-class="s4"
->of impact to the workflow and out-</text>
-
-<text 
-x="623" 
-y="1447" 
-textLength="299" 
-class="s4"
->come of the refinement and natu-</text>
-
-<text 
-x="623" 
-y="1470" 
-textLength="299" 
-class="s4"
->rally, a great deal was learned. To</text>
-
-<text 
-x="623" 
-y="1493" 
-textLength="299" 
-class="s4"
->ensure that other institutions wan-</text>
-
-<text 
-x="623" 
-y="1516" 
-textLength="299" 
-class="s4"
->ting to refine digitised newspapers</text>
-
-<text 
-x="623" 
-y="1539" 
-textLength="299" 
-class="s4"
->for Europeana can use the know-</text>
-
-<text 
-x="623" 
-y="1562" 
-textLength="299" 
-class="s4"
->ledge that was gathered, the related</text>
-
-<text 
-x="623" 
-y="1585" 
-textLength="299" 
-class="s4"
->project findings can function as a</text>
-
-<text 
-x="623" 
-y="1607" 
-textLength="299" 
-class="s4"
->baseline to begin new projects with</text>
-
-<text 
-x="623" 
-y="1630" 
-textLength="110" 
-class="s4"
->a head start.</text>
-
-<text 
-x="623" 
-y="1653" 
-textLength="299" 
-class="s4"
->All project documents and deliver-</text>
-
-<text 
-x="623" 
-y="1676" 
-textLength="299" 
-class="s4"
->ables can be accessed on the</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/public-materials/deliverables/" target="_blank">
-<text 
-x="623" 
-y="1699" 
-textLength="120" 
-class="s6"
->project website</text>
-</a>
-
-<text 
-x="743" 
-y="1699" 
-textLength="120" 
-class="s4"
->.</text>
-
-<text 
-x="314" 
-y="696" 
-textLength="658" 
-class="s3"
->20+ million newspaper pages available online</text>
-
-<text 
-x="1049" 
-y="309" 
-textLength="151" 
-class="s5"
->31 July 2015</text>
-
-<text 
-x="317" 
-y="1246" 
-textLength="565" 
-class="s2"
->12 million newspaper pages fully searchable</text>
-
-<text 
-x="275" 
-y="734" 
-textLength="218" 
-class="s4"
->The 18 partners in the</text>
-
-<text 
-x="275" 
-y="757" 
-textLength="218" 
-class="s4"
->Europeana Newspapers</text>
-
-<text 
-x="275" 
-y="780" 
-textLength="218" 
-class="s4"
->project aimed to make</text>
-
-<text 
-x="275" 
-y="803" 
-textLength="218" 
-class="s4"
->Europe's digital historical</text>
-
-<text 
-x="275" 
-y="826" 
-textLength="218" 
-class="s4"
->newspapers more accessible</text>
-
-<text 
-x="275" 
-y="871" 
-textLength="218" 
-class="s4"
->(1) by gathering and</text>
-
-<text 
-x="275" 
-y="894" 
-textLength="218" 
-class="s4"
->providing metadata for</text>
-
-<text 
-x="275" 
-y="917" 
-textLength="218" 
-class="s4"
->18 million pages</text>
-
-<text 
-x="275" 
-y="940" 
-textLength="218" 
-class="s4"
->of digitised newspapers</text>
-
-<text 
-x="275" 
-y="963" 
-textLength="188" 
-class="s4"
->via Europeana, and,</text>
-
-<text 
-x="275" 
-y="1009" 
-textLength="218" 
-class="s4"
->(2) by using refinement</text>
-
-<text 
-x="275" 
-y="1032" 
-textLength="218" 
-class="s4"
->to make the vast amount of</text>
-
-<text 
-x="275" 
-y="1055" 
-textLength="218" 
-class="s4"
->10 million pages</text>
-
-<text 
-x="275" 
-y="1078" 
-textLength="146" 
-class="s4"
->fully searchable.</text>
-
-<text 
-x="275" 
-y="1124" 
-textLength="218" 
-class="s4"
->At the end of the project,</text>
-
-<text 
-x="275" 
-y="1146" 
-textLength="218" 
-class="s4"
->all partners deem the results</text>
-
-<text 
-x="275" 
-y="1169" 
-textLength="218" 
-class="s4"
->to be an overwhelming</text>
-
-<text 
-x="275" 
-y="1192" 
-textLength="66" 
-class="s4"
->success.</text>
-
-<text 
-x="526" 
-y="736" 
-textLength="218" 
-class="s4"
->The overall amount of</text>
-
-<text 
-x="526" 
-y="758" 
-textLength="218" 
-class="s4"
->digitised newspapers that</text>
-
-<text 
-x="526" 
-y="781" 
-textLength="218" 
-class="s4"
->can now be accessed online</text>
-
-<text 
-x="526" 
-y="804" 
-textLength="218" 
-class="s4"
->has been increased dra-</text>
-
-<text 
-x="526" 
-y="827" 
-textLength="78" 
-class="s4"
->matically:</text>
-
-<text 
-x="526" 
-y="873" 
-textLength="218" 
-class="s4"
->(1) by ingestion of metadata</text>
-
-<text 
-x="526" 
-y="896" 
-textLength="218" 
-class="s4"
->in Europeana for almost</text>
-
-<a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
-<text 
-x="526" 
-y="919" 
-textLength="217" 
-class="s6"
->21 million pages</text>
-</a>
-
-<text 
-x="743" 
-y="919" 
-textLength="8" 
-class="s4"
->,</text>
-
-<text 
-x="526" 
-y="942" 
-textLength="38" 
-class="s4"
->and,</text>
-
-<text 
-x="526" 
-y="965" 
-textLength="218" 
-class="s4"
->(2) by making close to</text>
-
-<a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
-<text 
-x="526" 
-y="988" 
-textLength="218" 
-class="s6"
->12 million pages</text>
-</a>
-
-<text 
-x="526" 
-y="1010" 
-textLength="198" 
-class="s4"
->of them fully searchable.</text>
-
-<text 
-x="526" 
-y="1033" 
-textLength="218" 
-class="s4"
->With this, Europeana</text>
-
-<text 
-x="526" 
-y="1056" 
-textLength="218" 
-class="s4"
->Newspapers has not only</text>
-
-<text 
-x="526" 
-y="1079" 
-textLength="218" 
-class="s4"
->produced the largest con-</text>
-
-<text 
-x="526" 
-y="1102" 
-textLength="218" 
-class="s4"
->tribution of records to</text>
-
-<text 
-x="526" 
-y="1125" 
-textLength="218" 
-class="s4"
->Europeana by a single pro-</text>
-
-<text 
-x="526" 
-y="1148" 
-textLength="218" 
-class="s4"
->ject, but also contributed the</text>
-
-<text 
-x="526" 
-y="1171" 
-textLength="218" 
-class="s4"
->largest ingest so far in the</text>
-
-<a xlink:href="http://pro.europeana.eu/page/edm-documentation" target="_blank">
-<text 
-x="526" 
-y="1194" 
-textLength="215" 
-class="s6"
->Europeana Data Model</text>
-</a>
-
-<text 
-x="741" 
-y="1194" 
-textLength="3" 
-class="s4"
->.</text>
-
-<text 
-x="778" 
-y="736" 
-textLength="231" 
-class="s4"
->In terms of volume and</text>
-
-<text 
-x="778" 
-y="758" 
-textLength="231" 
-class="s4"
->functionality, the Europeana</text>
-
-<text 
-x="778" 
-y="781" 
-textLength="231" 
-class="s4"
->Newspapers portal is on</text>
-
-<text 
-x="778" 
-y="804" 
-textLength="231" 
-class="s4"
->par with other major inter-</text>
-
-<text 
-x="778" 
-y="827" 
-textLength="231" 
-class="s4"
->national newspapers digiti-</text>
-
-<text 
-x="778" 
-y="850" 
-textLength="231" 
-class="s4"
->sation programmes such as</text>
-
-<a xlink:href="http://chroniclingamerica.loc.gov/" target="_blank">
-<text 
-x="778" 
-y="873" 
-textLength="231" 
-class="s6"
->Chronicling America</text>
-</a>
-
-<text 
-x="778" 
-y="896" 
-textLength="231" 
-class="s4"
->in the US, or the Australian</text>
-
-<a xlink:href="http://trove.nla.gov.au/" target="_blank">
-<text 
-x="778" 
-y="919" 
-textLength="48" 
-class="s6"
->Trove</text>
-</a>
-
-<text 
-x="826" 
-y="919" 
-textLength="16" 
-class="s4"
->.</text>
-
-<text 
-x="778" 
-y="942" 
-textLength="231" 
-class="s4"
->The scale of Europeana</text>
-
-<text 
-x="778" 
-y="965" 
-textLength="231" 
-class="s4"
->Newspapers is truly putting</text>
-
-<text 
-x="778" 
-y="988" 
-textLength="231" 
-class="s4"
->Europe on the global</text>
-
-<text 
-x="778" 
-y="1011" 
-textLength="231" 
-class="s4"
->map of leading providers</text>
-
-<text 
-x="778" 
-y="1033" 
-textLength="231" 
-class="s4"
->of digitised newspapers.</text>
-
-<text 
-x="778" 
-y="1056" 
-textLength="231" 
-class="s4"
->For a detailed breakdown</text>
-
-<text 
-x="778" 
-y="1079" 
-textLength="231" 
-class="s4"
->of statistics regarding the</text>
-
-<text 
-x="778" 
-y="1102" 
-textLength="231" 
-class="s4"
->total number of pages and</text>
-
-<text 
-x="778" 
-y="1125" 
-textLength="231" 
-class="s4"
->issues processed and inge-</text>
-
-<text 
-x="778" 
-y="1148" 
-textLength="231" 
-class="s4"
->sted to Europeana by the</text>
-
-<text 
-x="778" 
-y="1171" 
-textLength="231" 
-class="s4"
->project, please see the</text>
-
-<text 
-x="778" 
-y="1194" 
-textLength="231" 
-class="s4"
->Facts &amp; Figures on page 3.</text>
-
-<a xlink:href="http://ec.europa.eu/" target="_blank">
-<image x="1055" y="184" width="137" height="97" xlink:href="assets/img/04.png" /></a>
-<text 
-x="1146" 
-y="1793" 
-textLength="79" 
-class="s5"
->Page 1</text>
-
-<text 
-x="483" 
-y="152" 
-textLength="330" 
-class="s5"
->Special Issue - Final Report</text>
-
-<text 
-x="267" 
-y="181" 
-textLength="337" 
-class="s4"
->The Europeana Newspapers project (</text>
-
-<a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
-<text 
-x="604" 
-y="181" 
-textLength="262" 
-class="s6"
->www.europeana-newspapers.eu</text>
-</a>
-
-<text 
-x="867" 
-y="181" 
-textLength="165" 
-class="s4"
->) is an EU-funded</text>
-
-<text 
-x="267" 
-y="204" 
-textLength="286" 
-class="s4"
->Best Practice Network to make</text>
-
-<text 
-x="576" 
-y="204" 
-textLength="445" 
-class="s4"
->European digital historical newspapers available via</text>
-
-<text 
-x="267" 
-y="227" 
-textLength="107" 
-class="s4"
->Europeana (</text>
-
-<a xlink:href="http://www.europeana.eu/" target="_blank">
-<text 
-x="374" 
-y="227" 
-textLength="159" 
-class="s6"
->www.europeana.eu</text>
-</a>
-
-<text 
-x="534" 
-y="227" 
-textLength="249" 
-class="s4"
->) &amp; The European Library (</text>
-
-<a xlink:href="http://www.theeuropeanlibrary.org/" target="_blank">
-<text 
-x="783" 
-y="227" 
-textLength="237" 
-class="s6"
->www.theeuropeanlibrary.org</text>
-</a>
-
-<text 
-x="1021" 
-y="227" 
-textLength="11" 
-class="s4"
->).</text>
-
-<a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
-<image x="337" y="1525" width="192" height="128" xlink:href="assets/img/05.png" /></a>
-<a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
-<image x="272" y="250" width="746" height="391" xlink:href="assets/img/06.png" /></a>
-<a xlink:href="http://www.europeana-newspapers.eu/public-materials/tools/" target="_blank">
-<image x="1038" y="774" width="177" height="118" xlink:href="assets/img/07.png" /></a>
-<a xlink:href="https://github.com/EuropeanaNewspapers" target="_blank">
-<image x="1038" y="1120" width="177" height="68" xlink:href="assets/img/24.png" /></a>
-<path d="M0,1818
-L0,0
-L1286,0
-L1286,1818 z "
-fill="none"
-stroke-width="1.0"
-stroke-linecap="butt"
-stroke-linejoin="miter"
-stroke="#000000" />
-<title>Europeana Newspapers: Final Report, Page 1</title>
-</svg>
+    <svg x="0" y="0" width="1286" height="1818" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display: block;margin-left: auto;margin-right: auto;">
+        <path d="M0,0 L0,1818 L1286,1818 L1286,0 Z " fill="#FFFFFF" stroke="none" />
+        <image x="0" y="0" width="1284" height="1819" xlink:href="assets/img/01.png" />
+        <text x="280" y="100" textLength="720" class="s1">Europeana Newspapers</text>
+
+        <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
+            <image x="64" y="69" width="199" height="284" xlink:href="assets/img/02.png" />
+        </a>
+        <a xlink:href="http://ec.europa.eu/cip/ict-psp/index_en.htm" target="_blank">
+            <image x="1038" y="69" width="182" height="119" xlink:href="assets/img/03.png" />
+        </a>
+        <text x="68" y="387" textLength="178" class="s7">Project fact sheet</text>
+
+        <text x="64" y="433" textLength="185" class="s4">Europeana Newspapers</text>
+
+        <text x="64" y="456" textLength="185" class="s4">is a project funded</text>
+
+        <text x="64" y="479" textLength="185" class="s4">by the European</text>
+
+        <text x="64" y="502" textLength="185" class="s4">Commission's ICT</text>
+
+        <text x="64" y="525" textLength="185" class="s4">Policy Support Pro-</text>
+
+        <text x="64" y="548" textLength="185" class="s4">gramme as part of the</text>
+
+        <text x="64" y="571" textLength="185" class="s4">Competitiveness and</text>
+
+        <text x="64" y="593" textLength="185" class="s4">Innovation frame-</text>
+
+        <text x="64" y="616" textLength="185" class="s4">work Programme</text>
+
+        <text x="64" y="639" textLength="185" class="s4">(CIP). The total pro-</text>
+
+        <text x="64" y="662" textLength="185" class="s4">ject budget compri-</text>
+
+        <text x="64" y="685" textLength="185" class="s4">sed €5.2 million, with</text>
+
+        <text x="64" y="708" textLength="185" class="s4">a max. EC contributi-</text>
+
+        <text x="64" y="731" textLength="185" class="s4">on of €4.1 million.</text>
+
+        <text x="64" y="754" textLength="185" class="s4">The project consorti-</text>
+
+        <text x="64" y="777" textLength="185" class="s4">um brought together</text>
+
+        <text x="64" y="800" textLength="185" class="s4">a total of 18 partners,</text>
+
+        <text x="64" y="823" textLength="185" class="s4">coordinated by the</text>
+
+        <a xlink:href="http://staatsbibliothek-berlin.de/" target="_blank">
+            <text x="64" y="846" textLength="185" class="s6">Berlin State Library</text>
+        </a>
+
+        <text x="64" y="868" textLength="185" class="s4">(Staatsbibliothek zu</text>
+
+        <text x="64" y="891" textLength="185" class="s4">Berlin). Over a dura-</text>
+
+        <text x="64" y="914" textLength="185" class="s4">tion of 38 months,</text>
+
+        <text x="64" y="937" textLength="185" class="s4">starting in February</text>
+
+        <text x="64" y="960" textLength="185" class="s4">2012 and running</text>
+
+        <text x="64" y="983" textLength="185" class="s4">until March 2015, the</text>
+
+        <text x="64" y="1006" textLength="155" class="s4">project strove for:</text>
+
+        <text x="64" y="1052" textLength="185" class="s4">1) Aggregating 18</text>
+
+        <text x="64" y="1075" textLength="185" class="s4">million of historic</text>
+
+        <text x="64" y="1098" textLength="185" class="s4">newspaper pages for</text>
+
+        <text x="64" y="1121" textLength="185" class="s4">Europeana, the main</text>
+
+        <text x="64" y="1143" textLength="185" class="s4">European platform</text>
+
+        <text x="64" y="1166" textLength="185" class="s4">for digital cultural</text>
+
+        <text x="64" y="1189" textLength="185" class="s4">heritage, and The</text>
+
+        <text x="64" y="1212" textLength="165" class="s4">European Library;</text>
+
+        <text x="64" y="1258" textLength="185" class="s4">2) Converting 10 mil-</text>
+
+        <text x="64" y="1281" textLength="185" class="s4">lion newspaper pages</text>
+
+        <text x="64" y="1304" textLength="185" class="s4">to searchable full text;</text>
+
+        <text x="64" y="1350" textLength="186" class="s4">3) Creating a special</text>
+
+        <text x="64" y="1373" textLength="185" class="s4">content viewer to im-</text>
+
+        <text x="64" y="1396" textLength="185" class="s4">prove online newspa-</text>
+
+        <text x="64" y="1418" textLength="125" class="s4">per browsing;</text>
+
+        <text x="64" y="1464" textLength="185" class="s4">4) Building tools that</text>
+
+        <text x="64" y="1487" textLength="185" class="s4">will allow professio-</text>
+
+        <text x="64" y="1510" textLength="185" class="s4">nals to better assess the</text>
+
+        <text x="64" y="1533" textLength="185" class="s4">quality of newspaper</text>
+
+        <text x="64" y="1556" textLength="100" class="s4">digitisation;</text>
+
+        <text x="64" y="1602" textLength="185" class="s4">5) Raising awareness</text>
+
+        <text x="64" y="1625" textLength="185" class="s4">and fostering know-</text>
+
+        <text x="64" y="1648" textLength="185" class="s4">ledge exchange through</text>
+
+        <text x="64" y="1671" textLength="185" class="s4">workshops and Infor-</text>
+
+        <text x="64" y="1694" textLength="125" class="s4">mation Days.</text>
+
+        <text x="1078" y="351" textLength="87" class="s7">Free and</text>
+
+        <text x="1057" y="373" textLength="132" class="s7">Open Source</text>
+
+        <text x="1050" y="396" textLength="150" class="s7">Software Tools</text>
+
+        <text x="1046" y="419" textLength="159" class="s7">for Newspapers</text>
+
+        <text x="1038" y="465" textLength="176" class="s4">The Europeana</text>
+
+        <text x="1038" y="488" textLength="176" class="s4">Newspapers project</text>
+
+        <text x="1038" y="511" textLength="176" class="s4">has developed a</text>
+
+        <text x="1038" y="534" textLength="176" class="s4">number of free and</text>
+
+        <text x="1038" y="557" textLength="176" class="s4">open source softwa-</text>
+
+        <text x="1038" y="580" textLength="176" class="s4">re tools. These tools</text>
+
+        <text x="1038" y="603" textLength="176" class="s4">can help libraries</text>
+
+        <text x="1038" y="626" textLength="176" class="s4">and other institu-</text>
+
+        <text x="1038" y="648" textLength="176" class="s4">tions to refine their</text>
+
+        <text x="1038" y="671" textLength="176" class="s4">digitised historical</text>
+
+        <text x="1038" y="694" textLength="176" class="s4">newspapers and to</text>
+
+        <text x="1038" y="717" textLength="176" class="s4">evaluate the quality</text>
+
+        <text x="1038" y="740" textLength="176" class="s4">of the refinement.</text>
+
+        <text x="1038" y="923" textLength="176" class="s4">All software tools</text>
+
+        <text x="1038" y="946" textLength="176" class="s4">produced are either</text>
+
+        <text x="1038" y="969" textLength="176" class="s4">free to download or</text>
+
+        <text x="1038" y="992" textLength="176" class="s4">have even been re-</text>
+
+        <text x="1038" y="1015" textLength="176" class="s4">leased as open sour-</text>
+
+        <text x="1038" y="1038" textLength="176" class="s4">ce projects. You can</text>
+
+        <text x="1038" y="1061" textLength="176" class="s4">get them from the</text>
+
+        <a xlink:href="http://www.europeana-newspapers.eu/materials/tools/" target="_blank">
+            <text x="1038" y="1084" textLength="58" class="s6">project</text>
+
+            <text x="1117" y="1084" textLength="61" class="s6">website</text>
+        </a>
+
+        <text x="1182" y="1084" textLength="32" class="s4">and</text>
+
+        <text x="1038" y="1107" textLength="80" class="s4">also from</text>
+
+        <a xlink:href="https://github.com/EuropeanaNewspapers" target="_blank">
+            <text x="1124" y="1107" textLength="62" class="s6">GitHub</text>
+        </a>
+
+        <text x="1184" y="1107" textLength="62" class="s4">.</text>
+
+        <text x="984" y="1247" textLength="204" class="s7">What is Europeana?</text>
+
+        <a xlink:href="http://www.europeana.eu/" target="_blank">
+            <text x="959" y="1287" textLength="92" class="s6">Europeana</text>
+        </a>
+
+        <text x="1056" y="1287" textLength="154" class="s4">is a multilingual</text>
+
+        <text x="959" y="1310" textLength="255" class="s4">internet portal and metadata</text>
+
+        <text x="959" y="1333" textLength="255" class="s4">aggregator that provides a single</text>
+
+        <text x="959" y="1356" textLength="255" class="s4">point of access to the Euro-</text>
+
+        <text x="959" y="1379" textLength="255" class="s4">pean digital cultural heritage.</text>
+
+        <text x="959" y="1402" textLength="255" class="s4">Europeana holds records for</text>
+
+        <text x="959" y="1425" textLength="255" class="s4">more than 44 million digital</text>
+
+        <text x="959" y="1448" textLength="255" class="s4">objects, contributed by more</text>
+
+        <text x="959" y="1470" textLength="255" class="s4">than 2,500 cultural heritage</text>
+
+        <text x="959" y="1493" textLength="255" class="s4">institutions all across Europe.</text>
+
+        <text x="959" y="1516" textLength="255" class="s4">Europeana is funded by</text>
+
+        <text x="959" y="1539" textLength="255" class="s4">grants from the European</text>
+
+        <text x="959" y="1562" textLength="255" class="s4">Commission with support</text>
+
+        <text x="959" y="1585" textLength="255" class="s4">from its Member States.</text>
+
+        <text x="959" y="1608" textLength="125" class="s4">As of 2015,</text>
+
+        <a xlink:href="http://pro.europeana.eu/" target="_blank">
+            <text x="1095" y="1608" textLength="120" class="s6">Europeana</text>
+        </a>
+
+        <text x="959" y="1631" textLength="255" class="s4">has become a Digital Services</text>
+
+        <text x="959" y="1654" textLength="255" class="s4">Infrastructure under the</text>
+
+        <a xlink:href="http://ec.europa.eu/digital-agenda/en/connecting-europe-facility" target="_blank">
+            <text x="959" y="1677" textLength="255" class="s6">Connecting Europe Facility</text>
+
+            <text x="959" y="1701" textLength="57" class="s6">(CEF).</text>
+        </a>
+
+        <text x="280" y="1286" textLength="306" class="s4">When newspapers are digitised,</text>
+
+        <text x="280" y="1308" textLength="306" class="s4">the resulting electronic versions are</text>
+
+        <text x="280" y="1331" textLength="306" class="s4">often just scanned images which do</text>
+
+        <text x="280" y="1354" textLength="306" class="s4">not yet allow users to search for</text>
+
+        <text x="280" y="1377" textLength="306" class="s4">specific articles or keywords within</text>
+
+        <text x="280" y="1400" textLength="306" class="s4">the text. Europeana Newspapers</text>
+
+        <text x="280" y="1423" textLength="306" class="s4">changed that dramatically, creating</text>
+
+        <text x="280" y="1446" textLength="306" class="s4">fully searchable electronic text ver-</text>
+
+        <text x="280" y="1469" textLength="306" class="s4">sions of nearly 12 million digital news-</text>
+
+        <text x="280" y="1492" textLength="306" class="s4">paper pages using Optical Character</text>
+
+        <text x="280" y="1515" textLength="306" class="s4">Recognition (OCR) technology.</text>
+
+        <text x="280" y="1675" textLength="306" class="s4">Search millions of newspaper pages</text>
+
+        <text x="280" y="1698" textLength="54" class="s4">on the</text>
+
+        <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
+            <text x="341" y="1698" textLength="252" class="s6">Europeana Newspapers Portal.</text>
+        </a>
+
+        <text x="623" y="1287" textLength="299" class="s4">The refinement of millions of his-</text>
+
+        <text x="623" y="1310" textLength="299" class="s4">torical newspaper pages from 14</text>
+
+        <text x="623" y="1332" textLength="299" class="s4">libraries within a timeframe of just</text>
+
+        <text x="623" y="1355" textLength="299" class="s4">three years can be described as a</text>
+
+        <text x="623" y="1378" textLength="299" class="s4">major feat. During this process</text>
+
+        <text x="623" y="1401" textLength="299" class="s4">decisions had to be taken that were</text>
+
+        <text x="623" y="1424" textLength="299" class="s4">of impact to the workflow and out-</text>
+
+        <text x="623" y="1447" textLength="299" class="s4">come of the refinement and natu-</text>
+
+        <text x="623" y="1470" textLength="299" class="s4">rally, a great deal was learned. To</text>
+
+        <text x="623" y="1493" textLength="299" class="s4">ensure that other institutions wan-</text>
+
+        <text x="623" y="1516" textLength="299" class="s4">ting to refine digitised newspapers</text>
+
+        <text x="623" y="1539" textLength="299" class="s4">for Europeana can use the know-</text>
+
+        <text x="623" y="1562" textLength="299" class="s4">ledge that was gathered, the related</text>
+
+        <text x="623" y="1585" textLength="299" class="s4">project findings can function as a</text>
+
+        <text x="623" y="1607" textLength="299" class="s4">baseline to begin new projects with</text>
+
+        <text x="623" y="1630" textLength="110" class="s4">a head start.</text>
+
+        <text x="623" y="1653" textLength="299" class="s4">All project documents and deliver-</text>
+
+        <text x="623" y="1676" textLength="299" class="s4">ables can be accessed on the</text>
+
+        <a xlink:href="http://www.europeana-newspapers.eu/public-materials/deliverables/" target="_blank">
+            <text x="623" y="1699" textLength="120" class="s6">project website</text>
+        </a>
+
+        <text x="743" y="1699" textLength="120" class="s4">.</text>
+
+        <text x="314" y="696" textLength="658" class="s3">20+ million newspaper pages available online</text>
+
+        <text x="1049" y="309" textLength="151" class="s5">31 July 2015</text>
+
+        <text x="317" y="1246" textLength="565" class="s2">12 million newspaper pages fully searchable</text>
+
+        <text x="275" y="734" textLength="218" class="s4">The 18 partners in the</text>
+
+        <text x="275" y="757" textLength="218" class="s4">Europeana Newspapers</text>
+
+        <text x="275" y="780" textLength="218" class="s4">project aimed to make</text>
+
+        <text x="275" y="803" textLength="218" class="s4">Europe's digital historical</text>
+
+        <text x="275" y="826" textLength="218" class="s4">newspapers more accessible</text>
+
+        <text x="275" y="871" textLength="218" class="s4">(1) by gathering and</text>
+
+        <text x="275" y="894" textLength="218" class="s4">providing metadata for</text>
+
+        <text x="275" y="917" textLength="218" class="s4">18 million pages</text>
+
+        <text x="275" y="940" textLength="218" class="s4">of digitised newspapers</text>
+
+        <text x="275" y="963" textLength="188" class="s4">via Europeana, and,</text>
+
+        <text x="275" y="1009" textLength="218" class="s4">(2) by using refinement</text>
+
+        <text x="275" y="1032" textLength="218" class="s4">to make the vast amount of</text>
+
+        <text x="275" y="1055" textLength="218" class="s4">10 million pages</text>
+
+        <text x="275" y="1078" textLength="146" class="s4">fully searchable.</text>
+
+        <text x="275" y="1124" textLength="218" class="s4">At the end of the project,</text>
+
+        <text x="275" y="1146" textLength="218" class="s4">all partners deem the results</text>
+
+        <text x="275" y="1169" textLength="218" class="s4">to be an overwhelming</text>
+
+        <text x="275" y="1192" textLength="66" class="s4">success.</text>
+
+        <text x="526" y="736" textLength="218" class="s4">The overall amount of</text>
+
+        <text x="526" y="758" textLength="218" class="s4">digitised newspapers that</text>
+
+        <text x="526" y="781" textLength="218" class="s4">can now be accessed online</text>
+
+        <text x="526" y="804" textLength="218" class="s4">has been increased dra-</text>
+
+        <text x="526" y="827" textLength="78" class="s4">matically:</text>
+
+        <text x="526" y="873" textLength="218" class="s4">(1) by ingestion of metadata</text>
+
+        <text x="526" y="896" textLength="218" class="s4">in Europeana for almost</text>
+
+        <a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
+            <text x="526" y="919" textLength="217" class="s6">21 million pages</text>
+        </a>
+
+        <text x="743" y="919" textLength="8" class="s4">,</text>
+
+        <text x="526" y="942" textLength="38" class="s4">and,</text>
+
+        <text x="526" y="965" textLength="218" class="s4">(2) by making close to</text>
+
+        <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
+            <text x="526" y="988" textLength="218" class="s6">12 million pages</text>
+        </a>
+
+        <text x="526" y="1010" textLength="198" class="s4">of them fully searchable.</text>
+
+        <text x="526" y="1033" textLength="218" class="s4">With this, Europeana</text>
+
+        <text x="526" y="1056" textLength="218" class="s4">Newspapers has not only</text>
+
+        <text x="526" y="1079" textLength="218" class="s4">produced the largest con-</text>
+
+        <text x="526" y="1102" textLength="218" class="s4">tribution of records to</text>
+
+        <text x="526" y="1125" textLength="218" class="s4">Europeana by a single pro-</text>
+
+        <text x="526" y="1148" textLength="218" class="s4">ject, but also contributed the</text>
+
+        <text x="526" y="1171" textLength="218" class="s4">largest ingest so far in the</text>
+
+        <a xlink:href="http://pro.europeana.eu/page/edm-documentation" target="_blank">
+            <text x="526" y="1194" textLength="215" class="s6">Europeana Data Model</text>
+        </a>
+
+        <text x="741" y="1194" textLength="3" class="s4">.</text>
+
+        <text x="778" y="736" textLength="231" class="s4">In terms of volume and</text>
+
+        <text x="778" y="758" textLength="231" class="s4">functionality, the Europeana</text>
+
+        <text x="778" y="781" textLength="231" class="s4">Newspapers portal is on</text>
+
+        <text x="778" y="804" textLength="231" class="s4">par with other major inter-</text>
+
+        <text x="778" y="827" textLength="231" class="s4">national newspapers digiti-</text>
+
+        <text x="778" y="850" textLength="231" class="s4">sation programmes such as</text>
+
+        <a xlink:href="http://chroniclingamerica.loc.gov/" target="_blank">
+            <text x="778" y="873" textLength="231" class="s6">Chronicling America</text>
+        </a>
+
+        <text x="778" y="896" textLength="231" class="s4">in the US, or the Australian</text>
+
+        <a xlink:href="http://trove.nla.gov.au/" target="_blank">
+            <text x="778" y="919" textLength="48" class="s6">Trove</text>
+        </a>
+
+        <text x="826" y="919" textLength="16" class="s4">.</text>
+
+        <text x="778" y="942" textLength="231" class="s4">The scale of Europeana</text>
+
+        <text x="778" y="965" textLength="231" class="s4">Newspapers is truly putting</text>
+
+        <text x="778" y="988" textLength="231" class="s4">Europe on the global</text>
+
+        <text x="778" y="1011" textLength="231" class="s4">map of leading providers</text>
+
+        <text x="778" y="1033" textLength="231" class="s4">of digitised newspapers.</text>
+
+        <text x="778" y="1056" textLength="231" class="s4">For a detailed breakdown</text>
+
+        <text x="778" y="1079" textLength="231" class="s4">of statistics regarding the</text>
+
+        <text x="778" y="1102" textLength="231" class="s4">total number of pages and</text>
+
+        <text x="778" y="1125" textLength="231" class="s4">issues processed and inge-</text>
+
+        <text x="778" y="1148" textLength="231" class="s4">sted to Europeana by the</text>
+
+        <text x="778" y="1171" textLength="231" class="s4">project, please see the</text>
+
+        <text x="778" y="1194" textLength="231" class="s4">Facts &amp; Figures on page 3.</text>
+
+        <a xlink:href="http://ec.europa.eu/" target="_blank">
+            <image x="1055" y="184" width="137" height="97" xlink:href="assets/img/04.png" />
+        </a>
+        <text x="1146" y="1793" textLength="79" class="s5">Page 1</text>
+
+        <text x="483" y="152" textLength="330" class="s5">Special Issue - Final Report</text>
+
+        <text x="267" y="181" textLength="337" class="s4">The Europeana Newspapers project (</text>
+
+        <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
+            <text x="604" y="181" textLength="262" class="s6">www.europeana-newspapers.eu</text>
+        </a>
+
+        <text x="867" y="181" textLength="165" class="s4">) is an EU-funded</text>
+
+        <text x="267" y="204" textLength="286" class="s4">Best Practice Network to make</text>
+
+        <text x="576" y="204" textLength="445" class="s4">European digital historical newspapers available via</text>
+
+        <text x="267" y="227" textLength="107" class="s4">Europeana (</text>
+
+        <a xlink:href="http://www.europeana.eu/" target="_blank">
+            <text x="374" y="227" textLength="159" class="s6">www.europeana.eu</text>
+        </a>
+
+        <text x="534" y="227" textLength="249" class="s4">) &amp; The European Library (</text>
+
+        <a xlink:href="http://www.theeuropeanlibrary.org/" target="_blank">
+            <text x="783" y="227" textLength="237" class="s6">www.theeuropeanlibrary.org</text>
+        </a>
+
+        <text x="1021" y="227" textLength="11" class="s4">).</text>
+
+        <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
+            <image x="337" y="1525" width="192" height="128" xlink:href="assets/img/05.png" />
+        </a>
+        <a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
+            <image x="272" y="250" width="746" height="391" xlink:href="assets/img/06.png" />
+        </a>
+        <a xlink:href="http://www.europeana-newspapers.eu/public-materials/tools/" target="_blank">
+            <image x="1038" y="774" width="177" height="118" xlink:href="assets/img/07.png" />
+        </a>
+        <a xlink:href="https://github.com/EuropeanaNewspapers" target="_blank">
+            <image x="1038" y="1120" width="177" height="68" xlink:href="assets/img/24.png" />
+        </a>
+        <path d="M0,1818 L0,0 L1286,0 L1286,1818 z " fill="none" stroke-width="1.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000" />
+        <title>Europeana Newspapers: Final Report, Page 1</title>
+    </svg>
