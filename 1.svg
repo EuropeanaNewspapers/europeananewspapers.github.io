@@ -240,7 +240,7 @@
         <text x="778" y="1125" textLength="231" class="s4">issues processed and inge-</text>
         <text x="778" y="1148" textLength="231" class="s4">sted to Europeana by the</text>
         <text x="778" y="1171" textLength="231" class="s4">project, please see the</text>
-        <text x="778" y="1194" textLength="231" class="s4">Facts &amp; Figures on page 3.</text>
+        <text x="778" y="1194" textLength="231" class="s4">Facts &#38; Figures on page 3.</text>
         <a xlink:href="http://ec.europa.eu/" target="_blank">
             <image x="1055" y="184" width="137" height="97" xlink:href="assets/img/04.png" />
         </a>
@@ -257,7 +257,7 @@
         <a xlink:href="http://www.europeana.eu/" target="_blank">
             <text x="374" y="227" textLength="159" class="s6">www.europeana.eu</text>
         </a>
-        <text x="534" y="227" textLength="249" class="s4">) &amp; The European Library (</text>
+        <text x="534" y="227" textLength="249" class="s4">) &#38; The European Library (</text>
         <a xlink:href="http://www.theeuropeanlibrary.org/" target="_blank">
             <text x="783" y="227" textLength="237" class="s6">www.theeuropeanlibrary.org</text>
         </a>

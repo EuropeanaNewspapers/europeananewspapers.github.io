@@ -158,14 +158,14 @@
         <text x="676" y="654" textLength="344" class="s4">features such as full text search, search</text>
         <text x="676" y="677" textLength="344" class="s4">by collection holder, country, date of</text>
         <text x="676" y="700" textLength="344" class="s4">publication or newspaper title. A docu-</text>
-        <text x="676" y="723" textLength="344" class="s4">ment “Europeana Newspapers Browser</text>
-        <text x="676" y="746" textLength="344" class="s4">Options” was developed and distributed</text>
+        <text x="676" y="723" textLength="344" class="s4">ment &#8220;Europeana Newspapers Browser</text>
+        <text x="676" y="746" textLength="344" class="s4">Options&#8221; was developed and distributed</text>
         <text x="676" y="769" textLength="344" class="s4">which gathered information on how</text>
         <text x="676" y="792" textLength="344" class="s4">content providers in the project wanted</text>
         <text x="676" y="815" textLength="344" class="s4">to make their data available (images plus</text>
         <text x="676" y="838" textLength="344" class="s4">full-texts, snippets etc.). Based on this,</text>
         <text x="676" y="861" textLength="344" class="s4">an early wireframe for the newspaper</text>
-        <text x="676" y="884" textLength="344" class="s4">search &amp; browse interface was conceived</text>
+        <text x="676" y="884" textLength="344" class="s4">search &#38; browse interface was conceived</text>
         <text x="676" y="907" textLength="344" class="s4">and a first prototype was implemented.</text>
         <text x="676" y="1113" textLength="344" class="s4">After a first round of informal testing</text>
         <text x="676" y="1136" textLength="344" class="s4">with project participants, usability</text>
@@ -217,7 +217,7 @@
         <a xlink:href="http://www.europeana.eu/" target="_blank">
             <text x="374" y="227" textLength="159" class="s6">www.europeana.eu</text>
         </a>
-        <text x="534" y="227" textLength="249" class="s4">) &amp; The European Library (</text>
+        <text x="534" y="227" textLength="249" class="s4">) &#38; The European Library (</text>
         <a xlink:href="http://www.theeuropeanlibrary.org/" target="_blank">
             <text x="783" y="227" textLength="237" class="s6">www.theeuropeanlibrary.org</text>
         </a>
