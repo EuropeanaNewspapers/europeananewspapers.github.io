@@ -68,7 +68,7 @@ L0,1818
 L1286,1818
 L1286,0 Z " 
 fill="#FFFFFF" stroke="none" />
-<image x="0" y="0" width="1284" height="1819" xlink:href="assets/img/1.png" />
+<image x="0" y="0" width="1284" height="1819" xlink:href="assets/img/01.png" />
 <text 
 x="280" 
 y="100" 
@@ -77,9 +77,9 @@ class="s1_1"
 >Europeana Newspapers</text>
 
 <a xlink:href="http://www.europeana-newspapers.eu/" target="_blank">
-<image x="64" y="69" width="199" height="284" xlink:href="assets/img/2.png" /></a>
+<image x="64" y="69" width="199" height="284" xlink:href="assets/img/02.png" /></a>
 <a xlink:href="http://ec.europa.eu/cip/ict-psp/index_en.htm" target="_blank">
-<image x="1038" y="69" width="182" height="119" xlink:href="assets/img/3.png" /></a>
+<image x="1038" y="69" width="182" height="119" xlink:href="assets/img/03.png" /></a>
 <text 
 x="68" 
 y="387" 
@@ -1528,7 +1528,7 @@ class="s3_1"
 >Facts &amp; Figures on page 3.</text>
 
 <a xlink:href="http://ec.europa.eu/" target="_blank">
-<image x="1055" y="184" width="137" height="97" xlink:href="assets/img/4.png" /></a>
+<image x="1055" y="184" width="137" height="97" xlink:href="assets/img/04.png" /></a>
 <text 
 x="1146" 
 y="1793" 
@@ -1620,11 +1620,11 @@ class="s3_1"
 >).</text>
 
 <a xlink:href="http://www.theeuropeanlibrary.org/tel4/newspapers" target="_blank">
-<image x="337" y="1525" width="192" height="128" xlink:href="assets/img/5.png" /></a>
+<image x="337" y="1525" width="192" height="128" xlink:href="assets/img/05.png" /></a>
 <a xlink:href="http://europeana.eu/portal/search.html?query=europeana_collectionName%3A92*ewspapers*" target="_blank">
-<image x="272" y="250" width="746" height="391" xlink:href="assets/img/6.png" /></a>
+<image x="272" y="250" width="746" height="391" xlink:href="assets/img/06.png" /></a>
 <a xlink:href="http://www.europeana-newspapers.eu/public-materials/tools/" target="_blank">
-<image x="1038" y="774" width="177" height="118" xlink:href="assets/img/7.png" /></a>
+<image x="1038" y="774" width="177" height="118" xlink:href="assets/img/07.png" /></a>
 <a xlink:href="https://github.com/EuropeanaNewspapers" target="_blank">
 <image x="1038" y="1120" width="177" height="68" xlink:href="assets/img/24.png" /></a>
 <path d="M0,1818
