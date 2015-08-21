@@ -65,7 +65,7 @@
         <text x="64" y="1625" textLength="185" class="s4">and fostering know-</text>
         <text x="64" y="1648" textLength="185" class="s4">ledge exchange through</text>
         <text x="64" y="1671" textLength="185" class="s4">workshops and Infor-</text>
-        <text x="64" y="1694" textLength="125" class="s4">mation Days.</text>
+        <text x="64" y="1694" textLength="120" class="s4">mation Days.</text>
         <text x="1078" y="351" textLength="87" class="s7">Free and</text>
         <text x="1057" y="373" textLength="132" class="s7">Open Source</text>
         <text x="1050" y="396" textLength="150" class="s7">Software Tools</text>
@@ -186,7 +186,7 @@
         <text x="275" y="1124" textLength="218" class="s4">At the end of the project,</text>
         <text x="275" y="1146" textLength="218" class="s4">all partners deem the results</text>
         <text x="275" y="1169" textLength="218" class="s4">to be an overwhelming</text>
-        <text x="275" y="1192" textLength="66" class="s4">success.</text>
+        <text x="275" y="1192" textLength="68" class="s4">success.</text>
         <text x="526" y="736" textLength="218" class="s4">The overall amount of</text>
         <text x="526" y="758" textLength="218" class="s4">digitised newspapers that</text>
         <text x="526" y="781" textLength="218" class="s4">can now be accessed online</text>
@@ -240,7 +240,7 @@
         <text x="778" y="1125" textLength="231" class="s4">issues processed and inge-</text>
         <text x="778" y="1148" textLength="231" class="s4">sted to Europeana by the</text>
         <text x="778" y="1171" textLength="231" class="s4">project, please see the</text>
-        <text x="778" y="1194" textLength="231" class="s4">Facts &#38; Figures on page 3.</text>
+        <text x="778" y="1194" textLength="231" class="s4">facts &#38; figures on page 3.</text>
         <a xlink:href="http://ec.europa.eu/" target="_blank">
             <image x="1055" y="184" width="137" height="97" xlink:href="assets/img/04.png" />
         </a>
